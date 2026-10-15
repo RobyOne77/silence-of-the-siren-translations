@@ -10,7 +10,7 @@
         <LocalizedStrings>
             <GameDBLocalizedString><LocID>CONTAINS_DLC_CONTENT</LocID>                    <Text>Requires DLC content:</Text></GameDBLocalizedString>
             <GameDBLocalizedString><LocID>NOT_INSTALLED</LocID>                           <Text>(Not installed)</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>DLC_BEASTMASTERS_ENABLED</LocID>                <Text>Xenauri Riders</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>DLC_BEASTMASTERS_ENABLED</LocID>                <Text>Cavalieri di Xenauri</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString><LocID>EDITOR_VALIDATION_DLC</LocID>                   <Text>The map has no DLC-specific content</Text></GameDBLocalizedString>
             <GameDBLocalizedString><LocID>EDITOR_VALIDATION_DLC_CONTENT</LocID>           <Text>The map will need this DLC to be playable:</Text></GameDBLocalizedString>
@@ -25,11 +25,11 @@
             <GameDBLocalizedString><LocID>OUTLINES_LEGEND_NOT_INTERACTIVE</LocID>         <Text>Your own objects, used objects or revisitable objects that are currently being replenished</Text></GameDBLocalizedString>
             <GameDBLocalizedString><LocID>OUTLINES_LEGEND_COMMANDER</LocID>               <Text>All highlights are colored according to your active commander</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER</LocID>                     <Text>Automation</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_GO_TO</LocID>               <Text>Go to...</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_CLEAR</LocID>               <Text>Clear</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_REPEAT</LocID>              <Text>Repeat</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_RUN_END_TURN</LocID>        <Text>Run all at end of turn</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER</LocID>                     <Text>Automazione</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_GO_TO</LocID>               <Text>Vai a...</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_CLEAR</LocID>               <Text>Cancella</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_REPEAT</LocID>              <Text>Ripeti</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>HERO_ACTION_PLANNER_RUN_END_TURN</LocID>        <Text>Esegui tutto alla fine del turno</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString><LocID>OPEN_DIALOG</LocID>                             <Text>Open Dialog</Text></GameDBLocalizedString>
             <GameDBLocalizedString><LocID>GARRISON_UNITS</LocID>                          <Text>Garrison Units</Text></GameDBLocalizedString>

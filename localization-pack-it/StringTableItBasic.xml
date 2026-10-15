@@ -12,7 +12,7 @@
             <GameDBLocalizedString>         <LocID>RESOURCE_A</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_LIMERITE>Limerite</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>RESOURCE_B</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_ALLOYS>Leghe</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>RESOURCE_C</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_BIOMASS>Biomasse</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>RESOURCE_D</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Radianti</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RESOURCE_D</LocID>                                               <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Radiant</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>RESOURCE_EXPLORATION</LocID>                                     <Text><![CDATA[<color=SOTS_COLOR_FUSION_CORE>Nuclei di fusione</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>RESOURCE_CASH</LocID>                                            <Text><![CDATA[<color=SOTS_COLOR_GOLD>Monete Aura</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>RESOURCE_MOVEMENT_POINTS</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Punti movimento</color>]]></Text>  </GameDBLocalizedString>

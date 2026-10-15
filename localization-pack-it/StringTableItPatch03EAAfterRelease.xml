@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -117,23 +117,23 @@
             
             <GameDBLocalizedString>         <LocID>EDITOR_PROPERTIES_BASE_FACTION</LocID>                               <Text>Change faction</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_CRUSADERS_RENEWED_SPIRIT</LocID>                          <Text>Renewed Spirit</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_CRUSADERS_RENEWED_SPIRIT_DESCRIPTION</LocID>              <Text>Special skill of the Children of the Source.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MOVEMENT_REFILLED_AFTER_VICTORY</LocID>                 <Text><![CDATA[Victory in battle restores <color=SOTS_COLOR_MOVEMENT>{1} Movement Points</color>.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_CRUSADERS_RENEWED_SPIRIT</LocID>                          <Text>Spirito Rinnovato</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_CRUSADERS_RENEWED_SPIRIT_DESCRIPTION</LocID>              <Text>Competenza speciale dei Figli della Fonte.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MOVEMENT_REFILLED_AFTER_VICTORY</LocID>                 <Text><![CDATA[La vittoria in battaglia ripristina <color=SOTS_COLOR_MOVEMENT>{1} Punti movimento</color>.]]></Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>HERO_SKILL_RAIDEN</LocID>                                            <Text>Raiden</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_RAIDEN_DESCRIPTION</LocID>                                <Text><![CDATA[Increases commander <color=SOTS_COLOR_ENERGY>Energy pool</color> on each level. Also raises the effect of Recharge cell consumable.]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENERGY_POOL_INCREASE</LocID>                            <Text><![CDATA[Increases commander <color=SOTS_COLOR_ENERGY>Energy pool</color> by <color=SOTS_COLOR_GOLD>{1}%</color>!]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_RECHARGE_CELL_BONUS</LocID>                             <Text><![CDATA[Raises the effect of <color=SOTS_COLOR_ENERGY>Recharge cell consumable</color> by <color=SOTS_COLOR_GOLD>{1}%</color>!]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_RAIDEN_DESCRIPTION</LocID>                                <Text><![CDATA[Aumenta la <color=SOTS_COLOR_ENERGY>riserva di energia</color> del comandante ad ogni livello. Inoltre, potenzia l'effetto del consumabile “Cella di ricarica”.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENERGY_POOL_INCREASE</LocID>                            <Text><![CDATA[Aumenta la <color=SOTS_COLOR_ENERGY>riserva di energia</color> del comandante del <color=SOTS_COLOR_GOLD>{1}%</color>!]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_RECHARGE_CELL_BONUS</LocID>                             <Text><![CDATA[Aumenta l'effetto del <color=SOTS_COLOR_ENERGY>consumabile “Ricarica cella”</color> del <color=SOTS_COLOR_GOLD>{1}%</color>!]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_MOLES_BLOODLUST</LocID>                                   <Text>Bloodlust</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_MOLES_BLOODLUST_DESCRIPTION</LocID>                       <Text>Special skill of Fossorian commanders.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_CHANCE_TO_MOVE_AGAIN_AFTER_A_KILL</LocID>               <Text><![CDATA[Grants your units a <color=SOTS_COLOR_GOLD>{1}% chance to move again</color> after killing an enemy unit stack.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_MOLES_BLOODLUST</LocID>                                   <Text>Brama di Sangue</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_MOLES_BLOODLUST_DESCRIPTION</LocID>                       <Text>Competenza speciale dei comandanti Fossoriani.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_CHANCE_TO_MOVE_AGAIN_AFTER_A_KILL</LocID>               <Text><![CDATA[Conferisce alle tue unità una probabilità del <color=SOTS_COLOR_GOLD>{1}% di muoversi nuovamente</color> dopo aver eliminato una pila di unità nemiche.]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_PIRATES_FIELD_REPAIR</LocID>                              <Text>Field repair</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_PIRATES_FIELD_REPAIR_DESCRIPTION</LocID>                  <Text>Special skill of Sovereign Fleet commanders.\nGives your units the ability to repair themselves by attacking similar enemies.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_DRAIN_LIFE_TECH_FROM_TECH</LocID>                       <Text><![CDATA[Grants your TECH units a <color=SOTS_COLOR_GOLD>{1}% life steal</color> from other TECH units.]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_DRAIN_LIFE_BIO_FROM_BIO</LocID>                         <Text><![CDATA[Grants your BIO units a <color=SOTS_COLOR_GOLD>{1}% life steal</color> from other BIO units.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_PIRATES_FIELD_REPAIR</LocID>                              <Text>Riparazione sul campo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_PIRATES_FIELD_REPAIR_DESCRIPTION</LocID>                  <Text>Competenza speciale dei comandanti della Flotta Sovrana.\nConferisce alle tue unità la capacità di ripararsi attaccando nemici simili.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_DRAIN_LIFE_TECH_FROM_TECH</LocID>                       <Text><![CDATA[Conferisce alle tue unità TECH un <color=SOTS_COLOR_GOLD>{1}% di vita rubata</color> dalle altre unità TECH.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_DRAIN_LIFE_BIO_FROM_BIO</LocID>                         <Text><![CDATA[Conferisce alle tue unità BIO un <color=SOTS_COLOR_GOLD>{1}% di vita rubata</color> dalle altre unità BIO.]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>MESSAGE_WALKING_RATIONS</LocID>                                      <Text>Thanks to Walking Rations, attacking {CombatActor} has repaired {Stack}, repairing {int} points.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_WALKING_RATIONS_REVIVED</LocID>                              <Text>Thanks to Walking Rations, attacking {CombatActor} has repaired {Stack}, repairing {int} points. {int} unit(s) got a second chance.</Text></GameDBLocalizedString>
@@ -153,16 +153,16 @@
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_WALKING_RATIONS_DESCRIPTION</LocID>              <Text>Turns enemy units into walking rations. Received damage heals attacker. Inflicts daze, so your lunch won't fight back.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_ENERGY_DRAIN_DESCRIPTION</LocID>                 <Text><![CDATA[Enemy commander loses half of their remaining <color=SOTS_COLOR_ENERGY>energy</color>.]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_FIELD_REPAIR</LocID>                                         <Text>Thanks to the Field Repair skill, attacking {CombatActor} has repaired {Stack}, repairing {int} points.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_FIELD_REPAIR_REVIVED</LocID>                                 <Text>Thanks to the Field Repair skill, attacking {CombatActor} has repaired {Stack}, repairing {int} points. {int} unit(s) got a second chance.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_FIELD_REPAIR</LocID>                                         <Text>Grazie alla competenza “Riparazione sul campo”, {CombatActor} attaccando, ha riparato {Stack}, recuperando {int} punti.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_FIELD_REPAIR_REVIVED</LocID>                                 <Text>Grazie alla competenza “Riparazione sul campo”, {CombatActor} attaccando, ha riparato {Stack}, recuperando {int} punti. {int} unità hanno avuto una seconda possibilità.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TRANSPORTER_PSYCHOSIS</LocID>                    <Text>Transporter psychosis.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TRANSPORTER_PSYCHOSIS_DESCRIPTION</LocID>        <Text>Yes, this medical condition is very real. Unit's damage, defense, movement and initiative are crippled.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_HERO_TRANSPORTER_PSYCHOSIS</LocID>                     <Text><![CDATA[<color=SOTS_COLOR_RED>Commander suffers from transporter psychosis caused by a glitch during recent transport. His army might endure negative side effects.</color>]]></Text></GameDBLocalizedString>            
             
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_WAR_HAWK</LocID>                                          <Text>War Hawk</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_WAR_HAWK_DESCRIPTION</LocID>                              <Text><![CDATA[Improves <color=SOTS_COLOR_MOVEMENT>movement</color> and <color=SOTS_COLOR_GOLD>intiative</color> of all units in this commander's army.]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_UNIT_MOVEMENT_BONUS</LocID>                             <Text><![CDATA[All units: <color=SOTS_COLOR_MOVEMENT>movement in combat +{1}</color>.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_WAR_HAWK</LocID>                                          <Text>Falco da guerra</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_WAR_HAWK_DESCRIPTION</LocID>                              <Text><![CDATA[Migliora <color=SOTS_COLOR_MOVEMENT>il movimento</color> e <color=SOTS_COLOR_GOLD>l'iniziativa</color> di tutte le unità dell'esercito di questo comandante.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_UNIT_MOVEMENT_BONUS</LocID>                             <Text><![CDATA[Tutte le unità: <color=SOTS_COLOR_MOVEMENT>movimento +{1}</color>.]]></Text></GameDBLocalizedString>
             
             <!-- Overrides from heroes string table -->
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_INITIATIVE_BOOST</LocID>                                <Text><![CDATA[<color=SOTS_COLOR_GOLD>Initiative Boost +{1}</color>]]></Text>  </GameDBLocalizedString>

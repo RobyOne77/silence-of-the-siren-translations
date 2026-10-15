@@ -9,7 +9,7 @@
 
         <LocalizedStrings>
 
-            <GameDBLocalizedString>         <LocID>FACTION_PIRATES</LocID>                   <Text>The Sovereign Fleet</Text></GameDBLocalizedString> 
+            <GameDBLocalizedString>         <LocID>FACTION_PIRATES</LocID>                   <Text>Flotta Sovrana</Text></GameDBLocalizedString> 
 
             <!--Unit names-->
             <GameDBLocalizedString>         <LocID>UNIT_PIRATES_PARROT</LocID>              <Text>Saw-ty</Text></GameDBLocalizedString>

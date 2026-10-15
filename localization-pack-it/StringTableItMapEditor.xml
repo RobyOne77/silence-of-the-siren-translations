@@ -96,7 +96,7 @@
             <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_PLAYER_CONTROL</LocID>                <Text>Control</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_PLAYER_AI_CONFIG</LocID>              <Text>AI config</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_PLAYER_BASERS</LocID>                 <Text>Bases</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_PLAYER_HEROES</LocID>                 <Text>Commanders</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_PLAYER_HEROES</LocID>                 <Text>Comandanti</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_PLAYER_RESOURCES</LocID>              <Text>Starting resources</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_PLAYER_RESOURCES_CUSTOM</LocID>       <Text>Custom</Text></GameDBLocalizedString>
 
@@ -236,7 +236,7 @@
             <GameDBLocalizedString>         <LocID>EDITOR_ENTITY_LIST_PLAYERS</LocID>                       <Text>Players:</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EDITOR_ENTITY_LIST_CATEGORIES</LocID>                    <Text>CATEGORIES:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EDITOR_ENTITY_LIST_HEROES</LocID>                        <Text>Commanders</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EDITOR_ENTITY_LIST_HEROES</LocID>                        <Text>Comandanti</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_ENTITY_LIST_NEUTRAL</LocID>                       <Text>Neutral</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_ENTITY_LIST_INTERACTIVE</LocID>                   <Text>Interactive</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_ENTITY_LIST_STATIC</LocID>                        <Text>Static</Text>  </GameDBLocalizedString>
@@ -247,7 +247,7 @@
 
             <GameDBLocalizedString>         <LocID>EDITOR_BUTTON_ICON_CATEGORY_ENVIRONMENT</LocID>          <Text>Environment</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_BUTTON_ICON_CATEGORY_OBJECTS</LocID>              <Text>Objects</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EDITOR_BUTTON_ICON_CATEGORY_HEROES</LocID>               <Text>Commanders</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EDITOR_BUTTON_ICON_CATEGORY_HEROES</LocID>               <Text>Comandanti</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_BUTTON_ICON_CATEGORY_MONSTERS</LocID>             <Text>Monsters</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_BUTTON_ICON_CATEGORY_TERRAIN</LocID>              <Text>Terrain</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_BUTTON_ICON_CATEGORY_ROADS</LocID>                <Text>Roads</Text></GameDBLocalizedString>

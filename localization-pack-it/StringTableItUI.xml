@@ -38,10 +38,10 @@
             <GameDBLocalizedString>         <LocID>HIRE_CUSTOM_NUMBER_UNITS_HEADING</LocID>                 <Text>Arruola un num personalizzato di unità</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_CUSTOM_NUMBER_UNITS_HEADING</LocID>                 <Text>Personalizza num unità da arruolare</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TAKE_CUSTOM_NUMBER_UNITS_HEADING</LocID>                 <Text>Personalizza num unità da prendere</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PICK_UP_CUSTOM_NUMBER_UNITS_HEADING</LocID>              <Text>Dividi gruppo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PICK_UP_CUSTOM_NUMBER_UNITS_HEADING</LocID>              <Text>Dividi pila</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DISMISS_UNIT</LocID>                                     <Text>Rilascia queste unità</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HIRE_HERO</LocID>                                        <Text>Arruola </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HIRE_RETREATED_HERO</LocID>                              <Text>Ri-arruola questo vigliaccio!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_HERO</LocID>                                        <Text>Ingaggia </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_RETREATED_HERO</LocID>                              <Text>Ri-ingaggia questo vigliaccio!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MOVE_HERO</LocID>                                        <Text>Continua muovere questo Comandante</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>NEXT_HERO</LocID>                                        <Text>Comandante successivo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_HERO_ACTION_SELECTOR</LocID>                     <Text>Apri menu azioni Comandante</Text>  </GameDBLocalizedString>
@@ -120,7 +120,7 @@
             <GameDBLocalizedString>         <LocID>KEYBOARD_EXPLORATION</LocID>                             <Text><![CDATA[Comandi tastiera predefiniti <b>mappa del mondo</b>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_CLOSE_PANELS</LocID>                            <Text>Chiudi finestra attiva, apri menu</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_MOVE_CAMERA</LocID>                             <Text>Muovi camera</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>KEYBOARD_HIGHLIGHT_INTERACTIVE_BUILDINGS</LocID>         <Text>Evidenzia oggetti e costruzioni interative</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_HIGHLIGHT_INTERACTIVE_BUILDINGS</LocID>         <Text>Evidenzia oggetti e costruzioni interattive</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_REOPEN_BUILDING_DIALOG</LocID>                  <Text>Riapri finestra costruzione appena visitata</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_NEXT_HERO</LocID>                               <Text>Passa al Comandante successivo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>KEYBOARD_CONFIRM_DIALOG</LocID>                          <Text>Conferma l'opzione predefinita nella finestra di dialogo attiva</Text>  </GameDBLocalizedString>
@@ -196,12 +196,12 @@
             <GameDBLocalizedString>         <LocID>MAP_OBJECT_BUY_UPGRADE</LocID>                           <Text>Compra</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT</LocID>                                        <Text>Scomparto equipaggiamento</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ARTIFACT</LocID>                                         <Text>Scomparto artefatto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ARTIFACT</LocID>                                         <Text>Scomparto manufatto</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>LEVEL_SHORT</LocID>                                      <Text>LVL</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_CARD_POSITIVE_EFFECTS</LocID>                       <Text>Potenziamenti</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_CARD_NEGATIVE_EFFECTS</LocID>                       <Text>Peggioramenti</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_CARD_NEGATIVE_EFFECTS</LocID>                       <Text>Indebolimenti</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EFFECT_COMBAT_END_LOC</LocID>                            <Text>Fino alla fine della prossima battaglia</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONSUMABLE_USAGE</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_GOLD>Consumabile utilizzato</color>: ]]></Text>  </GameDBLocalizedString>

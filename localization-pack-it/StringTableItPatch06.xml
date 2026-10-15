@@ -8,7 +8,7 @@
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>         <LocID>CAMPAIGN</LocID>                                                     <Text>Campaign</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CAMPAIGN</LocID>                                                     <Text>Campagne</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_TURRET_LORE_V2</LocID>                  <Text>Until a year ago, the role of autonomous turrets would be served by the Bright Ones. But, since the collapse of space travel, the UNSS warehouse managers became the easiest-to-bribe people in the whole Siren System. So, why keep wasting the Bright Ones when there's a cheaper alternative?</Text>  </GameDBLocalizedString>
 
@@ -35,14 +35,14 @@
             <GameDBLocalizedString>         <LocID>PLANET_ENVIRONMENT_PLANET_BIG</LocID>                                <Text>Big planet (6 phases, 150% units)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DAY_PART_NAME_OVERRIDE_DAY</LocID>                                   <Text>Day</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>DIFFICULTY_IRON_MOLE_MODE</LocID>                                    <Text>Iron mole mode</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIFFICULTY_IRON_MOLE_MODE_DESCRIPTION</LocID>                        <Text>- No reloads, no retry battle \n- No autosaves\n- No quicksave</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIFFICULTY_IRON_MOLE_MODE</LocID>                                    <Text>Modalità “Talpa di ferro”</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIFFICULTY_IRON_MOLE_MODE_DESCRIPTION</LocID>                        <Text>- No ricarica\n- No riprova battaglie \n- No auto-salvataggio\n- No salvataggio-veloce</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>SAVE_AND_QUIT</LocID>                                                <Text>Save and quit</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SAVE_AND_QUIT_TO_MAIN_MENU</LocID>                                   <Text>Save and quit to menu</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>CAMPAIGN_LOCKED</LocID>                                              <Text>-LOCKED-</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMING_SOON</LocID>                                                  <Text>Coming soon!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMING_SOON</LocID>                                                  <Text>Prossimamente!</Text>  </GameDBLocalizedString>
             
             <!--"NEW" pickables-->
             <GameDBLocalizedString>         <LocID>ARTIFACT_SEER_DESCRIPTION_V2</LocID>                                 <Text><![CDATA[An artifact.\n<color=SOTS_COLOR_GOLD>Permanently</color> raises <color=SOTS_COLOR_GOLD>Exploration proficiency</color> attribute by <color=SOTS_COLOR_GOLD>1</color> each <color=SOTS_COLOR_GOLD>cycle</color>.]]></Text>  </GameDBLocalizedString>

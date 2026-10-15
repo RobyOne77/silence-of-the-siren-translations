@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-             <Name>Roberto Natta</Name>
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -58,7 +58,7 @@
             <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_EXPLORATION</LocID>                     <Text>Oggetti mappa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>INVENTORY_FILTER_ALL</LocID>                             <Text>Tutti gli oggetti</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>LEVEL_UP</LocID>                                         <Text>AUMENTO DI LIVELLO!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LEVEL_UP</LocID>                                         <Text>AUMENTA LIVELLO!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LEVEL_UP_ATTRIBUTE</LocID>                               <Text>Scegli un attributo da migliorare.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LEVEL_UP_SKILL</LocID>                                   <Text>Scegli una competenza da migliorare.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LEVEL_UP_NO_SKILL_AVAILABLE</LocID>                      <Text>Questo comandante non può apprendere altre competenze.</Text>  </GameDBLocalizedString>
@@ -94,7 +94,7 @@
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_PARK_HERO</LocID>                   <Text>Allestisci un accampamento e lascia che l'esercito si addestri.\n\nIl comandante otterrà un bonus difensivo all'inizio del suo prossimo turno e riceverà XP per ogni turno trascorso dall'esercito ad addestrarsi.\n\nNon verranno visualizzate finestre di dialogo relative alle azioni disponibili di questo comandante e il pulsante “comandante successivo” le salterà.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_UNPARK_HERO</LocID>                 <Text>Annulla l'addestramento e riattiva questo comandante.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>DISMISS_HERO</LocID>                                     <Text>Destituisci questo comandante!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DISMISS_HERO</LocID>                                     <Text>Congeda questo comandante!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_CURRENT_SKILLS</LocID>                           <Text>Attuali competenze</Text>  </GameDBLocalizedString>
 
             <!--Exploration skills-->

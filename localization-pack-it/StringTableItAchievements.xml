@@ -4,73 +4,73 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENTS_LIST</LocID>                               <Text>ACHIEVEMENTS</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIDDEN</LocID>                              <Text>Hidden achievement</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIDDEN_DESCRIPTION</LocID>                  <Text>Continue playing to unlock this achievement</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENTS_LIST</LocID>                               <Text>OBIETTIVI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIDDEN</LocID>                              <Text>Obiettivi nascosti</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_HIDDEN_DESCRIPTION</LocID>                  <Text>Continua a giocare per sboccare questo obiettivo</Text>  </GameDBLocalizedString>
 
             <!--EXPLORATION-->
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_TURN</LocID>                            <Text>So it begins</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_TURN_DESCRIPTION</LocID>                <Text>End turn for the first time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_MORE_TURNS</LocID>                      <Text>One more turn</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_MORE_TURNS_DESCRIPTION</LocID>          <Text>End turn for 2026th time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JUST_MY_LUCK</LocID>                        <Text>Just my luck</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JUST_MY_LUCK_DESCRIPTION</LocID>            <Text>Step into/Receive exploration hazard without any kind of protection.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_THAT_IS_NEW</LocID>                    <Text>Well, that is new!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_THAT_IS_NEW_DESCRIPTION</LocID>        <Text>Build your first buildable object.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ROBERTO_BUILDER</LocID>                     <Text>Roberto the Builder</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ROBERTO_BUILDER_DESCRIPTION</LocID>         <Text>Build 50 buildable objects.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WALKED_TILES</LocID>                        <Text>I will walk 50 000 tiles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WALKED_TILES_DESCRIPTION</LocID>            <Text>Walk 50 000 tiles (cumulative).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_XENOSLIME_DESTROYED</LocID>                 <Text>Yucky</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_XENOSLIME_DESTROYED_DESCRIPTION</LocID>     <Text>Destroy 20 Xenoslime obstacles.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SHUFFLE_COMMANDERS</LocID>                  <Text>Shuffle them Commanders</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SHUFFLE_COMMANDERS_DESCRIPTION</LocID>      <Text>Use the right panel or commander order in hero card to reorder commanders.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OHM_NOM</LocID>                             <Text>Ohm nom nom</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OHM_NOM_DESCRIPTION</LocID>                 <Text>Use 150 consumable items (cumulative).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_GUARDED</LocID>                        <Text>Well Guarded</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_GUARDED_DESCRIPTION</LocID>            <Text>Build 15 defensive upgrades for mines.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ORBIT</LocID>                               <Text>Where no mole has gone before</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ORBIT_DESCRIPTION</LocID>                   <Text>Reach orbit for the first time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DANGEROUS_OBJECT_EFFECT</LocID>             <Text>Who knew this could happen</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DANGEROUS_OBJECT_EFFECT_DESCRIPTION</LocID> <Text>Receive status effect from changeable interactive object during "its" turn.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OPENED_CHESTS</LocID>                       <Text>Open sesame</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OPENED_CHESTS_DESCRIPTION</LocID>           <Text>Open 500 chests (cumulative).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_ITEM</LocID>                      <Text>Hoarder</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_ITEM_DESCRIPTION</LocID>          <Text>Pick up 1500 pieces of equipment (cumulative).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_RESOURCE</LocID>                  <Text>I found it, its mine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_RESOURCE_DESCRIPTION</LocID>      <Text>Pick up 150 000 resources (every kind, cumulative).</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TELEPORTS</LocID>                           <Text>I do not hate teleports anymore</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TELEPORTS_DESCRIPTION</LocID>               <Text>Use a teleport 200 times.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PIECE_WAS_NEVER_OPTION</LocID>              <Text>Peace was never an option</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PIECE_WAS_NEVER_OPTION_DESCRIPTION</LocID>  <Text>Disable visitable interactive objects 10 times.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BROTHER_SCROOGE</LocID>                     <Text>Brother Scrooge</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BROTHER_SCROOGE_DESCRIPTION</LocID>         <Text>Have more than 150 000 aura coins.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_UPGRADED</LocID>                            <Text>Upgraded</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_UPGRADED_DESCRIPTION</LocID>                <Text>Upgrade 40 exploration buildings.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BRIDGES_ACTIVATED</LocID>                   <Text>You shall pass!!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BRIDGES_ACTIVATED_DESCRIPTION</LocID>       <Text>Activate 20 bridges.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_TURN</LocID>                            <Text>E così ha inizio</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_TURN_DESCRIPTION</LocID>                <Text>Termina un turno per la prima volta.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_MORE_TURNS</LocID>                      <Text>Ancora un turno</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_END_MORE_TURNS_DESCRIPTION</LocID>          <Text>Termina un turno per 2026ª volta.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JUST_MY_LUCK</LocID>                        <Text>La mia solita sfortuna!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_JUST_MY_LUCK_DESCRIPTION</LocID>            <Text>Esporsi/subire i rischi legati all'esplorazione senza alcun tipo di protezione.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_THAT_IS_NEW</LocID>                    <Text>Be’, questa non me l'aspettavo!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_THAT_IS_NEW_DESCRIPTION</LocID>        <Text>Assembla il tuo primo oggetto.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ROBERTO_BUILDER</LocID>                     <Text>Roberto il Costruttore</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ROBERTO_BUILDER_DESCRIPTION</LocID>         <Text>Assembla 50 oggetti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WALKED_TILES</LocID>                        <Text>Percorrerò 50 000 caselle</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WALKED_TILES_DESCRIPTION</LocID>            <Text>Percorri 50 000 caselle (cumulative).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_XENOSLIME_DESTROYED</LocID>                 <Text>Che schifo!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_XENOSLIME_DESTROYED_DESCRIPTION</LocID>     <Text>Distruggi 20 ostacoli di Xenoslime.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SHUFFLE_COMMANDERS</LocID>                  <Text>Mescola i comandanti</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_SHUFFLE_COMMANDERS_DESCRIPTION</LocID>      <Text>Usa il pannello di destra o l’ordine dei comandanti nella scheda dell’eroe per riorganizzare i comandanti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OHM_NOM</LocID>                             <Text>Gnam gnam</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OHM_NOM_DESCRIPTION</LocID>                 <Text>Usa 150 consumabili (cumulativo).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_GUARDED</LocID>                        <Text>Ben sorvegliato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_WELL_GUARDED_DESCRIPTION</LocID>            <Text>Costruisci 15 potenziamenti difensivi per le mine.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ORBIT</LocID>                               <Text>Dove nessun uomo è mai giunto prima</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ORBIT_DESCRIPTION</LocID>                   <Text>Raggiungere l’orbita per la prima volta.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DANGEROUS_OBJECT_EFFECT</LocID>             <Text>Chi lo avrebbe mai detto!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DANGEROUS_OBJECT_EFFECT_DESCRIPTION</LocID> <Text>Ricevere l’effetto di stato da un oggetto interattivo modificabile durante il 'suo' turno.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OPENED_CHESTS</LocID>                       <Text>Apriti sesamo!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_OPENED_CHESTS_DESCRIPTION</LocID>           <Text>Apri 500 contenitori (cumulativo).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_ITEM</LocID>                      <Text>Accumulatore compulsivo</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_ITEM_DESCRIPTION</LocID>          <Text>Raccogli 1500 pezzi di equipaggiamento (cumulativo).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_RESOURCE</LocID>                  <Text>L’ho trovato, è mio!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PICKED_UP_RESOURCE_DESCRIPTION</LocID>      <Text>Raccogli 150 000 risorse (qualsiasi, cumulativo).</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TELEPORTS</LocID>                           <Text>Non odio più i teletrasporti</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_TELEPORTS_DESCRIPTION</LocID>               <Text>Usa un teletrasporto 200 volte.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PIECE_WAS_NEVER_OPTION</LocID>              <Text>Non c’è mai stata pace</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_PIECE_WAS_NEVER_OPTION_DESCRIPTION</LocID>  <Text>Disattiva gli oggetti interattivi visitabili 10 volte.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BROTHER_SCROOGE</LocID>                     <Text>Fratello Scrooge</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BROTHER_SCROOGE_DESCRIPTION</LocID>         <Text>Ho più di 150 000 monete aura.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_UPGRADED</LocID>                            <Text>Migliorato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_UPGRADED_DESCRIPTION</LocID>                <Text>Migliora 40 edifici di esplorazione.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BRIDGES_ACTIVATED</LocID>                   <Text>Passerai!!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_BRIDGES_ACTIVATED_DESCRIPTION</LocID>       <Text>Attiva 20 ponti.</Text>  </GameDBLocalizedString>
             
             <!--HERO-->
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVE_ATTRIBUTE</LocID>                      <Text>Never skip leg day</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVE_ATTRIBUTE_DESCRIPTION</LocID>          <Text>Improve exploration proficiency attribute for the first time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMBAT_ATTRIBUTE</LocID>                    <Text>I feel stronger</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMBAT_ATTRIBUTE_DESCRIPTION</LocID>        <Text>Improve combat power attribute for the first time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ABILITY_ATTRIBUTE</LocID>                   <Text>I can do more magic now</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ABILITY_ATTRIBUTE_DESCRIPTION</LocID>       <Text>Improve ability strength attribute for the first time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FIRST_LEVEL_UP</LocID>                      <Text>One more level please!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FIRST_LEVEL_UP_DESCRIPTION</LocID>          <Text>Level up commander for the first time.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_NO_MORE_LEVELS</LocID>                      <Text>No more levels please!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_NO_MORE_LEVELS_DESCRIPTION</LocID>          <Text>Reach max level with one commander.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DISMISS_COMMANDER</LocID>                   <Text>You are dismissed</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DISMISS_COMMANDER_DESCRIPTION</LocID>       <Text>Dismiss 20 commanders.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_I_AM_UNSTOPPABLE</LocID>                    <Text>I am "Unstoppable"</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_I_AM_UNSTOPPABLE_DESCRIPTION</LocID>        <Text>Max all three attributes of one commander.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FULL_HOUSE</LocID>                          <Text>Full House</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FULL_HOUSE_DESCRIPTION</LocID>              <Text>Have the maximum number of commanders.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVE_ATTRIBUTE</LocID>                      <Text>Non saltare mai l’allenamento per le gambe</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVE_ATTRIBUTE_DESCRIPTION</LocID>          <Text>Migliora per la prima volta l'attributo “Competenza nell'esplorazione”.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMBAT_ATTRIBUTE</LocID>                    <Text>Mi sento più forte</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMBAT_ATTRIBUTE_DESCRIPTION</LocID>        <Text>Migliora per la prima volta l'attributo “Potenza di combattimento“.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ABILITY_ATTRIBUTE</LocID>                   <Text>Ora posso fare ancora più magie</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ABILITY_ATTRIBUTE_DESCRIPTION</LocID>       <Text>Aumentare per la prima volta l'attributo “Forza” dell'abilità.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FIRST_LEVEL_UP</LocID>                      <Text>Ancora un livello, per favore!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FIRST_LEVEL_UP_DESCRIPTION</LocID>          <Text>Sali di livello un comandante per la prima volta.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_NO_MORE_LEVELS</LocID>                      <Text>Basta con i livelli, per favore!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_NO_MORE_LEVELS_DESCRIPTION</LocID>          <Text>Raggiungi il livello massimo di un comandante.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DISMISS_COMMANDER</LocID>                   <Text>Potete andare</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_DISMISS_COMMANDER_DESCRIPTION</LocID>       <Text>Licenzia 20 comandanti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_I_AM_UNSTOPPABLE</LocID>                    <Text>Sono "Inarrestabile"</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_I_AM_UNSTOPPABLE_DESCRIPTION</LocID>        <Text>Massimizza tutti e tre gli attributi di un comandante.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FULL_HOUSE</LocID>                          <Text>Tutto esaurito</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FULL_HOUSE_DESCRIPTION</LocID>              <Text>Avere il numero massimo di comandanti.</Text>  </GameDBLocalizedString>
 
             <!--COMBAT-->
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_NO_SHAME</LocID>                            <Text>No shame in that</Text>  </GameDBLocalizedString>

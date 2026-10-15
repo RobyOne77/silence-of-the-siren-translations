@@ -150,7 +150,7 @@
             <!--Path is closed-->
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_CHOKEPOINTS</LocID>                      <Text>Blocked. And on purpose. Any attempt to blow it up could raise unwanted attention. </Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_FALSE_ENDING1</LocID>                    <Text>Later, near Furret and Muff's base, Commissar Snif is trying to establish a stable connection. The Supreme Leader has urgent orders. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_FALSE_ENDING1</LocID>                    <Text>Later, near Furret and Muff's base, Commissario Snif is trying to establish a stable connection. The Supreme Leader has urgent orders. </Text>  </GameDBLocalizedString>
 
         
                                             <!-- Sniff start - Supreme Leader-->
@@ -176,7 +176,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_SNIF_KALI_AF_KALI_1</LocID>              <Text>Spare me, please! I'll give you the tracker! Once they show up near any Sovereign fleet base, you will learn of it. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_SNIF_KALI_AF_SNIF_1</LocID>              <Text>I hope so. For your sake. </Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_END_TEXT</LocID>                         <Text>For the second time, our two 'heroes' have escaped. But is escape the right term? Are they heading towards a new life far from populated areas or will they become the pebble that starts an avalanche like the mysterious stranger suggested? One thing is certain. Commissar Snif is on their trail.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_END_TEXT</LocID>                         <Text>For the second time, our two 'heroes' have escaped. But is escape the right term? Are they heading towards a new life far from populated areas or will they become the pebble that starts an avalanche like the mysterious stranger suggested? One thing is certain. Commissario Snif is on their trail.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_MOLES_LVL2_END_TEXT_1</LocID>                       <Text>THE END FOSSORIAN CAMPAIGN MISSION 2</Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>

@@ -47,12 +47,12 @@
             
             <!--Annika_and_ratlings-->
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_RATLINGS_A1</LocID>                    <Text>All the radio towers around Gran Manny's colony have been destroyed. No one more than a couple of klicks away will hear any calls for help.  </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_RATLINGS_R1</LocID>                    <Text>Look, it's an ape! We must tell Sergeant Moltair! Bring the speak-speak machine, bring the wire!  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_RATLINGS_R1</LocID>                    <Text>Look, it's an ape! We must tell Sergente Moltair! Bring the speak-speak machine, bring the wire!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_RATLINGS_R2</LocID>                    <Text>Commander Moltair! An ape! Bringing trouble for sure! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_RATLINGS_MOLTAIR_1</LocID>             <Text>[RADIO STATIC] Of course! They called for reinforcements! That's why YOU watch the road, you demented half-breeds! I am heading your way. Slow down their advance, or face my wrath! </Text>  </GameDBLocalizedString>
 
             <!--Firs encounter with Moltair and Gran-->
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_MOLTAIR_GRAN_MOLTAIR_1</LocID>         <Text>You come too late, ape. This is Fossorian territory. Surrender now! I am Sergeant Moltair! I have spoken!  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_MOLTAIR_GRAN_MOLTAIR_1</LocID>         <Text>You come too late, ape. This is Fossorian territory. Surrender now! I am Sergente Moltair! I have spoken!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_MOLTAIR_GRAN_A_1</LocID>               <Text>Erm ... Who ... ?!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_MOLTAIR_GRAN_MOLTAIR_2</LocID>         <Text>Yes, THE MOLTAIR, the renowned commander of the Liberator division. Decorated hero of the Fossorian people ...     </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL1_MOLTAIR_GRAN_A_2</LocID>               <Text>I bet your uniform is so heavy with medals that you can barely walk! But no, it doesn't ring a bell ... so ... erm ... "The queen ... </Text>  </GameDBLocalizedString>

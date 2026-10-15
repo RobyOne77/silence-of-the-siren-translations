@@ -9,7 +9,7 @@
 
         <LocalizedStrings>
 
-            <GameDBLocalizedString>         <LocID>FACTION_EMPIRE</LocID>                    <Text>United Nations of the Solar System (UNSS)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>FACTION_EMPIRE</LocID>                    <Text>Nazioni Unite del Sistema Solare (UNSS)</Text></GameDBLocalizedString>
 
             <!--Unit names-->
             <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_SCOUT</LocID>                <Text>Volt</Text></GameDBLocalizedString>

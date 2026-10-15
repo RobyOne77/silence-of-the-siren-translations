@@ -208,7 +208,7 @@
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_OLD</LocID>                            <Text>Old</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_NEW</LocID>                            <Text>New</Text>  </GameDBLocalizedString>
             
-            <!--Commissar Snif alternative name-->
+            <!--Commissario Snif alternative name-->
             <GameDBLocalizedString>         <LocID>HERO_MOLE_2_ALTERNATIVE</LocID>                                     <Text>Colonel Snif</Text>  </GameDBLocalizedString>
 
         </LocalizedStrings>

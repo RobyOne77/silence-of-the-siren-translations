@@ -18,7 +18,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_GENERIC_FACULTY_SPECIALIZATION_DESCRIPTION_V2</LocID>        <Text>You can pay to research up to 5 extra abilities for this Academy here.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ACADEMY_HINT_BUY_ABILITY_V2</LocID>                                   <Text>You can pay to research up to 5 extra abilities for this Academy here. The price doubles each time.\nYou need a matching Faculty to be able to choose from level 2 and level 3 abilities.</Text>  </GameDBLocalizedString>
                                                                                                                         
-            <GameDBLocalizedString>         <LocID>ENCYCLOPEDIA_UNITS</LocID>                                            <Text>Units</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ENCYCLOPEDIA_UNITS</LocID>                                            <Text>Unità</Text>  </GameDBLocalizedString>
                                                                                                                         
             <GameDBLocalizedString>         <LocID>DIALOG_BIOMANCER</LocID>                                              <Text>The Swarm grows!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_BIOMANCER_TEXT</LocID>                                         <Text>Thanks to the Biomancer skill, some of the dead BIO units have returned and joined you as one of the two Fungor variants!</Text>  </GameDBLocalizedString>
@@ -28,9 +28,9 @@
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_BIOMANCER_REVIVE_UNITS_PERCENT</LocID>                   <Text>Friendly BIO units: {1}%</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_BIOMANCER_REVIVE_ENEMY_UNITS_PERCENT</LocID>             <Text>Enemy BIO units: {1}%</Text>  </GameDBLocalizedString>
                                                                                                                         
-            <GameDBLocalizedString>         <LocID>NEUTRAL_ARMY_EXTRA_UNITS_HEADING</LocID>                              <Text>Extra units!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NEUTRAL_ARMY_EXTRA_UNITS_HEADING</LocID>                              <Text>Unità extra!</Text>  </GameDBLocalizedString>
                                                                                                                         
-            <GameDBLocalizedString>         <LocID>ENCYCLOPEDIA</LocID>                                                  <Text>Encyclopedia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ENCYCLOPEDIA</LocID>                                                  <Text>Enciclopedia</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>UNIT_MORALE_DESCRIPTION</LocID>                                      <Text><![CDATA[This unit's effect on the morale of the whole army.\nStronger units have bigger influence.\n<color=SOTS_COLOR_GOLD>Positive</color> if the unit belongs to the same faction as its commander, <color=SOTS_COLOR_RED>negative</color> otherwise.]]></Text></GameDBLocalizedString>
             
@@ -43,11 +43,11 @@
             <GameDBLocalizedString>         <LocID>Direction_N</LocID>                                                  <Text>N</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>Direction_S</LocID>                                                  <Text>S</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>Direction_E</LocID>                                                  <Text>E</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>Direction_W</LocID>                                                  <Text>W</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>Direction_W</LocID>                                                  <Text>O</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>Direction_NE</LocID>                                                 <Text>NE</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>Direction_SE</LocID>                                                 <Text>SE</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>Direction_SW</LocID>                                                 <Text>SW</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>Direction_NW</LocID>                                                 <Text>NW</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>Direction_SW</LocID>                                                 <Text>SO</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>Direction_NW</LocID>                                                 <Text>NO</Text></GameDBLocalizedString>
             
             <!--SF campaign - alternative named for Relic, Hierarch-->                                                  
             <GameDBLocalizedString>         <LocID>HERO_MOLE_15_ALTERNATIVE</LocID>                                      <Text>False Mother</Text>  </GameDBLocalizedString>

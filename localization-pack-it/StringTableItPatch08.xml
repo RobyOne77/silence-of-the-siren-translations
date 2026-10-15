@@ -14,9 +14,9 @@
             <GameDBLocalizedString>         <LocID>VFX_PRESET_FOG_OF_WAR_DEATH</LocID>                         <Text>Unit death in Fog of War</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>REWARD_RESOURCE_COLLECTOR_LIMERITE</LocID>                  <Text>Limerite</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>REWARD_RESOURCE_COLLECTOR_ALLOYS</LocID>                    <Text>Alloy</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>REWARD_RESOURCE_COLLECTOR_BIOMASS</LocID>                   <Text>Biomass</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>REWARD_RESOURCE_COLLECTOR_RADIANT</LocID>                   <Text>Radiant</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>REWARD_RESOURCE_COLLECTOR_ALLOYS</LocID>                    <Text>Leghe</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>REWARD_RESOURCE_COLLECTOR_BIOMASS</LocID>                   <Text>Biomasse</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>REWARD_RESOURCE_COLLECTOR_RADIANT</LocID>                   <Text>Radianti</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EXPLORATION_OBJECT_BASE_SELECTION</LocID>                   <Text>Match faction of another base</Text></GameDBLocalizedString>
             

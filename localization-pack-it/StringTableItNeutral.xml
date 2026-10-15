@@ -9,7 +9,7 @@
 
         <LocalizedStrings>
 
-            <GameDBLocalizedString>         <LocID>FACTION_NEUTRAL</LocID>                            <Text>Neutral Faction</Text></GameDBLocalizedString> 
+            <GameDBLocalizedString>         <LocID>FACTION_NEUTRAL</LocID>                            <Text>Fazione neutrale</Text></GameDBLocalizedString> 
 
             <!--Unit names-->
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRYSTAL_LIZARD_DAY</LocID>           <Text>Crystal Lizard (day)</Text></GameDBLocalizedString>

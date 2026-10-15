@@ -9,7 +9,7 @@
 
         <LocalizedStrings>
 
-            <GameDBLocalizedString>         <LocID>FACTION_CRUSADERS</LocID>                    <Text>Children of the Source</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>FACTION_CRUSADERS</LocID>                    <Text>Figli della Fonte</Text></GameDBLocalizedString>
 
             <!--Unit names-->
             <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_MECHANIC</LocID>              <Text>Custodian Novice</Text></GameDBLocalizedString>

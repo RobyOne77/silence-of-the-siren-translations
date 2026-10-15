@@ -16,8 +16,8 @@
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_MOLES_LVL3_RECRUIT_HERO_1_SUB_DONE</LocID>        <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Rescue Holester's army - Finished</color>]]></Text>  </GameDBLocalizedString>
 
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_MOLES_LVL3_RECRUIT_HERO_2</LocID>                 <Text>Visit Major Skaurov with Admiral Muff</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_MOLES_LVL3_RECRUIT_HERO_2_DONE</LocID>            <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Visit Major Skaurov with Admiral Muff - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_MOLES_LVL3_RECRUIT_HERO_2</LocID>                 <Text>Visit Maggiore Skaurov with Admiral Muff</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_MOLES_LVL3_RECRUIT_HERO_2_DONE</LocID>            <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Visit Maggiore Skaurov with Admiral Muff - Finished</color>]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_MOLES_LVL3_RECRUIT_HERO_2_SUB</LocID>             <Text>Conquer the Sovereign Fleet bases</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_MOLES_LVL3_RECRUIT_HERO_2_SUB_DONE</LocID>        <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Conquer the Sovereign Fleet bases - Finished</color>]]></Text>  </GameDBLocalizedString>
