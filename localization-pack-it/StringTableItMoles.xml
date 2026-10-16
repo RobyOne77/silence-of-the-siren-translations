@@ -4,80 +4,80 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
             <GameDBLocalizedString>         <LocID>FACTION_MOLES</LocID>                               <Text>Fossoriani</Text></GameDBLocalizedString>
                                                                                                   
             <!--Unit names-->                                                                     
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT</LocID>                          <Text>Ratling Goon</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG</LocID>                      <Text>Ratling Gunner</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER</LocID>                       <Text>Meatboy</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG</LocID>                   <Text>Meatboy Shredder</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER</LocID>                           <Text>Hammerite</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG</LocID>                       <Text>Hammerite Honor Guard</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO</LocID>                          <Text>Earthshaker</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG</LocID>                      <Text>Earthshaker MK II</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PROJECTILE</LocID>               <Text>Earthshaker Torpedo</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM</LocID>                             <Text>Tunnel Worm</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG</LocID>                         <Text>Panzer Worm</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER</LocID>                      <Text>Commissar Cadet</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG</LocID>                  <Text>Seasoned Commissar</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH</LocID>                             <Text>Liberator</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG</LocID>                         <Text>Mass Liberator</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT</LocID>                          <Text>Scagnozzo Ratling</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG</LocID>                      <Text>Artigliere Ratling</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER</LocID>                       <Text>Macellaio</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG</LocID>                   <Text>Tritacarne</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER</LocID>                           <Text>Martellatore</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG</LocID>                       <Text>Guardia d'Onore dei Martellatori</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO</LocID>                          <Text>Scuotiterra</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG</LocID>                      <Text>Scuotiterra MK II</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PROJECTILE</LocID>               <Text>Siluro Scuotiterra</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM</LocID>                             <Text>Verme scavatore</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG</LocID>                         <Text>Verme corazzato</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER</LocID>                      <Text>Cadetto Commissario</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG</LocID>                  <Text>Commissario Esperto</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH</LocID>                             <Text>Liberatore</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG</LocID>                         <Text>Liberatore di Massa</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON</LocID>                 <Text>Blast Wave Cannon</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON_DESCRIPTION</LocID>     <Text><![CDATA[Shoots powerful blast wave once per round, dealing damage and pushing units away from epicenter. Very effective against structures.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON</LocID>                 <Text>Cannone a onda d'urto</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WAR_MACHINE_BLAST_WAVE_CANNON_DESCRIPTION</LocID>     <Text><![CDATA[Lancia una potente onda d'urto una volta per round, infliggendo danni e respingendo le unità dall'epicentro. Molto efficace contro gli edifici.]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_TORPEDO</LocID>                        <Text>Torpedo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_TORPEDO</LocID>                        <Text>Siluro</Text></GameDBLocalizedString>
 
             <!--Unit DESCRIPTIONs. These need to be in sync with descriptions of buildings that produce these units - see StringTableEnMolesBases.xml-->
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_DESCRIPTION</LocID>              <Text>Their pathetic equipment matches the command's trust in their fighting abilities. There is even an old military joke starting with a question: what is the most common organic fertilizer used by Fossorians to revitalize the battlefields? By now, you can surely guess the answer.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG_DESCRIPTION</LocID>          <Text>The Ratling Gunners are the best goods made in the slums and the true reason these halfbreeds are tolerated in the colony. The slums are soaked in violence, drugs, and a traditional voodoo cult mixed with twisted Fossorian propaganda. A week in such a hellhole is enough to make a warrior crazy good - or simply crazy.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_DESCRIPTION</LocID>              <Text>Il loro equipaggiamento ridicolo rispecchia la fiducia che il comando ripone nelle loro capacità di combattimento. C’è persino una vecchia battuta militare che inizia con una domanda: qual è il fertilizzante organico più comunemente usato dai Fossoriani per rivitalizzare i campi di battaglia? A questo punto, potrete sicuramente indovinare la risposta.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG_DESCRIPTION</LocID>          <Text>Gli Artiglieri Ratling sono il meglio che gli slum abbiano da offrire e il vero motivo per cui questi mezzosangue vengono tollerati nella colonia. Gli slum sono un brodo di violenza, droga e un culto voodoo tradizionale mescolato a una contorta propaganda fossoriana. Una settimana in un simile inferno basta a rendere un guerriero incredibilmente abile… o semplicemente pazzo.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_DESCRIPTION</LocID>           <Text>The Meatboy tradition originates from ancient warriors seeking glory in the blood-soaked sand of the arena. A lovely story that is naturally pure propaganda. The truth is buried in the underground research complex full of dead scientists and horribly mutated test subjects. Let's hope that "the truth" will never break out of its containment.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG_DESCRIPTION</LocID>       <Text>With the right training and a proper nutrition plan, everybody can become as buff as a Meatboy! Inspiring, right? What a skinny Fossorian doesn't see are the hundreds of needles pumping a cocktail of steroids into every muscle in the body. So long, weakness, farewell anxiety, goodbye testicles, see you ... wait, what?!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_DESCRIPTION</LocID>           <Text>La tradizione del Macellaio affonda le sue radici negli antichi guerrieri che cercavano la gloria sulla sabbia intrisa di sangue dell’arena. Una storia incantevole che, ovviamente, non è altro che pura propaganda. La verità giace sepolta nel complesso di ricerca sotterraneo, pieno di scienziati morti e cavie orribilmente mutate. Speriamo che “la verità” non riesca mai a sfuggire al suo confinamento.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_UPG_DESCRIPTION</LocID>       <Text>Con l'allenamento giusto e un programma alimentare adeguato, chiunque può diventare muscoloso come Macellaio! È davvero stimolante, vero? Quello che un fossoriano magrolino non vede sono le centinaia di aghi che iniettano un cocktail di steroidi in ogni muscolo del corpo. Addio debolezza, addio ansia, addio testicoli, ci vediamo... aspetta, cosa?!</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_DESCRIPTION</LocID>               <Text>Only one in ten adepts survive the extensive cybernetic augmentation required to operate Hammerite power armor. They believe that the armor "chose" them, but if you saw the chop shop's sanitary conditions, you'd suspect it was just their immune systems.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG_DESCRIPTION</LocID>           <Text>The rocket hammer is a mighty weapon. Hammerites spend years learning the martial "Way of the Hammer". But if they need fresh meat fast, it's a "Here is your new hammer; this button will ignite the thruster. Please clean the blood of the previous owner" crash course.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_DESCRIPTION</LocID>               <Text>Solo un adepto su dieci sopravvive al massiccio potenziamento cibernetico necessario per pilotare l’armatura potenziata dei Martellatori. Loro credono che l’armatura li abbia “scelti”, ma se vedessi le condizioni igieniche di quella officina clandestina, penseresti che sia stato solo merito del loro sistema immunitario.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_UPG_DESCRIPTION</LocID>           <Text>Il martello a razzo è un'arma formidabile. Gli Hammeriti impiegano anni per imparare la “Via del Martello”, un'arte marziale. Ma se hanno bisogno in fretta di carne fresca, il corso intensivo si riduce a: “Ecco il tuo nuovo martello; questo pulsante accende il propulsore. Per favore, pulisci via il sangue del precedente proprietario”.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_DESCRIPTION</LocID>              <Text>Earthshaker operators address each other as One-way fliers. If you wonder why, remember that they sit on a big pile of explosives, sloppily secured against spontaneous combustion. They are either exceptionally brave or just monumentally stupid. I guess it depends on how close you stand on launch day. </Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG_DESCRIPTION</LocID>          <Text>After many fruitless years, the Upgraded Earthshakers project caught the Supreme leader's attention. Once heads started rolling, the project team made a miraculous breakthrough. The mark-II design boosted only one thing. The firepower! </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_DESCRIPTION</LocID>              <Text>Gli operatori scuotiterra si chiamano tra loro “unità volanti monouso”. Se vi chiedete perché, ricordate che stanno seduti su un’enorme pila di esplosivi, fissati alla bell’e meglio per evitare la combustione spontanea. O sono eccezionalmente coraggiosi o semplicemente incredibilmente stupidi. Immagino dipenda da quanto vi troverete vicini a loro giorno del lancio. </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG_DESCRIPTION</LocID>          <Text>Dopo molti anni infruttuosi, il progetto “Potenziamento scuotiterra” ha attirato l’attenzione del Leader Supremo. Non appena sono iniziate le epurazioni, il team del progetto ha compiuto una svolta miracolosa. Il progetto Mark II ha potenziato una sola cosa: la potenza di fuoco! </Text></GameDBLocalizedString>
 
             <!-- Chris I've "edited" the next two but need clarification on the context. -->
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_DESCRIPTION</LocID>                 <Text>For Tunnel Worms, death doesn't mean the end of the service. No, no, we are not speaking about "The Urowormos", the afterlife nonsense taught by the high-as-a-kite witchdoctors in the Ratling Slums. We are discussing that weird kebab you've been served in the local cantina.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_DESCRIPTION</LocID>                 <Text>Per i vermi scavatori, la morte non significa la fine del servizio. No, no, non stiamo parlando degli “Urowormos”, quelle sciocchezze sull’aldilà predicate dagli stregoni strafatti nei baraccopoli dei Ratling. Stiamo parlando di quello strano kebab che ti hanno servito nella cantina del posto.</Text></GameDBLocalizedString>
             
             <!-- JB: Chris accidentally deleted this, so still TODO :) -->
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG_DESCRIPTION</LocID>             <Text>In prehistoric times the entire Fossorians race was nearly wiped out by these ferocious predators. Nowadays, Panzer worms are a product of careful breading and neuro-castration. Still, no sedation nor a cruel taming process can extinguish the carnivore instincts of these living weapons.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG_DESCRIPTION</LocID>             <Text>In epoca preistorica l'intera razza dei Fossoriani fu quasi completamente sterminata da questi feroci predatori. Oggi i vermi corazzati sono il risultato di un attento programma di allevamento e di neuro-castrazione. Tuttavia, né la sedazione né un crudele processo di addomesticamento riescono a sopprimere gli istinti carnivori di queste armi viventi.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_DESCRIPTION</LocID>          <Text>The commissars are so ideologically obsessed they can order a planetary bombardment on their own troops and call it a clear victory. But perhaps they get some credit for lowering the number of deserters, cowards, and loafers - by eliminating troops with those traits - another clear victory, ain't it? </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_DESCRIPTION</LocID>          <Text>I commissari sono talmente ossessionati dall'ideologia da poter ordinare un bombardamento planetario sulle proprie truppe e definirlo una vittoria schiacciante. Ma forse meritano un po' di riconoscimento per aver ridotto il numero di disertori, codardi e fannulloni – eliminando i soldati con quelle caratteristiche – un'altra vittoria schiacciante, no? </Text></GameDBLocalizedString>
             <!-- Chris I've "edited" the two above but need clarification on the context. -->       
-	        <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG_DESCRIPTION</LocID>      <Text>Once the commissar ranks are cleared (primarily by fragging) of the loud, suicidal charge types, surprised commanders discover that those remaining do a ton of heavy lifting in combat without the over-the-top heroics.</Text></GameDBLocalizedString>
+	        <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_UPG_DESCRIPTION</LocID>      <Text>Una volta che i ranghi dei commissari vengono ripuliti (soprattutto tramite l’eliminazione dei compagni) dai tipi chiassosi e inclini alle cariche suicidarie, i comandanti, colti di sorpresa, scoprono che quelli rimasti svolgono un lavoro enorme in combattimento senza ricorrere a gesta eroiche esagerate.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_DESCRIPTION</LocID>                 <Text>Everybody knows that the Supreme Leader himself designed the Liberator. Anyone else who tried to take credit for it vanished. (Along with their families and friends.) Even the goldfish in the team's office disappeared and the entire engineering wing was wrecked for good measure.  </Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG_DESCRIPTION</LocID>             <Text>The mechanics have a saying, "Every machine is a smoke machine if you operate it wrong enough". But this time, it is actually the other way around. The toxic gas produced by a Mass Liberator is something you WANT to have on the battlefield. Preferably in the lungs of your enemies, though.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_DESCRIPTION</LocID>                 <Text>Tutti sanno che è stato lo stesso Leader Supremo a progettare il Liberatore. Chiunque altro abbia cercato di attribuirsi il merito è scomparso (insieme alle proprie famiglie e ai propri amici). Persino il pesciolino rosso nell’ufficio del team è scomparso e, per buona misura, l’intera ala dedicata all’ingegneria è stata distrutta.  </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG_DESCRIPTION</LocID>             <Text>I meccanici hanno un detto: «Ogni macchina diventa una macchina del fumo se la si usa nel modo sbagliato». Ma questa volta è proprio il contrario. Il gas tossico prodotto da un Liberatore di Massa è quello che VOGLIO avere sul campo di battaglia. Preferibilmente nei polmoni dei miei nemici, però.</Text></GameDBLocalizedString>
             
             <!--Unit special abilities-->
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG_PASSIVE_INFO_DESCRIPTION</LocID> <Text>Gains a Ranged Attack.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MOLERAT_UPG_PASSIVE_INFO_DESCRIPTION</LocID> <Text>Ottiene un attacco a distanza.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Inflicts bleeding.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BLINDPILER_SPECIAL</LocID>             <Text>Turns into an uncontrollable beast that attacks the closest enemy twice.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Provoca sanguinamento.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BLINDPILER_SPECIAL</LocID>             <Text>Si trasforma in una bestia incontrollabile che attacca due volte il nemico più vicino.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Can attack up to 3 enemies standing next to each other.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_HAMMER_SPECIAL</LocID>                 <Text>A seismic wave that hits three rows of enemies.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_HAMMER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Può attaccare fino a 3 nemici che si trovano uno accanto all'altro.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_HAMMER_SPECIAL</LocID>                 <Text>Un'onda sismica che colpisce tre file di nemici.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PASSIVE_INFO_DESCRIPTION</LocID>      <Text><![CDATA[Shoots a torpedo which explodes at the end of the round, causing burning damage. <color=SOTS_COLOR_GOLD>No friendly fire. No ranged penalty</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG_PASSIVE_INFO_DESCRIPTION</LocID>  <Text><![CDATA[Shoots two torpedos which explode at the end of the round, causing burning damage. <color=SOTS_COLOR_GOLD>No friendly fire. No ranged penalty</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PASSIVE_INFO_DESCRIPTION</LocID>      <Text><![CDATA[Lancia un siluro che esplode alla fine del round, infliggendo danni da fuoco. <color=SOTS_COLOR_GOLD>Nessun fuoco amico. Nessuna penalità alla gittata</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_UPG_PASSIVE_INFO_DESCRIPTION</LocID>  <Text><![CDATA[Lancia due siluri che esplodono alla fine del round, infliggendo danni da fuoco. <color=SOTS_COLOR_GOLD>Nessun fuoco amico. Nessuna penalità alla gittata</color>.]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG_PASSIVE_INFO_DESCRIPTION</LocID>     <Text>Hides underground at the start of its turn. \nHas to re-emerge after three rounds.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_WORM_UPG_PASSIVE_INFO_DESCRIPTION</LocID>     <Text>All'inizio del proprio turno si nasconde sottoterra. \nRiemerge dopo tre round.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Can jump over obstacles.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BEASTMASTER_PASSIVE_INFO_DESCRIPTION</LocID>  <Text>Può saltare oltre gli ostacoli.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_PASSIVE_INFO_DESCRIPTION</LocID>        <Text>Can attack up to 3 enemies standing next to each other.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_PASSIVE_INFO_DESCRIPTION</LocID>        <Text>Può attaccare fino a 3 nemici che si trovano uno accanto all'altro.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BEASTMASTER_SPECIAL</LocID>            <Text>Throws an exploding spear.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL</LocID>                   <Text>Fires poisonous projectiles in all directions.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_BEASTMASTER_SPECIAL</LocID>            <Text>Lancia una lancia esplosiva.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL</LocID>                   <Text>Spara proiettili velenosi in tutte le direzioni.</Text>  </GameDBLocalizedString>
 
             <!--Commander's names-->
             <GameDBLocalizedString>         <LocID>HERO_MOLE_1</LocID>                                 <Text>Magg. Skaurov</Text>  </GameDBLocalizedString>

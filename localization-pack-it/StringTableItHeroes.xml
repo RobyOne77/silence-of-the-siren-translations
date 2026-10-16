@@ -88,7 +88,7 @@
             <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_ENGINEER</LocID>                  <Text>Ricarica Punti Energia.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_EXPLORER</LocID>                  <Text>Aumenta Punti Movimento.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BUILD</LocID>                       <Text>Costruisci struttura</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BUILD</LocID>                       <Text>Costruisci edificio</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BOOK</LocID>                        <Text>Libro Abilità</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_VISIT</LocID>                       <Text>Torna all'edificio in cui si trova attualmente il comandante\nScorciatoia predefinita: [barraspaziatrice]</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_PARK_HERO</LocID>                   <Text>Allestisci un accampamento e lascia che l'esercito si addestri.\n\nIl comandante otterrà un bonus difensivo all'inizio del suo prossimo turno e riceverà XP per ogni turno trascorso dall'esercito ad addestrarsi.\n\nNon verranno visualizzate finestre di dialogo relative alle azioni disponibili di questo comandante e il pulsante “comandante successivo” le salterà.</Text>  </GameDBLocalizedString>
