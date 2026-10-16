@@ -4,26 +4,26 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>        <LocID>FRIENDLY</LocID>                                                      <Text>Friendly</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>        <LocID>WILL_NOT_NEGOTIATE</LocID>                                            <Text>Will never negotiate</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>FRIENDLY</LocID>                                                      <Text>Amichevole</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>WILL_NOT_NEGOTIATE</LocID>                                            <Text>Non negozierò mai</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>        <LocID>ICON_UNIT_RESIST</LocID>                                              <Text>Resist</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>ICON_UNIT_RESIST</LocID>                                              <Text>Resistenza</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>        <LocID>OPTION_GRAPHICS_RESOLUTION_SCALE</LocID>                              <Text>Resolution scale (map)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>OPTION_GRAPHICS_RESOLUTION_SCALE</LocID>                              <Text>Scala di risoluzione (mappa)</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>        <LocID>HEADING_OBJECTIVES_CAMPAIGN</LocID>                                   <Text>What lies ahead:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>HEADING_OBJECTIVES_CAMPAIGN</LocID>                                   <Text>Cosa ci aspetta:</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>        <LocID>COOLDOWN</LocID>                                                      <Text>Cooldown</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>        <LocID>COOLDOWN_ROUNDS</LocID>                                               <Text>rounds</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>COOLDOWN</LocID>                                                      <Text>Tempo di ricarica</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>COOLDOWN_ROUNDS</LocID>                                               <Text>Turni</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>        <LocID>MAIN_MENU_EARLY_ACESS</LocID>                                         <Text>Thanks for playing the Early Access version of Heroes of Science and Fiction (or, previously, Silence of the Siren)! \n\nWe appreciate your support for the game before its full release and we hope you'll have a lot of fun with the included content. \n\nWe're looking forward to receiving your feedback and bug reports and we're working hard on improving the game based on the community input. \n\nLinks to the bug reporting section on the Steam forum and to our Discord are below.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>MAIN_MENU_EARLY_ACESS</LocID>                                         <Text>Grazie per aver provato la versione in accesso anticipato di Heroes of Science and Fiction (o, in precedenza, Silence of the Siren)! \n\nApprezziamo il vostro sostegno al gioco prima del suo rilascio completo e speriamo che vi divertiate un mondo con i contenuti inclusi. \n\nNon vediamo l'ora di ricevere i vostri commenti e le segnalazioni di problemi e stiamo lavorando sodo per migliorare il gioco sulla base dei suggerimenti della comunità. \n\nDi seguito trovate i link alla sezione dedicata alla segnalazione dei problemi sul forum di Steam e al nostro Discord.</Text>  </GameDBLocalizedString>
 
             <!--_______________MAP_BRIDGES_TOO_FAR__________________________-->
-            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_ID</LocID>                                        <Text>Bridges too far</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_ID</LocID>                                        <Text>Ponti troppo lontani</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_DESCRIPTION</LocID>                               <Text><![CDATA[The last two bridges connect the divided landscape; will the <b>Fossorians</b> or the <b>Children of the Source</b> find them first?]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_INTRO</LocID>                                     <Text>Hello Commander, the line of contact with the enemy is permanently broken. Scouts are reporting that there are only two bridges left. Acquire at least one Fusion core, use it to activate any of the bridges, reach and defeat the enemy before they do the same to you.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EA_BRIDGES_TOO_FAR_VICTORY</LocID>                                   <Text>While bridges usually connect and unify, now a bridge has opened the path for destruction and devastation.</Text>    </GameDBLocalizedString>

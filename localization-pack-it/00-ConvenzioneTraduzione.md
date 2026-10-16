@@ -10,7 +10,7 @@
 | Hesperidians | Esperidiani |
 | Gate Station | Stazione del portale |
 | Hive Mind | Mente Alveare |
-| Neutral Faction | Fazione neutrale |
+| Neutral Factions | Fazioni neutrali |
 | Primals | Primordiali |
 | Siren | La Sirena / Sirena |
 | The Sovereign Fleet | Flotta Sovrana |
@@ -68,7 +68,7 @@ Infine ci sono gli Attributi
 | Originale | Tradotto |
 |:-|:-|
 | Ratling Goon | Scagnozzo Ratling |
-| Ratling Gunner |   |
+| Ratling Gunner | Artigliere Ratling |
 | Meatboy | Macellaio |
 | Meatboy Shredder | Tritacarne |
 | Hammerite | Martellatore |
@@ -83,6 +83,41 @@ Infine ci sono gli Attributi
 | Liberator | Liberatore |
 | Mass Liberator | Liberatore di Massa |
 | Blast Wave Cannon | Cannone a onda d'urto |
+
+##### Fazioni neutrali
+Oggetti, unità, edifici:  
+| Originale | Tradotto |
+|:-|:-|
+| Crystal Lizard | Lucertola di cristallo |
+| Crystal Lizard desert | Lucertola di cristallo desertica |
+| Limerite Collector | Raccoglitore di Limerite |
+| Alloy Collector | Raccoglitore di leghe |
+| Biomass Collector | Raccoglitore di biomassa |
+| Radiant Collector | Raccoglitore di Radiant | 
+| Aura Collector | Raccoglitore di Aura |
+| Weaver | Tessitore |
+| Night Weaver | Tessitore notturno |
+| Slurm | Slurm |
+| Shield | Scudo |
+| Light Turret | Torretta Leggera |
+| Heavy Turret | Torretta Pesante |
+| Sentry gun | Torretta |
+| Garrison sentry | Sentinella del presidio |
+| Jerry-rig | Rattoppatore |
+| Baloo | Baloo |
+| Sparkling Pillar | Pilastro Scintillante |
+| Primal Pylon | Pilone Primordiale |
+| Apex | Predatore Alfa |
+| Void Walker | Camminatore del Vuoto |
+| Edgehog | Riccio |
+| Craborg | Granchio-cyborg |
+| F1-Cracker | F1-Petardo |
+| Luminovore | Luminovoro |
+| Triffid | Trifido |
+| Triffid Seedling | Trifido Germoglio |
+| Molvark | Molvark |
+| Bullrock | Bullrock |
+| Ratling Troglodyte | Ratling Troglodita |
 
 ### Competenze (Skill)
 | Originale | Tradotto |

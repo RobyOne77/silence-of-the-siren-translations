@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -38,8 +38,8 @@
             <GameDBLocalizedString>         <LocID>DIFFICULTY_IRON_MOLE_MODE</LocID>                                    <Text>Modalità “Talpa di ferro”</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIFFICULTY_IRON_MOLE_MODE_DESCRIPTION</LocID>                        <Text>- No ricarica\n- No riprova battaglie \n- No auto-salvataggio\n- No salvataggio-veloce</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>SAVE_AND_QUIT</LocID>                                                <Text>Save and quit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SAVE_AND_QUIT_TO_MAIN_MENU</LocID>                                   <Text>Save and quit to menu</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SAVE_AND_QUIT</LocID>                                                <Text>Salva e esci</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SAVE_AND_QUIT_TO_MAIN_MENU</LocID>                                   <Text>Salva e torna al menù iniziale</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>CAMPAIGN_LOCKED</LocID>                                              <Text>-LOCKED-</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMING_SOON</LocID>                                                  <Text>Prossimamente!</Text>  </GameDBLocalizedString>
@@ -77,14 +77,14 @@
             <!--_______________NEW UNITS NAMES AND DESCRIPTION__________________________-->
 
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_BIG_MOLE</LocID>                                        <Text>Molvark</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_BIG_MOLE_DESCRIPTION</LocID>                            <Text>After they escaped from a Fossorian base, it only took the Molvarks a few weeks to exterminate several indigenous species. A moment of silence for Fungy-piglet and Crystal-bird. Animals incapable of surviving long enough to obtain proper scientific names.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_BIG_MOLE_DESCRIPTION</LocID>                            <Text>Dopo essere fuggiti da una base fossoriana, ai Molvark sono bastate poche settimane per sterminare diverse specie autoctone. Un momento di silenzio per Fungy-piglet e Crystal-bird. Animali incapaci di sopravvivere abbastanza a lungo da ottenere un nome scientifico adeguato.</Text></GameDBLocalizedString>
            
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_BABY</LocID>                                      <Text>Triffid Seedling</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_BABY_DESCRIPTION</LocID>                          <Text>The Seedlings are pretty vicious, but they are not evil; they just need your nutritious body to grow to their full-size. </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_BABY</LocID>                                      <Text>Trifido Germoglio</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_BABY_DESCRIPTION</LocID>                          <Text>I germogli sono piuttosto aggressivi, ma non sono malvagi; hanno solo bisogno del tuo corpo ricco di sostanze nutritive per raggiungere la loro piena statura. </Text></GameDBLocalizedString>
           
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_MAMMA</LocID>                                     <Text>Triffid</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_MAMMA_DESCRIPTION</LocID>                         <Text>The name of this invasive species of carnivorous plant is pretty self-explanatory. But in case you have been living under a rock, I can summarize ... nah, you know what, just read the John Windham masterpiece, and then we'll speak again. </Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_MAMMA_INFO_DESCRIPTION</LocID>                    <Text>Mother Plant, instead of a regular attack, shoots seeds that instantly grow into "Triffid Seedlings". After spitting out ten seeds, it withers away and dies. It can't counterattack.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_MAMMA</LocID>                                     <Text>Trifido</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_MAMMA_DESCRIPTION</LocID>                         <Text>Il nome di questa specie invasiva di pianta carnivora è piuttosto intuitivo. Ma nel caso in cui abbiate vissuto su un altro pianeta, posso riassumervelo... no, sapete una cosa? Leggete semplicemente il capolavoro di John Windham, e poi ne riparleremo. </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PLANT_MAMMA_INFO_DESCRIPTION</LocID>                    <Text>La Pianta Madre, invece di sferrare un attacco normale, spara dei semi che si trasformano immediatamente in “piantine di Trifide”. Dopo aver sputato dieci semi, appassisce e muore. Non può contrattaccare.</Text></GameDBLocalizedString>
 
 
             <!--_______________STACK STATUS EFFECTS + other combat info__________________________-->

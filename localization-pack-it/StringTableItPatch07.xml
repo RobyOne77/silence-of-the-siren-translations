@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+           <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -167,19 +167,19 @@
             
             <!--NEW Units-->
             <!--Unit names-->
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RUR</LocID>                                             <Text>F1-Cracker</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RUR</LocID>                                             <Text>F1-Petardo</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_CLAW</LocID>                                           <Text>Slugtor</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_ASSSHOOTER</LocID>                                     <Text>Malarion</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_LUMINOVORE_DAY</LocID>                                  <Text>Luminovore (day)</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_LUMINOVORE_NIGHT</LocID>                                <Text>Luminovore (night)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_LUMINOVORE_DAY</LocID>                                  <Text>Luminovoro</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_LUMINOVORE_NIGHT</LocID>                                <Text>Luminovoro notturno</Text></GameDBLocalizedString>
 
             <!--Unit description-->
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RUR_DESCRIPTION</LocID>                                 <Text>The true worth and value of a man is in his heart. The same can be said about this little robot. All his parts are made as cheaply as possible, but his heart is a whole different story. It's made of a fat chunk of plastic explosive. No skimping, no scrimping.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RUR_PASSIVE_INFO_DESCRIPTION</LocID>                    <Text>Losing over 70% of units in this stack will trigger its self-destruct sequence.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RUR_DESCRIPTION</LocID>                                 <Text>Il vero valore di un uomo sta nel suo cuore. Lo stesso si può dire di questo piccolo robot. Tutte le sue parti sono realizzate nel modo più economico possibile, ma il suo cuore è tutta un’altra storia. È costituito da un grosso pezzo di esplosivo plastico. Nessuna parsimonia, nessun risparmio.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RUR_PASSIVE_INFO_DESCRIPTION</LocID>                    <Text>La perdita di oltre il 70% delle unità presenti in questa formazione attiverà la sequenza di autodistruzione.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_CLAW_DESCRIPTION</LocID>                               <Text>Brutal monster, perfected by the parasitic swarm. It is said that the mind of the beast can't be completely subdued. It slowly blends with the swarm, which becomes addicted to the most gory ways of fighting.     </Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_HIVEMIND_ASSSHOOTER_DESCRIPTION</LocID>                         <Text>The tribes from swamp territories are using the flying hosts to collect parts from the starship wreckages and ancient treasures hidden behind the impenetrable fog and murky waters. Some even incorporate pieces of salvaged devices into the bodies of their hosts.      </Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_LUMINOVORE_DESCRIPTION</LocID>                          <Text>Luciferin, a light-emitting compound of Earth's fireflies, is a joke in comparison to Siren Systems' version, which not only emits light but also temperatures capable of melting metal. No other animal is crazy enough to eat the Siren System fireflies. Accept this cute loony, but it knows very well why it's doing it.    </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_LUMINOVORE_DESCRIPTION</LocID>                          <Text>La luciferina, il composto che permette alle lucciole terrestri di emettere luce, è una barzelletta se paragonata alla versione di Sistemi di Sirena , che non solo emette luce, ma raggiunge anche temperature in grado di fondere il metallo. Nessun altro animale è così folle da mangiare le lucciole di Sistemi di Sirena. Accettate questa simpatica pazzerella, ma sappiate che sa benissimo perché lo fa.    </Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_LUMINOVORE_PASSIVE_INFO_DESCRIPTION</LocID>             <Text>Gains a ranged attack.</Text></GameDBLocalizedString>
 
             <!-- Intentionally empty -->
@@ -204,9 +204,9 @@
             <GameDBLocalizedString>         <LocID>PLANET_EA_03_DESCRIPTION</LocID>                                     <Text><![CDATA[Its gaping wound, a reminder of the Holy War, offers the observer a peek into the true nature of Primal planets. They have been altered from the core to the surface. Only the thin layer of biosphere feels somewhat genuine.\n\n As the gargantuan gravitor in the Planet's heart takes its last breaths, its rotation returns to a slower, more natural cycle. Within a few years, the planet will begin to drift further into the cold void of space. \n\n Many have searched for the secrets of this pre-apocalyptic world, but found only the end of all roads.]]></Text>  </GameDBLocalizedString>
             
             <!--New AI Option-->
-            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION</LocID>                                <Text>AI version</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_OLD</LocID>                            <Text>Old</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_NEW</LocID>                            <Text>New</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION</LocID>                                <Text>Versione AI</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_OLD</LocID>                            <Text>Vecchia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_NEW</LocID>                            <Text>Nuoova</Text>  </GameDBLocalizedString>
             
             <!--Commissario Snif alternative name-->
             <GameDBLocalizedString>         <LocID>HERO_MOLE_2_ALTERNATIVE</LocID>                                     <Text>Colonel Snif</Text>  </GameDBLocalizedString>

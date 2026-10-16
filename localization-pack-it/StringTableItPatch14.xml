@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
         
         <LocalizedStrings>
@@ -78,12 +78,12 @@
             <GameDBLocalizedString>         <LocID>HAS_NO_EFFECT_HERE</LocID>                                 <Text>has no effect here.</Text></GameDBLocalizedString>
             
             <!--  new neutral units  -->
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RATLING</LocID>                               <Text>Ratling Troglodyte</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RATLING_DESCRIPTION</LocID>                   <Text>Are we actually decelerating Ratling society development? If we leave them on their own, will they "rise"? But this experiment already happened! In the abandoned Fossorian bases, outposts, and mines, you can find Ratling castaways' tribes. Cult of the Shovel, Glue-sniffing zombies, Copper wire scavengers... I see a pattern here, but... I'll let you be the judge!  </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RATLING</LocID>                               <Text>Ratling Troglodita</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_RATLING_DESCRIPTION</LocID>                   <Text>Stiamo davvero rallentando lo sviluppo della società dei Ratling? Se li lasciassimo a se stessi, riuscirebbero a “elevarsi”? Ma questo esperimento è già stato fatto! Nelle basi, negli avamposti e nelle miniere abbandonate di Fossoria si possono trovare tribù di Ratling emarginati. Il Culto della Pala, gli zombie sniffatori di colla, i raccoglitori di fili di rame… Mi sembra di intravedere uno schema ricorrente, ma… lascio a voi il giudizio!  </Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_ARMADILLO</LocID>                             <Text>Bullrock</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_ARMADILLO_DESCRIPTION</LocID>                 <Text>You fire and miss. It's getting closer. Your hands turn sweaty. The gun feels heavier, clunkier than usual. Dial the max power! "We are not playing anymore!" Damn, it's way faster than it looks! Slow breath, aim... FLASH! The blinding beam scorches the air! Reek of ozone! Retina aches! Impact did not even slow it... A shaken "Sweet Mother" slips from your lips!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_ARMADILLO_PASSIVE_INFO_DESCRIPTION</LocID>    <Text>Automatically hardens its shell, becoming immune to ranged attacks until it attacks or counterattacks.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_ARMADILLO_DESCRIPTION</LocID>                 <Text>Sparate e mancate il bersaglio. Si sta avvicinando. Vi sudano le mani. L’arma sembra più pesante, più ingombrante del solito. Impostate la potenza massima! «Non stiamo più giocando!» Dannazione, è molto più veloce di quanto sembri! Respirate lentamente, mirate… FLASH! Il raggio accecante brucia l’aria! Odore di ozono! La retina brucia! L’impatto non l’ha nemmeno rallentato... Un «Santa Madre» pronunciato con voce tremante ti sfugge dalle labbra!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_ARMADILLO_PASSIVE_INFO_DESCRIPTION</LocID>    <Text>Indurisce automaticamente il proprio guscio, diventando immune agli attacchi a distanza finché non attacca o contrattacca.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_END_MULTIPLAYER</LocID>                      <Text>The battle is over!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_END_MULTIPLAYER_TEXT</LocID>                 <Text>{1} is victorious!</Text></GameDBLocalizedString> <!-- Parameter {1} is player's name, similar to EXPLORATION_PLAYER_WON -->

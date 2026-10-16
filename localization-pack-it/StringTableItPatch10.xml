@@ -4,64 +4,64 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>         <LocID>COMPONENT_MAP_SETTINGS_DISABLED_ITEMS_PARAMETERS</LocID>             <Text>Disabled items</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMPONENT_MAP_SETTINGS_DISABLED_ITEMS_PARAMETERS_ARTIFACTS</LocID>   <Text>Disabled artifacts</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMPONENT_MAP_SETTINGS_DISABLED_ITEMS_PARAMETERS</LocID>             <Text>Oggetto disabilitato</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMPONENT_MAP_SETTINGS_DISABLED_ITEMS_PARAMETERS_ARTIFACTS</LocID>   <Text>Manufatto disabilitato</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_ARMY_GROWTH</LocID>                                 <Text>Army growth at bases</Text></GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>PLAYER_STATISTIC_ARMY_GROWTH</LocID>                                 <Text>Crescita armate nelle basi</Text></GameDBLocalizedString>            
             
-            <GameDBLocalizedString>         <LocID>KEYBOARD_KEYBINDS</LocID>                                            <Text>Keybindings</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SET_KEY_BINDING</LocID>                                              <Text>Set</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PRESS_KEY_FOR_ACTION</LocID>                                         <Text>Press key to assign to action:</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>KEYBOARD_SHORTCUT</LocID>                                            <Text>Keyboard shortcut: </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_KEYBINDS</LocID>                                            <Text>Associazioni tasti</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SET_KEY_BINDING</LocID>                                              <Text>Setta</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PRESS_KEY_FOR_ACTION</LocID>                                         <Text>Premere il tasto per assegnare l'azione:</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>KEYBOARD_SHORTCUT</LocID>                                            <Text>Scorciatoia da tastiera: </Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_CONTINUE_MOVE</LocID>             <Text>Continue commander move</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_NEXT_COMMANDER</LocID>            <Text>Next commander</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_REVISIT</LocID>                   <Text>Revisit current object</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_QUICKSAVE</LocID>                 <Text>Quicksave</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_QUICKLOAD</LocID>                 <Text>Quickload</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_LEFT</LocID>          <Text>Move camera left</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_RIGHT</LocID>         <Text>Move camera right</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_UP</LocID>            <Text>Move camera up</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_DOWN</LocID>          <Text>Move camera down</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_HIGHLIGHT_INTERACTIVE</LocID>     <Text>Highlight interactive objects</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_END_TURN</LocID>                  <Text>End turn</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_OPEN_COMMANDER_CARD</LocID>       <Text>Open commander panel/inventory</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_CONTINUE_MOVE</LocID>             <Text>Continua il movimento del comandante</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_NEXT_COMMANDER</LocID>            <Text>Prossimo comandante</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_REVISIT</LocID>                   <Text>Torna all'oggetto corrente</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_QUICKSAVE</LocID>                 <Text>Salvataggio veloce</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_QUICKLOAD</LocID>                 <Text>Caricamento veloce</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_LEFT</LocID>          <Text>Sposta la telecamera verso sinistra</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_RIGHT</LocID>         <Text>Sposta la telecamera verso destra</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_UP</LocID>            <Text>Sposta la telecamera verso l'alto</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_MOVE_CAMERA_DOWN</LocID>          <Text>Sposta la telecamera verso il basso</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_HIGHLIGHT_INTERACTIVE</LocID>     <Text>Evidenzia gli oggetti interattivi</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_END_TURN</LocID>                  <Text>Fine turno</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_OPEN_COMMANDER_CARD</LocID>       <Text>Open comandate pannello/inventario</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_1</LocID>        <Text>Select commander #1</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_2</LocID>        <Text>Select commander #2</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_3</LocID>        <Text>Select commander #3</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_4</LocID>        <Text>Select commander #4</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_5</LocID>        <Text>Select commander #5</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_6</LocID>        <Text>Select commander #6</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_7</LocID>        <Text>Select commander #7</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_8</LocID>        <Text>Select commander #8</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_1</LocID>        <Text>Seleziona comandante #1</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_2</LocID>        <Text>Seleziona comandante #2</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_3</LocID>        <Text>Seleziona comandante #3</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_4</LocID>        <Text>Seleziona comandante #4</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_5</LocID>        <Text>Seleziona comandante #5</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_6</LocID>        <Text>Seleziona comandante #6</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_7</LocID>        <Text>Seleziona comandante #7</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_EXPLORATION_SELECT_COMMANDER_8</LocID>        <Text>Seleziona comandante #8</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_WAIT</LocID>                           <Text>Combat: Wait</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_SKIP</LocID>                           <Text>Combat: Skip turn</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_SPECIAL</LocID>                        <Text>Combat: Use unit special</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_ABILITY_BOOK</LocID>                   <Text>Combat: Use commander abilities</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_HIGHLIGHT_RANGE</LocID>                <Text>Combat: Movement range on hover</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_MINI_UNITS</LocID>                     <Text>Combat: Mini units</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_BUILD</LocID>                            <Text>Base: build and upgrade</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_HIRE_COMMANDERS</LocID>                  <Text>Base: hire commanders</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_HIRE_UNITS</LocID>                       <Text>Base: hire units</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_TRADING</LocID>                          <Text>Base: trade resources</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_ACADEMY</LocID>                          <Text>Base: academy</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_STATISTICS</LocID>                       <Text>Base: statistics</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_GATEWAY</LocID>                          <Text>Base: gateway</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_FACTION_SPECIFIC</LocID>                 <Text>Base: faction-specific building</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_WAIT</LocID>                           <Text>Combattimento: Attendi</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_SKIP</LocID>                           <Text>Combattimento: Salta turno</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_SPECIAL</LocID>                        <Text>Combattimento: Usa unita speciale</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_ABILITY_BOOK</LocID>                   <Text>Combattimento: Una abilità comandante</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_HIGHLIGHT_RANGE</LocID>                <Text>Combattimento: Mostra ampiezza di movimento al passaggio del cursore</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_COMBAT_MINI_UNITS</LocID>                     <Text>Combattimento: Mini-unità</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_BUILD</LocID>                            <Text>Base: costruisci e migliora</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_HIRE_COMMANDERS</LocID>                  <Text>Base: ingaggia comandante</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_HIRE_UNITS</LocID>                       <Text>Base: recluta unità</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_TRADING</LocID>                          <Text>Base: scambia risorse</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_ACADEMY</LocID>                          <Text>Base: accademia</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_STATISTICS</LocID>                       <Text>Base: statistiche</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_GATEWAY</LocID>                          <Text>Base: porta</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GameplayKeyboardAction_BASE_FACTION_SPECIFIC</LocID>                 <Text>Base: edificio specifico di una fazione</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ENTER_SAVE_NAME</LocID>                                              <Text>Enter save name...</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ENTER_SAVE_NAME</LocID>                                              <Text>Inserisci nome salvataggio...</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_SWARM_LIMIT_REACHED</LocID>                           <Text>{CombatActor} cannot split anymore, limit reached.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_SWARM_LIMIT_REACHED</LocID>                           <Text>{CombatActor} non è più possibile suddividere, limite raggiunto.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>DIALOG_TELEPORTMAN_DEFEATED</LocID>                                  <Text>{LOC:UNIT_NEUTRAL_TELEPORTMAN} defeated</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_TELEPORTMAN_DEFEATED_TEXT</LocID>                             <Text>{LOC:UNIT_NEUTRAL_TELEPORTMAN} grants the victorious hero the ability to teleport to any previously visited place on the map.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_SELECT_TARGET</LocID>                                         <Text>Select teleport target</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_TELEPORTMAN_DEFEATED</LocID>                                  <Text>{LOC:UNIT_NEUTRAL_TELEPORTMAN} sconfitta</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_TELEPORTMAN_DEFEATED_TEXT</LocID>                             <Text>{LOC:UNIT_NEUTRAL_TELEPORTMAN} conferisce all'eroe vittorioso la capacità di teletrasportarsi in qualsiasi luogo della mappa già visitato in precedenza.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_SELECT_TARGET</LocID>                                         <Text>Seleziona la destinazione del teletrasporto</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>ARTIFACT_BIOTIC_MENTOR</LocID>                                       <Text>Biotic Mentor</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ARTIFACT_BIOTIC_MENTOR_DESCRIPTION</LocID>                           <Text>Allows your commander to use BIO abilities twice per round.</Text></GameDBLocalizedString>
@@ -131,24 +131,24 @@
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL2</LocID>         <Text>Distance up to 30 tiles.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL3</LocID>         <Text>Distance up to 40 tiles.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE</LocID>                                <Text>Summon creature</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION</LocID>                    <Text>Summons a random neutral unit at a chosen location</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION_LVL1</LocID>               <Text>Creature level 1-3</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION_LVL2</LocID>               <Text>Creature level 3-5</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION_LVL3</LocID>               <Text>Creature level 5-7</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE</LocID>                                <Text>Evoca creatura</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION</LocID>                    <Text>Evoca un'unità neutrale casuale in una posizione scelta</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION_LVL1</LocID>               <Text>Livello creatura 1-3</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION_LVL2</LocID>               <Text>Livello creatura 3-5</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION_LVL3</LocID>               <Text>Livello creatura 5-7</Text></GameDBLocalizedString>
             
             <!--New Units-->
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRABORG</LocID>                                         <Text>Craborg</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRABORG_DESCRIPTION</LocID>                             <Text>Their sped-up metabolism means not only quick reflexes but also fast reproduction. So fast in fact that the Australian rabbits look frigid in comparison. It's clear as the sky Fossorians made them! Their implants, their laboratory markings, their ... EVERYTHING! But those hairy bastards still deny all accusations, and accept zero responsibility!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRABORG_PASSIVE_INFO_DESCRIPTION</LocID>                <Text>When more than half the stack is killed, crabogs become furious. They gain double attack, but their commander loses control over them.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRABORG</LocID>                                         <Text>Granchio-cyborg</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRABORG_DESCRIPTION</LocID>                             <Text>Il loro metabolismo accelerato comporta non solo riflessi rapidi, ma anche una riproduzione veloce. Talmente veloce, infatti, che i conigli australiani sembrano quasi frigidi al confronto. È chiaro come il sole: li hanno creati i Fossoriani! I loro impianti, i loro marchi da laboratorio, il loro... TUTTO! Ma quei bastardi pelosi continuano a negare ogni accusa e non si assumono alcuna responsabilità!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRABORG_PASSIVE_INFO_DESCRIPTION</LocID>                <Text>Quando più della metà dello pila viene eliminata, i Granchio-cyborg si infuriano. Ottengono un attacco doppio, ma il loro comandante perde il controllo su di loro.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_TELEPORTMAN</LocID>                                     <Text>Void Walker</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_TELEPORTMAN_DESCRIPTION</LocID>                         <Text>It took months, tons of effort and resources, but we've discovered... actually, nothing! We cannot catch them ... it's as simple as that. Yeah, yeah, they are of Primal origin, they can teleport, and if killed, they leave a temporary space-time tear. That's all, people, go home.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_TELEPORTMAN_PASSIVE_INFO_DESCRIPTION</LocID>            <Text>Can attack any unit on the battlefield.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_TELEPORTMAN</LocID>                                     <Text>Camminatore del Vuoto</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_TELEPORTMAN_DESCRIPTION</LocID>                         <Text>Ci sono voluti mesi, un’enorme quantità di impegno e risorse, ma abbiamo scoperto… in realtà, niente! Non riusciamo a catturarli… è proprio così semplice. Sì, sì, sono di origine Primordiale, possono teletrasportarsi e, se uccisi, lasciano uno strappo spazio-temporale temporaneo. Questo è tutto, gente, andate a casa.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_TELEPORTMAN_PASSIVE_INFO_DESCRIPTION</LocID>            <Text>Può attaccare qualsiasi unità sul campo di battaglia.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_HEDGEHOG</LocID>                                        <Text>Edgehog</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_HEDGEHOG_DESCRIPTION</LocID>                            <Text>Why "edge" hogs? Because the leaves are reinforced with a crystal structure that grants them the properties of a steel blade, and I do not mean the Pakistani workshop steel, but that of Hattori Hanzo's katanas.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_HEDGEHOG_PASSIVE_INFO_DESCRIPTION</LocID>               <Text>Unlimited counterattacks dealing poison, corrosive, and bleeding damage.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_HEDGEHOG</LocID>                                        <Text>Riccio</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_HEDGEHOG_DESCRIPTION</LocID>                            <Text>Perché riccio? Perché le lame sono rinforzate con una struttura cristallina che conferisce loro le proprietà di una lama d’acciaio, e non mi riferisco all’acciaio delle officine pakistane, ma a quello delle katana di Hattori Hanzo.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_HEDGEHOG_PASSIVE_INFO_DESCRIPTION</LocID>               <Text>Contrattacchi illimitati che infliggono danni da veleno, corrosivi e da emorragia.</Text></GameDBLocalizedString>
 
             <!--SF Campaign ship - Chiquita -->
             <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATESSHUTTLE</LocID>                                        <Text>Sovereign Fleet starship</Text>  </GameDBLocalizedString>
@@ -169,7 +169,7 @@
             <GameDBLocalizedString>         <LocID>MAP_SPECIFICATIONS_MAP_LOCK_STARTING_ARMIES</LocID>                  <Text>Lock starting armies</Text></GameDBLocalizedString>
             
             <!--_______________NEUTRAL ZONE__________________________-->
-            <GameDBLocalizedString>        <LocID>NEUTRAL_ZONE_ID</LocID>                                               <Text>Neutral zone</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>        <LocID>NEUTRAL_ZONE_ID</LocID>                                               <Text>Zona neutrale</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>        <LocID>NEUTRAL_ZONE_DESCRIPTION</LocID>                                      <Text>What if all armies in the region only consisted of neutral creatures?</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>        <LocID>NEUTRAL_ZONE_INTRO</LocID>                                            <Text>Somewhere on the outskirts of the Siren System ...</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>        <LocID>NEUTRAL_ZONE_VICTORY</LocID>                                          <Text>Neutral zone no longer exists; the Fossorians have expanded their sphere of influence once again! Glory to the Supreme Leader! </Text>    </GameDBLocalizedString>
