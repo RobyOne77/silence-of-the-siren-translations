@@ -43,6 +43,8 @@ Infine ci sono gli Attributi
 ### Nomi
 
 #### Fossoriani
+
+##### Comandanti
 | Originale | Tradotto | Contratto |
 |:-|:-|:-|
 | Major Skaurov | Maggiore Skaurov | Magg. Skaurov |
@@ -62,6 +64,25 @@ Infine ci sono gli Attributi
 | Governor Bokas | Governatore Bokas | Gov. Bokas |
 | Quetin from Moletargis | Quetin da Moletargis ||
 
+##### Unità
+| Originale | Tradotto |
+|:-|:-|
+| Ratling Goon | Scagnozzo Ratling |
+| Ratling Gunner |   |
+| Meatboy | Macellaio |
+| Meatboy Shredder | Tritacarne |
+| Hammerite | Martellatore |
+| Hammerite Honor Guard | Guardia d'Onore dei Martellatori |
+| Earthshaker | Scuotiterra |
+| Earthshaker MK2 | Scuotiterra MK2 |
+| Earthshaker Torpedo | Siluro Scuotiterra |
+| Tunnel Worm | Verme scavatore |
+| Panzer Worm | Verme corazzato |
+| Commissar Cadet | Cadetto Commissario |
+| Seasoned Commissar | Commissario Esperto |
+| Liberator | Liberatore |
+| Mass Liberator | Liberatore di Massa |
+| Blast Wave Cannon | Cannone a onda d'urto |
 
 ### Competenze (Skill)
 | Originale | Tradotto |
