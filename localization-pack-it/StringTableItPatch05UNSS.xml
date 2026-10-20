@@ -11,7 +11,7 @@
             <GameDBLocalizedString>         <LocID>EMPIRE_CAMPAIGN</LocID>                                              <Text>UNSS Campaign</Text></GameDBLocalizedString>
 
             <!--Units lore-->
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG_DESCRIPTION_V2</LocID>                           <Text>After the last lost onslaught,\nSupreme Leader walked in thought.\n\nHow do we make them great again?\nYes, let's make them spew fiery rain!\n\nAnd if the crews get cooked inside?\nThen they burn and die with pride! </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_MECH_UPG_DESCRIPTION_V2</LocID>                           <Text>Dopo l'ultimo attacco fallito,\nLa Guida Suprema camminava immersa nei suoi pensieri.\n\nCome facciamo a renderli di nuovo grandi?\nSì, facciamoli vomitare una pioggia di fuoco!\n\nE se gli equipaggi finissero per cuocersi lì dentro?\nPoi bruciano e muoiono con orgoglio! </Text></GameDBLocalizedString>
 
             <!--Base - spawner lore   -->
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG_LORE_V2</LocID>                         <Text>I was a little mole when I entered the Liberator Factory, the golden coupon in one hand and the Supreme Leader's hand in the other! He made me a slave there for thirty-two years! The machines took my arm and eyes. Please, give a crumb of bread to a hungry beggar!</Text>  </GameDBLocalizedString>

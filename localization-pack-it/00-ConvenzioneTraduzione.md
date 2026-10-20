@@ -12,7 +12,8 @@
 | Hive Mind | Mente Alveare |
 | Neutral Factions | Fazioni neutrali |
 | Primals | Primordiali |
-| Siren | La Sirena / Sirena |
+| Siren | Siren |
+| Siren System | Sistema Siren |
 | The Sovereign Fleet | Flotta Sovrana |
 | Tumori Tribes | Tribù dei Tumori |
 | UNSS | Nazioni Unite del Sistema Solare |
@@ -52,17 +53,17 @@ Infine ci sono gli Attributi
 | Hak "the Rat" | Hak “il Ratto” | |
 | Agent Molsson | Agente Molsson | Ag. Molsson |
 | Sergeant Moltair / Sgt. Moltair | Sergente Moltair | Serg. Moltair |
-| Tax Collector Tott | Esattore delle Tasse Tott ||
+| Tax Collector Tott | Esattore delle Tasse Tott | |
 | Lieutenant Moletoff / Lt. Moletoff | Tenente Moletoff | Ten. Moletoff |
 | Captain Holester / Capt. Holester | Capitano Holester | Cap. Holester |
 | General Truda / Gen. Truda | Generale Truda | Gen. Truda |
-| Bulletproof Beni | Beni “antiproiettile“ ||
-| Long Molly | Lunga Molly ||
-| Supreme Leader | Leader Supremo ||
-| Commander Muff / Cmdr. Muff | Comandante Muff | Com. Muff | 
+| Bulletproof Beni | Beni “antiproiettile” | |
+| Long Molly | Lunga Molly | |
+| Supreme Leader | Leader Supremo | |
+| Commander Muff / Cmdr. Muff | Comandante Muff | Com. Muff |
 | General Furret / Gen. Furret | Gen. Furret | Gen. Furret |
 | Governor Bokas | Governatore Bokas | Gov. Bokas |
-| Quetin from Moletargis | Quetin da Moletargis ||
+| Quetin from Moletargis | Quetin da Moletargis | |
 
 ##### Unità
 | Originale | Tradotto |
@@ -93,7 +94,7 @@ Oggetti, unità, edifici:
 | Limerite Collector | Raccoglitore di Limerite |
 | Alloy Collector | Raccoglitore di leghe |
 | Biomass Collector | Raccoglitore di biomassa |
-| Radiant Collector | Raccoglitore di Radiant | 
+| Radiant Collector | Raccoglitore di Radiant |
 | Aura Collector | Raccoglitore di Aura |
 | Weaver | Tessitore |
 | Night Weaver | Tessitore notturno |
@@ -118,6 +119,47 @@ Oggetti, unità, edifici:
 | Molvark | Molvark |
 | Bullrock | Bullrock |
 | Ratling Troglodyte | Ratling Troglodita |
+
+#### UNSS
+
+##### Unità
+| Originale | Tradotto |
+|:-|:-|
+| Volt | Unità Volt |
+| Bolt | Unità Bolt |
+| Veteran Trooper | Soldato Veterano |
+| Number 6 | Unità 6 |
+| Number 6-M | Unità 6-M |
+| Crowd Suppressor | Unità Antisommossa |
+| Crowd Crusher | Unità Schiacciafolle |
+| Fifty CAL | Unità Calibro 50 |
+| Sixty CAL | Unità Calibro 60 |
+| Ares | Unità Ares |
+| Ares MK2 | Unità Ares MK2 |
+| Titan | Unità Titano |
+| Titan shield bearer | Unità Scudiero del Titano |
+| Ballistic Shield | Scudo Balistico |
+
+##### Comandanti
+| Originale | Tradotto | Contratto |
+|:-|:-|:-|
+| John Smith 7A | John Smith 7A | |
+| Capt. Rao | | Cap. Rao |
+| Navigator Maya | Navigatrice Maya | |
+| Doctor Brown 9B | Dottor Brown 9B | |
+| "Sarge" Zagloba | “Sergente” Zagloba | |
+| Michael Moore 3C | Michael Moore 3C | |
+| Henry Williams 2A | Henry Williams 2A | |
+| Rob "Scotty" | Rob “Scotty” | |
+| Rosie Hart | Rosie Hart | |
+| Kim Procházka | Kim Procházka | |
+| General Takeshi | Generale Takeshi | Gen. Takeshi|
+| Admiral Nyota | Ammiraglio Nyota | Amm. Nyota |
+| Major Zolzaya | Maggiore Zolzaya | Magg. Zolzaya |
+| Gahiji Jackson | Gahiji Jackson | |
+| Adela | Adela | |
+| Governor Burke | Governatore Burke | Gov. Burke
+
 
 ### Competenze (Skill)
 | Originale | Tradotto |

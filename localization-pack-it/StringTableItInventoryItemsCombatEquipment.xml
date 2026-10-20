@@ -19,7 +19,7 @@
             
             <GameDBLocalizedString>         <LocID>EQUIPMENT_MEDAL_OF_HONOR</LocID>                         <Text>Medaglia d'onore</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_MEDAL_OF_HONOR_DESCRIPTION</LocID>             <Text><![CDATA[Questo vecchio ciondolo, per qualche motivo, migliora notevolmente il <color=SOTS_COLOR_GOLD>morale</color> delle tue truppe.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EQUIPMENT_MEDAL_OF_HONOR_LORE</LocID>                    <Text>Nel Sistema Solare, una Medaglia d’onore equivaleva a una cittadinanza di classe A. Nel Sistema Sirena, invece, non ha alcun valore materiale, ma rappresenta solo il rispetto conquistato con il sangue e il dolore del campo di battaglia.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_MEDAL_OF_HONOR_LORE</LocID>                    <Text>Nel Sistema Solare, una Medaglia d’onore equivaleva a una cittadinanza di classe A. Nel Sistema Siren, invece, non ha alcun valore materiale, ma rappresenta solo il rispetto conquistato con il sangue e il dolore del campo di battaglia.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>EQUIPMENT_TARGETING_SYSTEM</LocID>                       <Text>Sistema di puntamento</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_TARGETING_SYSTEM_DESCRIPTION</LocID>           <Text>Nessuna penalità di distanza per gli attacchi a distanza.</Text>  </GameDBLocalizedString>
@@ -27,7 +27,7 @@
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT_RAZOR_BEAM</LocID>                             <Text>Raggio di rasoio</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_RAZOR_BEAM_DESCRIPTION</LocID>                 <Text><![CDATA[Bonus <color=SOTS_COLOR_RED>al danno</color> per le armi energetiche.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EQUIPMENT_RAZOR_BEAM_LORE</LocID>                        <Text>Sebbene nel Sistema Solare siano vietate moltissime tecnologie, il Sistema Sirena è una frontiera senza multe per eccesso di velocità, dove praticare fori da sei pollici nei corpi di gentiluomini vestiti con armature di livello militare è considerato lecito.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_RAZOR_BEAM_LORE</LocID>                        <Text>Sebbene nel Sistema Solare siano vietate moltissime tecnologie, il Sistema Siren è una frontiera senza multe per eccesso di velocità, dove praticare fori da sei pollici nei corpi di gentiluomini vestiti con armature di livello militare è considerato lecito.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT_PANZER_BITING_PLASMA</LocID>                   <Text>Plasma perfora-corazze</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_PANZER_BITING_PLASMA_DESCRIPTION</LocID>       <Text>Le armi energetiche sciolgono i nemici corazzati. (Bonus per Soldato, Osservatore, Il Luminoso, Il Fiammeggiante, Zieregal e Alto Zieregal.)</Text>  </GameDBLocalizedString>

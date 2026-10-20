@@ -22,7 +22,7 @@
             <GameDBLocalizedString> <LocID>MANUAL_BASE_UPGRADE_UNIT</LocID>                  <Text>Miglioramento unità</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_BASE_MOVE_COMMANDER</LocID>                <Text>Spostare il comandante dentro/fuori dalla base</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_BASE_ARMY_INSIDE</LocID>                   <Text><![CDATA[<b>Armate dentro la Base</b>\n(non hanno bisogno di un comandante)]]></Text></GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>MANUAL_BASE_VISITING_COMMANDER</LocID>            <Text>Comandante in visita con un'armata</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>MANUAL_BASE_VISITING_COMMANDER</LocID>            <Text>Comandante in visita con l'esercito</Text></GameDBLocalizedString>
 
             <!-- Manual - COMBAT page -->
             <GameDBLocalizedString> <LocID>MANUAL_COMBAT_TITLE</LocID>                       <Text>COMBATTIMENTO</Text></GameDBLocalizedString>
@@ -101,7 +101,7 @@
             <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_MISSION_OBJECTIVES</LocID>     <Text>Obiettivi missione</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_YOUR_BASE</LocID>              <Text><![CDATA[<b>La tua Base</b>\n(tasto dx del mouse per entrare)]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_FACTION_LOGO</LocID>           <Text>Logo fazione</Text></GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_MONSTER_ARMY</LocID>           <Text>Armata mostri</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_MONSTER_ARMY</LocID>           <Text>Esercito mostri</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_YOUR_RESOURCES</LocID>         <Text><![CDATA[<b>Le tue risorse</b>\n(+guadagno per turno)]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_SWITCH_MAP_LAYERS</LocID>      <Text>Cambia livello mappa</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_EXPLORATION_MINIMAP</LocID>                <Text>Mini-mappa</Text></GameDBLocalizedString>

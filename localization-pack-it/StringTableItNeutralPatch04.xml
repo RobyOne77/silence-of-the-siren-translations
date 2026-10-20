@@ -15,7 +15,7 @@
 
             <!--Unit descriptions-->
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_PRIMALS_TURRET_DESCRIPTION</LocID>                      <Text>Forse queste “macchine da macello” autonome avevano uno scopo pacifico prima della Guerra Santa, ma dato il loro potenziale letale, non è facile immaginarlo. Finora abbiamo scoperto solo che sono profondamente radicate nel sistema energetico sotterraneo dei Primordiali. Ehi, scienza, una volta eri utile, te lo ricordi?!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_SHARK_DESCRIPTION</LocID>                               <Text>Otudus Terrordon, comunemente noto come Apex, non è originario del Sistema Sirena, bensì proviene da un gruppo di pochi esemplari sottoposti a stretta sorveglianza in un laboratorio terrestre. Non è chiaro come, perché o da chi sia stato portato qui, ma è evidente che questo feroce predatore si sta adattando piuttosto bene alla sua nuova dimora. Forse fin troppo bene.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_SHARK_DESCRIPTION</LocID>                               <Text>Otudus Terrordon, comunemente noto come Apex, non è originario del Sistema Siren, bensì proviene da un gruppo di pochi esemplari sottoposti a stretta sorveglianza in un laboratorio terrestre. Non è chiaro come, perché o da chi sia stato portato qui, ma è evidente che questo feroce predatore si sta adattando piuttosto bene alla sua nuova dimora. Forse fin troppo bene.</Text></GameDBLocalizedString>
             
         </LocalizedStrings>
     </GameDBStringTable>

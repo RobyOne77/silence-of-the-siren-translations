@@ -49,8 +49,8 @@
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_GOATPATH</LocID>                     <Text>Enter the UNSS fortress</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_GOATPATH_DONE</LocID>                <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Enter the UNSS fortress - Finished</color>]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_KILL_ROB</LocID>                     <Text>Defeat Rob "Scotty"</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_KILL_ROB_DONE</LocID>                <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Defeat Rob "Scotty" - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_KILL_ROB</LocID>                     <Text>Defeat Rob “Scotty”</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_KILL_ROB_DONE</LocID>                <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Defeat Rob “Scotty” - Finished</color>]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_BROWN</LocID>                        <Text>Defeat Dr. Brown 9B</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_PIRATES_LVL4_BROWN_DONE</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Defeat Dr. Brown 9B - Finished</color>]]></Text>  </GameDBLocalizedString>
@@ -254,7 +254,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_FURRET_1</LocID>         <Text>The same goes for the remnants of my forces and the Fossorian bases the Sovereigns occupied!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_BROWN_1</LocID>          <Text>I did not summon her. She wants to check herself! The cores are highly resilient, as are the clones in their "relic" state. She wants to know for sure.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_ROB_1</LocID>            <Text>WATCH OUT! They are alive and managed to get behind our perimeter! </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_BROWN_2</LocID>          <Text>Me, Scotty, and Furret will take care of them! General Takeshi, inform Her of our situation! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_BROWN_2</LocID>          <Text>Me, Scotty, and Furret will take care of them! Generale Takeshi, inform Her of our situation! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_MAN-EATER_1</LocID>      <Text>...-TUMORI-,, EAT MAN NOW..--TO WAR--.,,, </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_CARNIVORA_1</LocID>      <Text>.-...--Eat meat...--- </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_PIRATES_LVL4_ENEMY_COUNCIL_CRIMSON_1</LocID>        <Text>.-...--Eat Outworlders...--- </Text>  </GameDBLocalizedString>

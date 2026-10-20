@@ -8,18 +8,18 @@
         </Contributors>
         
         <LocalizedStrings>
-            <GameDBLocalizedString><LocID>CONTAINS_DLC_CONTENT</LocID>                    <Text>Requires DLC content:</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>NOT_INSTALLED</LocID>                           <Text>(Not installed)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>CONTAINS_DLC_CONTENT</LocID>                    <Text>Richiede contenuti DLC:</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>NOT_INSTALLED</LocID>                           <Text>(Non installati)</Text></GameDBLocalizedString>
             <GameDBLocalizedString><LocID>DLC_BEASTMASTERS_ENABLED</LocID>                <Text>Cavalieri di Xenauri</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString><LocID>EDITOR_VALIDATION_DLC</LocID>                   <Text>The map has no DLC-specific content</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>EDITOR_VALIDATION_DLC_CONTENT</LocID>           <Text>The map will need this DLC to be playable:</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>EDITOR_VALIDATION_DLC</LocID>                   <Text>La mappa non contiene contenuti specifici dei DLC</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>EDITOR_VALIDATION_DLC_CONTENT</LocID>           <Text>Per poter giocare alla mappa sarà necessario questo DLC:</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString><LocID>STACK_STATUS_EFFECT_SCARED</LocID>              <Text>Scared</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>STACK_STATUS_EFFECT_SCARED_DESCRIPTION</LocID>  <Text>Cannot attack {LOC:UNIT_BEASTMASTERS_GHOST} or {LOC:UNIT_BEASTMASTERS_GHOST_UPG}.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>STACK_STATUS_EFFECT_SCARED</LocID>              <Text>Impaurito</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>STACK_STATUS_EFFECT_SCARED_DESCRIPTION</LocID>  <Text>Non puoi attaccare {LOC:UNIT_BEASTMASTERS_GHOST} o {LOC:UNIT_BEASTMASTERS_GHOST_UPG}.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString><LocID>MAPOBJ_DUNGEON_ENTRANCE</LocID>                 <Text>Dungeon Entrance</Text></GameDBLocalizedString>
-            <GameDBLocalizedString><LocID>MAPOBJ_DUNGEON_EXIT</LocID>                     <Text>Dungeon Exit</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>MAPOBJ_DUNGEON_ENTRANCE</LocID>                 <Text>Ingresso sottosuolo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>MAPOBJ_DUNGEON_EXIT</LocID>                     <Text>Uscita sottosuolo</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString><LocID>OUTLINES_LEGEND_INTERACTIVE</LocID>             <Text>Pickups and interactive objects with rewards or with available actions</Text></GameDBLocalizedString>
             <GameDBLocalizedString><LocID>OUTLINES_LEGEND_NOT_INTERACTIVE</LocID>         <Text>Your own objects, used objects or revisitable objects that are currently being replenished</Text></GameDBLocalizedString>
@@ -53,7 +53,7 @@
             
             <GameDBLocalizedString><LocID>MAP_SPECIFICATIONS_MAP_ENERGY_FIELDS</LocID>    <Text>Energy fields material</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString><LocID>TOOLTIP_SIZE</LocID>                            <Text>Unit size in hexes</Text></GameDBLocalizedString>
+            <GameDBLocalizedString><LocID>TOOLTIP_SIZE</LocID>                            <Text>Dimensione unità in esagoni</Text></GameDBLocalizedString>
             <GameDBLocalizedString><LocID>TOOLTIP_NO_SPECIAL</LocID>                      <Text>This unit has no active special ability.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString><LocID>ARENA_UNITS</LocID>                             <Text>Choose your units!</Text></GameDBLocalizedString>

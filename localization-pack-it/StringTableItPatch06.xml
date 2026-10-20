@@ -24,12 +24,12 @@
             <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT_PASSIVE_INFO_DESCRIPTION_V2</LocID>            <Text>Can attack up to 3 enemies standing next to each other. Causes bleeding to BIO units.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_CRUSADERS_KNIGHT_UPG_PASSIVE_INFO_DESCRIPTION_V2</LocID>        <Text>Can attack up to 3 adjacent enemies at once. Causes bleeding to BIO units. 30% chance to cast Surface overcharge on themselves at the start of their turn.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_VANQUISHER_PASSIVE_INFO_DESCRIPTION</LocID>              <Text>Melee attack inflicts shock damage to TECH units.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_VANQUISHER_UPG_PASSIVE_INFO_DESCRIPTION_V2</LocID>       <Text>Knocks back enemy units. Inflicts shock damage to TECH units.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_VANQUISHER_PASSIVE_INFO_DESCRIPTION</LocID>              <Text>L'attacco in mischia infligge danni da shock alle unità TECH.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_EMPIRE_VANQUISHER_UPG_PASSIVE_INFO_DESCRIPTION_V2</LocID>       <Text>Respinge le unità nemiche. Infligge danni da shock alle unità TECH.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION_V2</LocID>            <Text>Inflicts bleeding to BIO units.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_MOLES_BLINDPILER_PASSIVE_INFO_DESCRIPTION_V2</LocID>            <Text>Provoca emorragie alle unità BIO.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_EMPIRE_SOLDIER_UPG_SPECIAL_V2</LocID>                   <Text>Hits multiple enemies, dealing lower damage. Uses unique ammunition that causes bleeding to BIO units.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_EMPIRE_SOLDIER_UPG_SPECIAL_V2</LocID>                   <Text>Colpisce più nemici, infliggendo un danno inferiore. Utilizza munizioni speciali che provocano emorragia alle unità BIO.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>PLANET_ENVIRONMENT_MOON_1</LocID>                                    <Text>Small planet (4 phases, 100% units)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>PLANET_ENVIRONMENT_PLANET_BIG</LocID>                                <Text>Big planet (6 phases, 150% units)</Text>  </GameDBLocalizedString>

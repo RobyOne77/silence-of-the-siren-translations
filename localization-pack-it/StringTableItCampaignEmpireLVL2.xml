@@ -10,7 +10,7 @@
         <LocalizedStrings>
             <!--OBJECTIVES MAIN QUESTS-->
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_EMPIRE_START_LVL1_MAYA</LocID>                    <Text>Free navigator Maya</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_EMPIRE_START_LVL1_MAYA</LocID>                    <Text>Libera navigatrice Maya</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_EMPIRE_LVL2_OCCUPY_BASE_1</LocID>                 <Text>Occupy the abandoned UNSS base</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_EMPIRE_LVL2_OCCUPY_BASE_1_DONE</LocID>            <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Occupy the abandoned UNSS base - Finished</color>]]></Text>  </GameDBLocalizedString>

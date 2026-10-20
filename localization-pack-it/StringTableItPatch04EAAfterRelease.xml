@@ -70,10 +70,10 @@
             <GameDBLocalizedString>         <LocID>EFFECTS_LAST_FOR_X_ROUNDS</LocID>                                    <Text>Effect lasts for {1} round(s).</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EFFECTS_REMAINING</LocID>                                            <Text>Remaining: {1}</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL_V2</LocID>                                 <Text>Launches incendiary grenades in all directions.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_UNIT_MECH_SPECIAL_V2</LocID>                                 <Text>Lancia granate incendiarie in tutte le direzioni.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MONSTER_ARMY_CHANGES_WEAKER</LocID>                                  <Text><![CDATA[This is the <color=SOTS_COLOR_GOLD>weaker version</color> of a unit that transforms according to light level.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MONSTER_ARMY_CHANGES_STRONGER</LocID>                                <Text><![CDATA[This is the <color=SOTS_COLOR_GOLD>stronger version</color> of a unit that transforms according to light level.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MONSTER_ARMY_CHANGES_WEAKER</LocID>                                  <Text><![CDATA[Questa è la <color=SOTS_COLOR_GOLD>versione più debole</color> di un'unità che si trasforma in base al livello di luce.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MONSTER_ARMY_CHANGES_STRONGER</LocID>                                <Text><![CDATA[Questa è la <color=SOTS_COLOR_GOLD>versione più potente</color> di un'unità che si trasforma in base all'intensità della luce.]]></Text>  </GameDBLocalizedString>
             
             <!-- New planet in SKIRMISH and its maps -->
             <GameDBLocalizedString>         <LocID>PLANET_EA_01_ID</LocID>                                              <Text>UNSC 4298d Scylla</Text>  </GameDBLocalizedString>

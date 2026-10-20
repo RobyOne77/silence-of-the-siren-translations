@@ -133,8 +133,8 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_MOORE_AF_MOORE_1</LocID>             <Text>NO! Begone, you monster! Aaaaa!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_MOORE_AF_VIKTAR_1</LocID>            <Text>I thought that he would resist ... longer.   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_MOORE_AF_PRINCESS_2</LocID>          <Text>That's why I avoided the other races, I felt Hesperidians are somewhat ... "ready-ish"? </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_MOORE_AF_MOORE_3</LocID>             <Text>9B ... Doctor Brown 9B ... he will get you! He is almost here ... you ... monster! </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_MOORE_AF_PRINCESS_4</LocID>          <Text>Doctor Brown 9B is heading here!? No, no, no! NO! We must close the gate! QUICK! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_MOORE_AF_MOORE_3</LocID>             <Text>9B ... Dottor Brown 9B ... he will get you! He is almost here ... you ... monster! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_MOORE_AF_PRINCESS_4</LocID>          <Text>Dottor Brown 9B is heading here!? No, no, no! NO! We must close the gate! QUICK! </Text>  </GameDBLocalizedString>
 
             <!--meeting with the hesperidian near the close North gate -->
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_BROWN_LOOSE_MAYA_1</LocID>           <Text>They got Moore 3C! Shame ... </Text>  </GameDBLocalizedString>
@@ -205,7 +205,7 @@
 
 
             <!-- END Moore is captured and Princess will use his body to her final metamorphosis, she has an adult body now -->
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_MAYA_1</LocID>                   <Text>Doctor Brown 9B is busy at the moment. If you want to fight him, you must get through me first.  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_MAYA_1</LocID>                   <Text>Dottor Brown 9B is busy at the moment. If you want to fight him, you must get through me first.  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_RH_1</LocID>                     <Text>We will bite through his henchmen one by one if necessary. </Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_BROWN_1</LocID>                  <Text>Stop! Let Maya go! It's me you want! I am responsible for the death of Annika Finch!      </Text>  </GameDBLocalizedString>
