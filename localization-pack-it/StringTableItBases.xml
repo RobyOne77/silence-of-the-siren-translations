@@ -100,8 +100,8 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_HERO_CARD</LocID>                                <Text>Apri la scheda del comandante per visualizzare l'inventario e ulteriori informazioni.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_SWITCH_ARMIES</LocID>                            <Text>Cambio di armate: comandanti di guarnigione/fuori guarnigione</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_UP</LocID>                                 <Text>Unisci le unità all’esercito principale. (I comandanti rimangono ai loro posti.)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_DOWN</LocID>                               <Text>Unisci le unità all’esercito in fondo. (I comandanti rimangono nelle loro posizioni.)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_MANIPULATION</LocID>                        <Text>Clicca per raccogliere questa pila di unità. Clicca con il tasto dx per dividerla.\nQuando sposti una pila, clicca con il tasto dx su uno slot corrispondente per posizionare le unità una alla volta.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_DOWN</LocID>                               <Text>Unisci le unità all’esercito in fondo. (I comandanti rimangono ai loro posti.)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_MANIPULATION</LocID>                        <Text>Clicca per raccogliere questo gruppo di unità. Clicca con il tasto dx per dividerla.\nQuando sposti una pila, clicca con il tasto dx su uno slot corrispondente per posizionare le unità una alla volta.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNDO_ARMY_CHANGES</LocID>                        <Text>Annulla le modifiche all'esercito. Da utilizzare quando si sono spesi accidentalmente più punti movimento del previsto per i trasferimenti delle unità.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>TOOLTIP_THIS_TURN</LocID>                                <Text>In questo turno hai già costruito un edificio in questo base.</Text>  </GameDBLocalizedString>
@@ -139,53 +139,53 @@
             <GameDBLocalizedString>         <LocID>NOT_AVAILABLE_ALREADY_BUILT</LocID>                      <Text>Già realizzato.</Text>  </GameDBLocalizedString>
             
             <!-- Tooltips for base list in the right UI panel on the world map -->
-            <GameDBLocalizedString>         <LocID>BASE_CAN_BUILD</LocID>                                   <Text>There are upgrades available.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_BUILD</LocID>                               <Text>You don't have enough resources to build anything here.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_ALREADY_BUILT</LocID>                               <Text>The base can't be upgraded at the moment.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_COMPLETE</LocID>                                    <Text>This base has been completed.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_CAN_RECRUIT</LocID>                                 <Text>Units here are available for recruitment.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_RECRUIT</LocID>                             <Text>No units can be recruited at the moment.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_BUILD</LocID>                                   <Text>Sono disponibili degli aggiornamenti.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_BUILD</LocID>                               <Text>Non hai risorse sufficienti per costruire qualcosa qui.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_ALREADY_BUILT</LocID>                               <Text>Al momento non è possibile potenziare la base.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_COMPLETE</LocID>                                    <Text>Questa base è stata completata.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_RECRUIT</LocID>                                 <Text>Qui sono disponibili unità da reclutare.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_CAN_NOT_RECRUIT</LocID>                             <Text>Al momento non è possibile reclutare unità.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>TOOLTIP_ACADEMY_INFO</LocID>                             <Text>Show tutorial window for the Academy.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HEADING_ABOUT_THE_ACADEMY</LocID>                        <Text>About the Academy</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILLS</LocID>                              <Text><![CDATA[- Commanders need to choose one of the following <color=SOTS_COLOR_GOLD>skills</color> when leveling up to gain access to <color=SOTS_COLOR_GOLD>commander abilities</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILL_LEVELS</LocID>                        <Text><![CDATA[- Leveling up these skills provides access to <color=SOTS_COLOR_GOLD>more powerful commander abilities</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_LEARNING</LocID>                            <Text><![CDATA[- Commanders automatically learn abilities when visiting a base with an <color=SOTS_COLOR_GOLD>Academy</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_ABILITIES</LocID>                           <Text><![CDATA[- Academy at each base provides a <color=SOTS_COLOR_GOLD>random selection of abilities</color>.\nTo add more powerful abilities for each of the skills you can build several specialized <color=SOTS_COLOR_GOLD>Faculties.</color> Their number is limited by the number of <color=SOTS_COLOR_GOLD>slots</color>, specific to each faction.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_ACADEMY_INFO</LocID>                             <Text>Visualizza la finestra del tutorial dell'Academy.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HEADING_ABOUT_THE_ACADEMY</LocID>                        <Text>Informazioni sull'Accademia</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILLS</LocID>                              <Text><![CDATA[- I comandanti devono scegliere una delle seguenti <color=SOTS_COLOR_GOLD>competenza</color> quando salgono di livello per sbloccare le <color=SOTS_COLOR_GOLD>abilità da comandante</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILL_LEVELS</LocID>                        <Text><![CDATA[- Aumentando il livello di queste competenze si sbloccano <color=SOTS_COLOR_GOLD>abilità da comandante più potenti</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_LEARNING</LocID>                            <Text><![CDATA[- I comandanti acquisiscono automaticamente delle abilità quando visitano una base dotata di un'<color=SOTS_COLOR_GOLD>Accademia</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_ABILITIES</LocID>                           <Text><![CDATA[- L'Accademia di ogni base offre una <color=SOTS_COLOR_GOLD>selezione casuale di abilità</color>.\nPer aggiungere abilità più potenti a ciascuna delle competenze, è possibile costruire diverse <color=SOTS_COLOR_GOLD>Facoltà specializzate.</color> Il loro numero è limitato dal numero di <color=SOTS_COLOR_GOLD>slot</color>, specifico per ogni fazione.]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>GATEWAY_HEROES_TO_BASES</LocID>                          <Text>Send commanders between bases.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_UNITS_TO_OUTPOSTS</LocID>                        <Text>Send units to outposts.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_WHO</LocID>                                      <Text>Who wants to travel?</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_WHERE</LocID>                                    <Text>Choose a base to travel to!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_NOBODY</LocID>                                   <Text>There are no commanders here.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_NOWHERE</LocID>                                  <Text>You have no other bases.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_PLACE_A_UNIT</LocID>                             <Text>Place a unit!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_OUTPOST</LocID>                                  <Text>Choose an outpost!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>GATEWAY_ONE_STACK_PER_ROUND</LocID>                      <Text>Only one unit stack can be sent each round.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_HEROES_TO_BASES</LocID>                          <Text>Invia i comandanti da una base all’altra.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_UNITS_TO_OUTPOSTS</LocID>                        <Text>Invia unità agli avamposti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_WHO</LocID>                                      <Text>Chi vuole viaggiare?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_WHERE</LocID>                                    <Text>Scegli una base verso la quale andare!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_NOBODY</LocID>                                   <Text>Qui non ci sono comandanti.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_NOWHERE</LocID>                                  <Text>Non hai altre basi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_PLACE_A_UNIT</LocID>                             <Text>Posiziona un'unità!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_OUTPOST</LocID>                                  <Text>Scegli un avamposto!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_ONE_STACK_PER_ROUND</LocID>                      <Text>In ogni turno è possibile inviare un solo gruppo di unità.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>NO_BASES</LocID>                                         <Text>You have no bases.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>NO_BASES</LocID>                                         <Text>Non hai basi.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>GATEWAY_TRAVEL_COST</LocID>                              <Text>Travel Cost</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>GATEWAY_TRAVEL_COST</LocID>                              <Text>Costo viaggio</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>BUILT</LocID>                                            <Text>Built</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE</LocID>                        <Text><![CDATA[Any building can be built by spending one <color=SOTS_COLOR_FUSION_CORE>fusion core</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE_CONFIRMATION</LocID>           <Text><![CDATA[Do you want to spend one <color=SOTS_COLOR_FUSION_CORE>fusion core</color> to build this?]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILT</LocID>                                            <Text>Costruisci</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE</LocID>                        <Text><![CDATA[È possibile costruire qualsiasi edificio spendendo un <color=SOTS_COLOR_FUSION_CORE>Nucleo di fusione</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE_CONFIRMATION</LocID>           <Text><![CDATA[Vuoi spendere un <color=SOTS_COLOR_FUSION_CORE>Nucleo di fusione</color> per costruirlo?]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL_HEADING</LocID>                           <Text>Hire all available units</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL</LocID>                                   <Text>You can buy all units for:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNITS_NOTHING_TO_HIRE</LocID>                            <Text>There are currently no units available.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNITS_CAN_NOT_HIRE_ALL</LocID>                           <Text>You don't have enough resources or free army slots in the base to buy all units:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL_HEADING</LocID>                           <Text>Recluta tute le unità disponibili</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL</LocID>                                   <Text>Puoi comprare tutte le unità per:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_NOTHING_TO_HIRE</LocID>                            <Text>In questo momento non ci sono unità disponibili.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_CAN_NOT_HIRE_ALL</LocID>                           <Text>Non hai abbastanza risorse o slot armata liberi per comprare tutte le unità:</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNITS_HIRE_FROM_WEAKEST</LocID>                          <Text>Hire as many units as you can afford, starting from the weakest unit type</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>UNITS_HIRE_FROM_STRONGEST</LocID>                        <Text>Hire as many units as you can afford, starting from the strongest unit type</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_FROM_WEAKEST</LocID>                          <Text>Recluta tutte le unità che ti puoi permettere, partendo dal tipo di unità più debole</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_FROM_STRONGEST</LocID>                        <Text>Recluta tutte le unità che ti puoi permettere, partendo dal tipo di unità più forte</Text>  </GameDBLocalizedString>
 
             <!-- Updates before EA -->
-            <GameDBLocalizedString>         <LocID>BASE_HIRE_SLAVES</LocID>                                <Text>Slave camp</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_SLAVES</LocID>                        <Text>Hire extra units from slavers \nDefault shortcut: [X]</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BASE_HERO_HAS_ALREADY_LEARNED_A_SKILL</LocID>           <Text>This commander has already learned a skill here!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_HIRE_SLAVES</LocID>                                <Text>Campo di schiavi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_HIRE_SLAVES</LocID>                        <Text>Recluta unità aggiuntive dagli schiavisti \nScorciatoia predefinita: [X]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BASE_HERO_HAS_ALREADY_LEARNED_A_SKILL</LocID>           <Text>Questo comandante ha già imparato competenza qui!</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE_CONSUMABLES</LocID>                  <Text>Trade Consumables</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE_EQUIPMENT</LocID>                    <Text>Trade Equipment</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE_CONSUMABLES</LocID>                  <Text>Scambio Consumabili</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_BASE_TRADE_EQUIPMENT</LocID>                    <Text>Scambio Equipaggiamento</Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -173,41 +173,41 @@
 
             <!--NEW BASE BUILDINGS-->
             <!--moles-->
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_SENTRY</LocID>                              <Text>Sentries</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_SENTRY_DESCRIPTION</LocID>                  <Text>It spawns two sentries.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_SENTRY_LORE</LocID>                         <Text>Autonomous weapons. No loyalty, morals, or sense of justice! Kill the enemy - fine, shoot the saboteur - fine. Waste that baby halfbreed ... because I am bored - fine. </Text>  </GameDBLocalizedString>   <!--Love the smell of fear in the morning-->
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_SENTRY</LocID>                              <Text>Sentinelle</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_SENTRY_DESCRIPTION</LocID>                  <Text>Genera due sentinelle.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_SENTRY_LORE</LocID>                         <Text>Armi autonome. Nessuna lealtà, morale o senso di giustizia! Uccidere il nemico? Va bene. Sparare al sabotatore? Va bene. Far fuori quel bambino meticcio... solo perché mi annoio? Va bene. </Text>  </GameDBLocalizedString>   <!--Love the smell of fear in the morning-->
 
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_RECOIL</LocID>                              <Text>Electric Fence</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_RECOIL_DESCRIPTION</LocID>                  <Text>Walls and gates reflect damage back at attackers.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_RECOIL_LORE</LocID>                         <Text>When the "handiest" citizens learn to climb the walls, there is time for an upgrade. Someone must spend their life in the factories, and if you don't want this "someone" to be you, you must act smart. Tell them that it is a precaution against intruders! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_RECOIL</LocID>                              <Text>Recinzione elettrica</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_RECOIL_DESCRIPTION</LocID>                  <Text>I muri e i cancelli respingono i danni verso gli attaccanti.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_DEFENSIVE_RECOIL_LORE</LocID>                         <Text>Quando i cittadini “più intraprendenti” imparano a scavalcare i muri, è il momento di fare un passo avanti. Qualcuno deve pur passare la vita nelle fabbriche, e se non vuoi che quel “qualcuno” sia proprio tu, devi agire con intelligenza. Di’ loro che si tratta di una misura di sicurezza contro gli intrusi! </Text>  </GameDBLocalizedString>
 
             <!--crusaders-->
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_SENTRY</LocID>                          <Text>Sentries</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_SENTRY_LORE</LocID>                     <Text>Another item on the custodians' endless to-do list! At least there's no need to recite prayers during maintenance, cause these unholy artefacts are UNSS-made. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_SENTRY</LocID>                          <Text>Sentinelle</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_SENTRY_LORE</LocID>                     <Text>Un’altra voce nella lista infinita delle cose da fare dei custodi! Almeno non c’è bisogno di recitare preghiere durante la manutenzione, visto che questi manufatti profani sono prodotti dall’UNSS. </Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_RECOIL</LocID>                          <Text>Electric Fence</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_RECOIL_LORE</LocID>                     <Text>Too many temples and too few keepers. That is the problem with today's church. Once the Children set out on a quest and the main nave is empty, the impudent pests would love to nest even on the main altar. But not with these! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_RECOIL</LocID>                          <Text>Recinzione elettrica</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_CRUSADERS_DEFENSIVE_RECOIL_LORE</LocID>                     <Text>Troppi templi e troppo pochi custodi. È questo il problema della Chiesa di oggi. Non appena i Figli della Fonte partono per la loro missione e la navata centrale rimane vuota, quei piccoli impertinenti non vedrebbero l’ora di annidarsi persino sull’altare maggiore. Ma non con questi qui! </Text>  </GameDBLocalizedString>
 
             <!--pirates-->
-            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_SENTRY</LocID>                            <Text>Sentries</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_SENTRY_LORE</LocID>                       <Text>The UNSS loves sentries. Even a kiwi delivery to the most godforsaken outpost is accompanied by an obligatory box of sentry ammo. "Dear UNSS, thanks for the ammo, keep the kiwis. The lack of vitamins can cause death."</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_SENTRY</LocID>                            <Text>Sentinelle</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_SENTRY_LORE</LocID>                       <Text>L’UNSS va matta per le sentinelle. Persino una consegna di kiwi all’avamposto più remoto viene accompagnata da una scatola obbligatoria di munizioni per le sentinelle. “Caro UNSS, grazie per le munizioni, ma tenetevi i kiwi. La carenza di vitamine può essere fatale.”</Text>  </GameDBLocalizedString>
        
-            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_RECOIL</LocID>                            <Text>Electric Fence</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_RECOIL_LORE</LocID>                       <Text>There is an old wisdom passed from Sovereign to Sovereign. Sounds something like: "You piss on an electric fence, urine trouble!" </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_RECOIL</LocID>                            <Text>Recinzione elettrica</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_DEFENSIVE_RECOIL_LORE</LocID>                       <Text>C'è un vecchio detto che si tramanda di Sovrano in Sovrano. Suona più o meno così: «Se pisci su una recinzione elettrica, ti ritrovi nei guai!» </Text>  </GameDBLocalizedString>
          
             <!--empire-->
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_SENTRY</LocID>                             <Text>Sentries</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_SENTRY_LORE</LocID>                        <Text>Every time a commander arrives, they take all the soldiers with them to die on some crazy mission, leaving the base defenceless! So remember to hide at least a few sentries away for a rainy day. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_SENTRY</LocID>                             <Text>Sentinelle</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_SENTRY_LORE</LocID>                        <Text>Ogni volta che arriva un comandante, porta con sé tutti i soldati a morire in qualche missione folle, lasciando la base indifesa! Quindi ricordati di tenere da parte almeno qualche sentinella per i tempi difficili. </Text>  </GameDBLocalizedString>
        
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_RECOIL</LocID>                             <Text>Electric Fence</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_RECOIL_LORE</LocID>                        <Text>Keeping a dedicated base defence unit is painfully expensive, but for once, there is a solution that won't cost you an arm and a leg.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_RECOIL</LocID>                             <Text>Recinzione elettrica</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_RECOIL_LORE</LocID>                        <Text>Mantenere un'unità dedicata alla difesa della base è incredibilmente costoso, ma, per una volta, esiste una soluzione che non ti costerà un occhio della testa.</Text>  </GameDBLocalizedString>
             
             <!--hivemind-->
-            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_SENTRY</LocID>                           <Text>Sentries</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_SENTRY_LORE</LocID>                      <Text>Yes, yes, sentries, turrets, mines, and force shield are actually good, and the tribe will benefit from the additional safety, but apart from that, what have the Outworlders done for us?! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_SENTRY</LocID>                           <Text>Sentinelle</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_SENTRY_LORE</LocID>                      <Text>Sì, sì, le sentinelle, le torrette, le mine e lo scudo protettivo sono davvero utili, e la comunità trarrà beneficio da questa maggiore sicurezza, ma a parte questo, cosa hanno fatto per noi gli Outworlders?! </Text>  </GameDBLocalizedString>
        
-            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_RECOIL</LocID>                           <Text>Electric Fence</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_RECOIL_LORE</LocID>                      <Text>80 kilograms of living tissue generate more bioelectricity than a 120-volt battery. Imagine how much electricity is produced when the whole base is a living organism ... You could fry an elephant, and a single bulb would not flicker!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_RECOIL</LocID>                           <Text>Recinzione elettrica</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_HIVEMIND_DEFENSIVE_RECOIL_LORE</LocID>                      <Text>80 chilogrammi di tessuto vivente generano più bioelettricità di una batteria da 120 volt. Immaginate quanta elettricità si produca quando l’intera base è un organismo vivente… Si potrebbe friggere un elefante, e una singola lampadina non lampeggerebbe nemmeno!</Text>  </GameDBLocalizedString>
             
             <!--New maps-->
             <!--Whack an island-->
@@ -267,10 +267,10 @@
             
             <!--New, no to small campaign role heroes-->
             <GameDBLocalizedString>         <LocID>HERO_PIRATE_15</LocID>                                               <Text>#ALFA</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_PIRATE_15_DESCRIPTION</LocID>                                   <Text>Model ALFA was derived from the only self-aware AI that had never attempted to destroy humanity. Is it psychotic? Yes! Does it murder people? Also, yes, but it's never ever gone for the whole herd. In the grand context of AI development, it means a great deal. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_15_DESCRIPTION</LocID>                                   <Text>Il modello ALFA deriva dall'unica intelligenza artificiale autocosciente che non abbia mai tentato di distruggere l'umanità. È psicotica? Sì! Uccide le persone? Anche in questo caso, sì, ma non ha mai e poi mai cercato di sterminare l'intera popolazione. Nel quadro più ampio dello sviluppo dell'intelligenza artificiale, questo significa moltissimo.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>HERO_PIRATE_17</LocID>                                               <Text>Yolande</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_PIRATE_17_DESCRIPTION</LocID>                                   <Text>Referring to all Sovereigns as 'pirates' would be overstretching it a bit, but Yolande and her crew are pirates much more than they are Sovereigns. From the Jolly Roger marking her ship to the burying of treasures. Only a parrot is missing. It choked on a cookie last month. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_17_DESCRIPTION</LocID>                                   <Text>Definire tutti i Sovrani “pirati” sarebbe un po’ esagerato, ma Yolande e il suo equipaggio sono pirati ben più che Sovrani. Dalla bandiera pirata che sventola sulla sua nave al seppellimento dei tesori. Manca solo un pappagallo. Si è soffocato con un biscotto il mese scorso.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_MOLE_16</LocID>                                                 <Text>Governatore Bokas</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_MOLE_16_DESCRIPTION</LocID>                                     <Text>Un camaleonte opportunista e moralmente corrotto, con la coscienza di un Quokka, capace di scagliare il proprio bambino contro i suoi inseguitori. Ovviamente, è stato portato al potere dopo la sanguinosa repressione della Ribellione dei Mezzosangue, di cui era stato lui stesso il principale responsabile. Senza dubbio, un vero fossoriano. </Text>  </GameDBLocalizedString>
@@ -291,10 +291,10 @@
             <GameDBLocalizedString>         <LocID>HERO_MOLE_17_DESCRIPTION</LocID>                                     <Text>Il Fossoriano meno “fossoriano” di tutti. Per la maggior parte delle persone, solo un idiota che beve birra a litri e ama il cibo, con una risata contagiosa. Ma forse si sta semplicemente comportando in modo più astuto di tutti gli altri, perché, contro ogni previsione, sopravvive e addirittura prospera, immune da tutte le purghe e dai tradimenti.  </Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_PIRATE_14</LocID>                                               <Text>Lenny</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_PIRATE_14_DESCRIPTION</LocID>                                   <Text>One very last adventure before folding into corporate life and starting a family. At least that's what she claimed three years ago. Some people are born to die violently in some shithole. By now, she knows too well. But also does not mind at all. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_14_DESCRIPTION</LocID>                                   <Text>Un'ultima avventura prima di immergersi nella vita aziendale e mettere su famiglia. Almeno così diceva tre anni fa. Alcune persone nascono per morire di morte violenta in qualche posto di merda. Ormai lo sa fin troppo bene. Ma non le importa affatto.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>HERO_PIRATE_16</LocID>                                               <Text>Freddie</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_PIRATE_16_DESCRIPTION</LocID>                                   <Text>Rockerboy, wild as a stray cat! Hero ... at least for a certain age group. The strange thing is that others consider him an annoying idiot without a pinch of self-awareness. I guess, upon entering adulthood, something breaks in people, and it may never get fixed again.      </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_16_DESCRIPTION</LocID>                                   <Text>È un ragazzo ribelle, selvaggio come un gatto randagio! Un eroe… almeno per una certa fascia d’età. La cosa strana è che gli altri lo considerano un idiota fastidioso, privo di un briciolo di autoconsapevolezza. Immagino che, una volta raggiunta l’età adulta, nelle persone si rompa qualcosa che forse non potrà mai più essere riparato.</Text>  </GameDBLocalizedString>
             
             <!--            campaign role heroes-->
             <GameDBLocalizedString>         <LocID>HERO_EMPIRE_17</LocID>                                               <Text>UNSS Officer Annika Finch</Text>  </GameDBLocalizedString>

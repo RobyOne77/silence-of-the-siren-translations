@@ -43,7 +43,7 @@
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_TOOLS</LocID>                         <Text>DEBUG utensili</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_ASYNC_AI</LocID>                      <Text>Esplorazione asincrona AI(sperimentale)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_DISABLE_AUTOSAVE</LocID>              <Text>Disabilita salvataggio automatico(debug)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_EDGE_SCROLLING</LocID>                            <Text>Edge scrolling</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EDGE_SCROLLING</LocID>                            <Text>Scorrimento ai bordi</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_DEBUG_SHOW_TILE_COORDINATES</LocID>               <Text>Mostra coordinate sulla mappa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_DEBUG_SHOW_THREAT_LEVEL</LocID>                   <Text>Mostra livelli minaccia sulla mappa</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_DEBUG_SEND_STATISTICS</LocID>                     <Text>Manda statistiche</Text>  </GameDBLocalizedString>

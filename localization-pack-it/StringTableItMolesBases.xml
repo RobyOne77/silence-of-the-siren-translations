@@ -57,13 +57,13 @@
 
             <!-- Note: these match 4 commander skills, @Chris feel free to skip -->
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO</LocID>                                <Text>Docenza di biologia</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO_DESCRIPTION</LocID>                    <Text>Sblocca abilità biologiche.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO_DESCRIPTION</LocID>                    <Text>Sblocca l'apprendimento di abilità biologiche.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE</LocID>                            <Text>Facoltà globale di geografia</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE_DESCRIPTION</LocID>                <Text>Sblocca una serie di abilità da Giramondo da apprendere.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE_DESCRIPTION</LocID>                <Text>Sblocca l'apprendimento di abilità da Giramondo.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY</LocID>                                <Text>Facoltà di psicologia</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY_DESCRIPTION</LocID>                    <Text>Sblocca una selezione di abilità psichiche da apprendere.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY_DESCRIPTION</LocID>                    <Text>Sblocca l'apprendimento di abilità psichiche.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_TECH</LocID>                               <Text>Facoltà di tecnologia</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_TECH_DESCRIPTION</LocID>                   <Text>Sblocca una selezione di abilità tecnologiche da imparare.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_TECH_DESCRIPTION</LocID>                   <Text>Sblocca l'apprendimento di abilità tecnologiche.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1</LocID>                                  <Text>Progetti Ratling</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_1_DESCRIPTION</LocID>                      <Text>Recluta Scagnozzi Ratling.</Text></GameDBLocalizedString>

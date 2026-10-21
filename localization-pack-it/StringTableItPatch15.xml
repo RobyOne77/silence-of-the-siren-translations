@@ -35,7 +35,7 @@
             <GameDBLocalizedString> <LocID>MANUAL_COMBAT_ACTIVE_UNIT</LocID>                 <Text>Unità attiva</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMBAT_TARGETED_ENEMY</LocID>              <Text>Unità nemica bersaglio</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMBAT_DAMAGE_PREVIEW</LocID>              <Text>Anteprima dei danni</Text></GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>MANUAL_COMBAT_UNITS_IN_STACK</LocID>              <Text>Numero di unità in una pila</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>MANUAL_COMBAT_UNITS_IN_STACK</LocID>              <Text>Numero di unità in un gruppo</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMBAT_MOVEMENT_RANGE</LocID>              <Text><![CDATA[<color=#9FA19C>Movimento</color>\n Raggio]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMBAT_RANGED_ATTACK_RANGE</LocID>         <Text><![CDATA[<color=#FF0000>Attacco preciso</color>\n Raggio]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMBAT_FAR_ATTACK_RANGE</LocID>            <Text><![CDATA[<color=#FC7EFB>Attacco impreciso</color>\n Raggio]]></Text></GameDBLocalizedString>

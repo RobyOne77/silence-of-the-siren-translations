@@ -38,7 +38,7 @@
             <GameDBLocalizedString>         <LocID>HIRE_CUSTOM_NUMBER_UNITS_HEADING</LocID>                 <Text>Arruola un num personalizzato di unità</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_CUSTOM_NUMBER_UNITS_HEADING</LocID>                 <Text>Personalizza num unità da arruolare</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TAKE_CUSTOM_NUMBER_UNITS_HEADING</LocID>                 <Text>Personalizza num unità da prendere</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>PICK_UP_CUSTOM_NUMBER_UNITS_HEADING</LocID>              <Text>Dividi pila</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>PICK_UP_CUSTOM_NUMBER_UNITS_HEADING</LocID>              <Text>Dividi gruppo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DISMISS_UNIT</LocID>                                     <Text>Rilascia queste unità</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_HERO</LocID>                                        <Text>Ingaggia </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_RETREATED_HERO</LocID>                              <Text>Ri-ingaggia questo vigliaccio!</Text>  </GameDBLocalizedString>

@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <Name>Roberto Natta</Name>
+            c
         </Contributors>
 
         <LocalizedStrings>
@@ -22,8 +22,8 @@
            <!--   Missing description fot Torpedo - projectile    Assets/StreamingAssets/ModuleMoles/Database/Localization/StringTableEnMoles.xml-->
             <GameDBLocalizedString>         <LocID>UNIT_MOLES_TORPEDO_PROJECTILE_DESCRIPTION</LocID>    <Text>Some of them fail to explode and turn former battlefields into minefields. Then after ten or more years, you go walk your genetically enhanced monkey, and suddenly BOOM! You walk an empty leash! Oh, those Fossorians!</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>SAVE_DIALOG_ARCHIVE</LocID>                            <Text>Archive</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_ARCHIVE_ENABLED</LocID>                         <Text>Autosave archive enabled</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SAVE_DIALOG_ARCHIVE</LocID>                            <Text>Archivio</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_ARCHIVE_ENABLED</LocID>                         <Text>Archivio salvataggio automatico abilitato</Text>  </GameDBLocalizedString>
 
             
             <!--Equipment redesign-->
@@ -80,9 +80,9 @@
 
             <!--Skills and attributes redesign-->
 
-            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_FULLSCREEN</LocID>                                   <Text>Fullscreen mode</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_FULLSCREEN_ON</LocID>                                <Text>Fullscreen</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_WINDOWED</LocID>                                     <Text>Windowed</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_FULLSCREEN</LocID>                                   <Text>Modalità schermo intero</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_FULLSCREEN_ON</LocID>                                <Text>Schermo intero</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_WINDOWED</LocID>                                     <Text>In finestra</Text></GameDBLocalizedString>
 
             <!--Detailed tooltips for unit attributes-->
             <GameDBLocalizedString>         <LocID>UNIT_HPPOOL_DESCRIPTION</LocID>                                      <Text><![CDATA[Maximum number of <color=SOTS_COLOR_GOLD>hit points</color> of each unit in this stack.]]></Text></GameDBLocalizedString>
@@ -128,7 +128,7 @@
 
             <GameDBLocalizedString>         <LocID>HERO_SKILL_MOLES_BLOODLUST</LocID>                                   <Text>Brama di Sangue</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_MOLES_BLOODLUST_DESCRIPTION</LocID>                       <Text>Competenza speciale dei comandanti Fossoriani.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_CHANCE_TO_MOVE_AGAIN_AFTER_A_KILL</LocID>               <Text><![CDATA[Conferisce alle tue unità una probabilità del <color=SOTS_COLOR_GOLD>{1}% di muoversi nuovamente</color> dopo aver eliminato una pila di unità nemiche.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_CHANCE_TO_MOVE_AGAIN_AFTER_A_KILL</LocID>               <Text><![CDATA[Conferisce alle tue unità una probabilità del <color=SOTS_COLOR_GOLD>{1}% di muoversi nuovamente</color> dopo aver eliminato un gruppo di unità nemiche.]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_SKILL_PIRATES_FIELD_REPAIR</LocID>                              <Text>Riparazione sul campo</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_PIRATES_FIELD_REPAIR_DESCRIPTION</LocID>                  <Text>Competenza speciale dei comandanti della Flotta Sovrana.\nConferisce alle tue unità la capacità di ripararsi attaccando nemici simili.</Text></GameDBLocalizedString>

@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -13,10 +13,10 @@
                                                                                                                         
             <GameDBLocalizedString>         <LocID>SPECIAL_BLOCKED</LocID>                                               <Text>Special ability is blocked</Text></GameDBLocalizedString>
                                                                                                                         
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_RESTING_DESCRIPTION_V2</LocID>                        <Text>Fully restores movement of visiting commanders. Each commander can only get recharged once per phase.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_RESTING_DESCRIPTION_V2</LocID>                        <Text>Ripristina completamente la mobilità dei comandanti ospiti. Ogni comandante può ricaricarsi solo una volta per fase.</Text></GameDBLocalizedString>
                                                                                                                         
-            <GameDBLocalizedString>         <LocID>BUILDING_GENERIC_FACULTY_SPECIALIZATION_DESCRIPTION_V2</LocID>        <Text>You can pay to research up to 5 extra abilities for this Academy here.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_BUY_ABILITY_V2</LocID>                                   <Text>You can pay to research up to 5 extra abilities for this Academy here. The price doubles each time.\nYou need a matching Faculty to be able to choose from level 2 and level 3 abilities.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_GENERIC_FACULTY_SPECIALIZATION_DESCRIPTION_V2</LocID>        <Text>Qui puoi pagare per sbloccare fino a 5 abilità aggiuntive per questa Accademia.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_BUY_ABILITY_V2</LocID>                                   <Text>Qui puoi pagare per sbloccare fino a 5 abilità aggiuntive per questa Accademia. Il prezzo raddoppia ogni volta.\nPer poter scegliere tra le abilità di livello 2 e 3, devi disporre di una Facoltà corrispondente.</Text>  </GameDBLocalizedString>
                                                                                                                         
             <GameDBLocalizedString>         <LocID>ENCYCLOPEDIA_UNITS</LocID>                                            <Text>Unità</Text>  </GameDBLocalizedString>
                                                                                                                         
@@ -55,7 +55,7 @@
             <GameDBLocalizedString>         <LocID>HERO_ROBO_CRUSADER_9_DESCRIPTION_ALTERNATIVE</LocID>                  <Text>Two tons of steel bones, powerful servomotors, and a bit of a weird sense of humor, all packed in shiny armor. At first glance, a ruthless warrior of the Children of a Source. \n\nBut since his mind was grafted with a human engram, he became a loyal sidekick of Sovereign Feet's captain Annika Finch. </Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_PIRATE_13</LocID>                                                <Text>Rosalina</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_PIRATE_13_DESCRIPTION</LocID>                                    <Text>Although many believe her transition was motivated only by pursuit of fame and profit, she always genuinely felt like a cat imprisoned in a human body. \n\nEither way, her appearance has nothing to do with her rise amongst the Sovereigns. Her bold actions even gained her a visit from the Hesperidian death squad. She was shot eight times but miraculously recovered, and her star-light never shone more brightly. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_PIRATE_13_DESCRIPTION</LocID>                                    <Text>Sebbene molti ritengano che la sua trasformazione sia stata motivata esclusivamente dalla ricerca della fama e del profitto, lei si è sempre sentita sinceramente come un gatto imprigionato in un corpo umano. \n\nIn ogni caso, il suo aspetto non ha nulla a che vedere con la sua ascesa tra i Sovrani. Le sue azioni audaci le sono valse persino una visita dalla squadra della morte di esperidiana. Le hanno sparato otto volte, ma si è miracolosamente ripresa, e la luce della sua stella non ha mai brillato di più.</Text>  </GameDBLocalizedString>
                                                                                                                         
             <GameDBLocalizedString>         <LocID>MapEventHeroAction_DISABLE_ALIVE_TRACKING</LocID>                     <Text>Disable "keep alive" condition</Text></GameDBLocalizedString>
                                                                                                                         

@@ -23,7 +23,7 @@
 			
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_ECONOMY_UPGRADE_MAX_DESCRIPTION</LocID>   <Text><![CDATA[Genera <color=SOTS_COLOR_GOLD>1000</color> <color=SOTS_COLOR_GOLD>monete Aura</color> aggiuntive per turno e aumenta ulteriormente la produzione di unità.]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_REPLICATOR</LocID>                        <Text>Tana aziendale</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_REPLICATOR_DESCRIPTION</LocID>            <Text><![CDATA[olor=SOTS_COLOR_RADIANT>Radiant</color> delle unità presenti in questa base e riduce il costo degli scudi balistici.\n+1 alla produzione di Ares.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_REPLICATOR_DESCRIPTION</LocID>            <Text><![CDATA[<color=SOTS_COLOR_RADIANT>Radiant</color> delle unità presenti in questa base e riduce il costo degli scudi balistici.\n+1 alla produzione di Ares.]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_GATEWAY</LocID>                           <Text>Raggio di teletrasporto</Text></GameDBLocalizedString>
             <!-- Description is generic -->
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_RESTING</LocID>                           <Text>Bobina di carica</Text></GameDBLocalizedString>
@@ -32,13 +32,13 @@
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPACE_BAR</LocID>                         <Text>Mensa</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPACE_BAR_DESCRIPTION</LocID>             <Text>Consente l'ingaggio di comandanti.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_MUSIC_HALL</LocID>                        <Text>Ponte ologrammi</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_MUSIC_HALL_DESCRIPTION</LocID>            <Text>Aggiunge un altro comandante da ingaggiare. I comandanti partono con livelli di attributi più alti.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_MUSIC_HALL_DESCRIPTION</LocID>            <Text>Aggiunge altri comandanti da ingaggiare. I comandanti partono con livelli di attributi più alti.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_VISIBILITY_UPGRADE</LocID>                <Text>Torre di controllo</Text></GameDBLocalizedString>
             <!-- Description is generic -->
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_RECYCLER</LocID>                          <Text>Riciclatore</Text></GameDBLocalizedString>
             <!-- Description is generic -->
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACTORY</LocID>                           <Text>Unità industriale</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACTORY_DESCRIPTION</LocID>               <Text>Ti permette di costruire scudi che bloccano le unità per i tuoi eserciti.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACTORY</LocID>                           <Text>Officina</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACTORY_DESCRIPTION</LocID>               <Text>Ti permette di costruire scudi per i tuoi eserciti che bloccano le unità nemiche.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_TRADING_POST</LocID>                      <Text>Negozio</Text></GameDBLocalizedString>
             <!-- Description is generic -->
 

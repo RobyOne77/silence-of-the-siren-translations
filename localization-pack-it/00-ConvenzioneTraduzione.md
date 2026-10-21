@@ -160,6 +160,47 @@ Oggetti, unità, edifici:
 | Adela | Adela | |
 | Governor Burke | Governatore Burke | Gov. Burke
 
+#### Flotta Sovrana
+
+##### Unità
+| Originale | Tradotto |
+|:-|:-|
+| Saw-ty | Saw-ty |
+| Saw-ty II | Saw-ty II |
+| Marauder | Predone |
+| Marauder Grenadier | Granatiere Predone |
+| Mortar | Mortaio |
+| Overclocked Mortar | Mortaio Sovraccaricato |
+| Scorch Shower | Pioggia Rovente |
+| Scorch Thrower | Lanciafiamme |
+| Huntress | Cacciatrice |
+| Huntress Captain | Capitano delle Cacciatrici |
+| Thunderbot | Folgore |
+| Elite Thunderbolt | Fulmine d'Élite |
+| Antimat | Antimateria |
+| Heavy Antimat | Antimateria Pesante |
+| Healing station | Stazione di cura |
+
+##### Comandanti
+| Originale | Tradotto | Contratto |
+|:-|:-|:-|
+| Captain Monk | Capitano Monk | Cap. Monk |
+| Captain Borg | Capitano Borg | Cap. Borg |
+| Gran Manny | Grand Manny | |
+| Kali Chapek | Kali Chapek | |
+| Doug Porter | Doug Porter | |
+| Demon Ragna | Demon Ragna | |
+| Captain Pick | Capitano Pick | Cap. Pick |
+| Annika Finch | Annika Finch | |
+| "Winky" Rodgers | "Occhiolino" Rodgers | |
+| Old Viletrax | Old Viletrax | |
+| Professor Zane | Professor Zane | Prof. Zane |
+| #925 | #925 | |
+| Rosalina | Rosalina | |
+| Lenny | Lenny | |
+| #ALFA | #ALFA | |
+| Freddie | Freddie | |
+| Yolande | Yolande | |
 
 ### Competenze (Skill)
 | Originale | Tradotto |
@@ -329,4 +370,4 @@ Oggetti, unità, edifici:
 # Convenzioni
 Per unità HIRE --> Recluta  
 Per comandanti HIRE --> Ingaggia  
-Per Stack ---> Pila
+Per Stack ---> Gruppo
