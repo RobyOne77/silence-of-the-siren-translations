@@ -91,8 +91,8 @@
             <GameDBLocalizedString>         <LocID>EQUIPMENT_CAMPAIGN_RELIC_LORE</LocID>                                <Text><![CDATA[The item is stylized to look like an insect larva with a malevolent smile. Its origin or purpose is unknown, but with a design like this, it's hard to imagine it had a mundane purpose. I wouldn't take a cookie from a jar like this, would you? By the way, it is emitting strong theta waves. ]]></Text>  </GameDBLocalizedString>
            
             <!--_______________ABILITIES__________________________-->
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_HACK_DESCRIPTION_LVL2_V2</LocID>                 <Text>The unit is Hypnotized and cannot move.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_MIMICKING_TACTICS_DESCRIPTION_V2</LocID>         <Text>Mimics (transforms into) any unit on the battlefield.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_HACK_DESCRIPTION_LVL2_V2</LocID>                 <Text>L'unità è ipnotizzata e non può muoversi.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_MIMICKING_TACTICS_DESCRIPTION_V2</LocID>         <Text>Imitazione (si trasforma in) qualsiasi unità presente sul campo di battaglia.</Text></GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

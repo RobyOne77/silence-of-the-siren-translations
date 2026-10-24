@@ -56,8 +56,8 @@
             <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_SPECIALIZATION_DESCRIPTION</LocID><Text>Sblocca la possibilità di acquistare una nuova abilità</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_BIO</LocID>                       <Text>Bio-laboratorio</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_BIO_DESCRIPTION</LocID>           <Text>Sblocca l'apprendimento di abilità biologiche.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_EXPLORE</LocID>                   <Text>Club degli esploratori</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_EXPLORE_DESCRIPTION</LocID>       <Text>Sblocca l'apprendimento di abilità di esplorazione.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_EXPLORE</LocID>                   <Text>Club dei Giramondo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_EXPLORE_DESCRIPTION</LocID>       <Text>Sblocca l'apprendimento di abilità da Giramondo.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_PSY</LocID>                       <Text>Tana degli Psionici</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_PSY_DESCRIPTION</LocID>           <Text>Sblocca l'apprendimento di abilità psichiche.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_PIRATES_FACULTY_TECH</LocID>                      <Text>Laboratorio tecnologico</Text></GameDBLocalizedString>

@@ -59,7 +59,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO</LocID>                                <Text>Docenza di biologia</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_BIO_DESCRIPTION</LocID>                    <Text>Sblocca l'apprendimento di abilità biologiche.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE</LocID>                            <Text>Facoltà globale di geografia</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE_DESCRIPTION</LocID>                <Text>Sblocca l'apprendimento di abilità da Giramondo.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_EXPLORE_DESCRIPTION</LocID>                <Text>Sblocca l'apprendimento di abilità da Eploratore.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY</LocID>                                <Text>Facoltà di psicologia</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_PSY_DESCRIPTION</LocID>                    <Text>Sblocca l'apprendimento di abilità psichiche.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_FACULTY_TECH</LocID>                               <Text>Facoltà di tecnologia</Text></GameDBLocalizedString>

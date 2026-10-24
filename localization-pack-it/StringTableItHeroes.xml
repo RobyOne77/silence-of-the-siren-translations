@@ -12,16 +12,16 @@
             <GameDBLocalizedString>         <LocID>HERO_LEVEL</LocID>                                       <Text>Livello</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_XP</LocID>                                          <Text><![CDATA[<color=SOTS_COLOR_XP>Punti esperienza (XP)</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT</LocID>                            <Text>Potenza di combattimento</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT</LocID>                            <Text>Potenza nel combattimento</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT_DESCRIPTION</LocID>                <Text><![CDATA[Ogni punto di Potenza di combattimento aumenta la <color=SOTS_COLOR_UPGRADE>DIFESA</color> e il <color=SOTS_COLOR_ATTACK>DANNO</color> delle tue unità.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT_DESCRIPTION</LocID>                <Text><![CDATA[Ogni punto di Potenza nel combattimento aumenta la <color=SOTS_COLOR_UPGRADE>DIFESA</color> e il <color=SOTS_COLOR_ATTACK>DANNO</color> delle tue unità.]]></Text>  </GameDBLocalizedString>
                                                                                                            
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE</LocID>                      <Text>Abilità Forza</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE_DESCRIPTION</LocID>          <Text><![CDATA[Aumentando il livello di Abilità Forza, si aumenta la <color=SOTS_COLOR_ENERGY>riserva di energia</color> del comandante e si potenziano le sue abilità.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE</LocID>                      <Text>Potenza delle abilità</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_INTELLIGENCE_DESCRIPTION</LocID>          <Text><![CDATA[Aumentando il livello di Potenza delle abilità, si aumenta la <color=SOTS_COLOR_ENERGY>riserva di energia</color> del comandante e si potenziano le sue abilità.]]></Text>  </GameDBLocalizedString>
                                                                                                            
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_VISION</LocID>                            <Text>Visione</Text>  </GameDBLocalizedString>
                                                                                                            
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT</LocID>                          <Text>Competenza nell'esplorazione</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT</LocID>                          <Text>Perizia nell'esplorazione</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_DESCRIPTION</LocID>              <Text><![CDATA[Aumenta il numero di <color=SOTS_COLOR_MOVEMENT>punti movimento</color> e migliora anche il raggio di visibilità del comandante.]]></Text>  </GameDBLocalizedString>
                                                                                                            
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MORALE</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_GOLD>Morale</color>]]></Text>  </GameDBLocalizedString>
@@ -83,7 +83,7 @@
             <GameDBLocalizedString>         <LocID>ABILITIES_ALL</LocID>                                    <Text>Tutte</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>TOOLTIP_MOVE_ALL_ITEMS</LocID>                           <Text>Sposta tutti gli oggetti tra i comandanti.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_ARMY</LocID>                               <Text>Unire armi</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_ARMY</LocID>                               <Text>Unire armate</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_ENGINEER</LocID>                  <Text>Ricarica punti energia.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_EXPLORER</LocID>                  <Text>Aumenta punti movimento.</Text></GameDBLocalizedString>
@@ -98,8 +98,7 @@
             <GameDBLocalizedString>         <LocID>HEADING_CURRENT_SKILLS</LocID>                           <Text>Attuali competenze</Text>  </GameDBLocalizedString>
 
             <!--Exploration skills-->
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER</LocID>                              <Text>Esploratore</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER_DESCRIPTION</LocID>                  <Text><![CDATA[Permanently adds <color=SOTS_COLOR_MOVEMENT>4 Movement Points</color> with each skill level.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER</LocID>                              <Text>Giramondo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER_DESCRIPTION</LocID>                  <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>4 punti movimento</color> per ogni livello di competenza.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER1</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>8 punti movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>4 punti movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER2</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>12 punti movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>6 punti movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>

@@ -56,9 +56,9 @@
             
             <!--HERO-->
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVE_ATTRIBUTE</LocID>                      <Text>Non saltare mai l’allenamento per le gambe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVE_ATTRIBUTE_DESCRIPTION</LocID>          <Text>Migliora per la prima volta l'attributo “Competenza nell'esplorazione”.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_MOVE_ATTRIBUTE_DESCRIPTION</LocID>          <Text>Migliora per la prima volta l'attributo “Perizia nell'esplorazione”.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMBAT_ATTRIBUTE</LocID>                    <Text>Mi sento più forte</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMBAT_ATTRIBUTE_DESCRIPTION</LocID>        <Text>Migliora per la prima volta l'attributo “Potenza di combattimento“.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>ACHIEVEMENT_COMBAT_ATTRIBUTE_DESCRIPTION</LocID>        <Text>Migliora per la prima volta l'attributo “Potenza nel combattimento“.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ABILITY_ATTRIBUTE</LocID>                   <Text>Ora posso fare ancora più magie</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_ABILITY_ATTRIBUTE_DESCRIPTION</LocID>       <Text>Aumentare per la prima volta l'attributo “Forza” dell'abilità.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>ACHIEVEMENT_FIRST_LEVEL_UP</LocID>                      <Text>Ancora un livello, per favore!</Text>  </GameDBLocalizedString>

@@ -1,7 +1,7 @@
 # Progetto di traduzione di Heroes of science & Fiction
 
 
-## Fazioni
+### Fazioni
 
 | Originale | Tradotto |
 |:-|:-|
@@ -24,7 +24,7 @@
 | Lord Commander | Lord Comandante |
 | Half-breed rebellion | Ribellione dei Mezzosangue |
 
-# Risorse
+### Risorse
 
 | Originale | Tradotto |
 |:-|:-|
@@ -35,11 +35,140 @@
 | Fusion core | Nuclei di fusione |
 | Aura Coins | Monete Aura |
 
-## Comandanti
-Nel gioco i comandanti hanno delle Skill e delle abilità che vengono tradotte le gioco facendo un po' di confusione.  
-Le Skill sono delle competenze innate e passive e hanno livelli di specializzazione. Nel gioco trovano posto nei "rombi".  
-Le Abilities sono delle abilità "attive" che possono essere usate durante le battaglie, e sono selezionabili da un libro.  
-Infine ci sono gli Attributi 
+### Comandanti
+
+#### Attributi
+
+| Originale | Tradotto |
+| :--- | :--- |
+| Energy Points | Punti Energia |
+| Movement Points | Punti Movimento |
+| XP | Punti esperienza \(XP\) |
+
+#### Categorie principali di Abilità 
+
+| Originale | Tradotto | Dove si applica |
+| :--- | :--- | --- |
+| Exploration Proficiency | c | Esplorazione mappa |
+| Combat Power | Potenza nel combattimento | Campo di battaglia |
+| Ability Strength | Potenza delle abilità |   |
+
+##### Luogo di validità delle abilità principali
+
+| Originale | Tradotto | Dove si applica |
+| :--- | :--- | --- |
+| Movement in combat | Movimento in cambattimento \(cercare per corregere\) | Campo di battaglia |
+| Morale | Morale | Campo di battaglia |
+| Vision | Visione |   |
+
+#### Competenze (Skill)
+##### Descrizione
+Competenze\: fino a un totale di 8.
+
+| Livello comandante | Livello Competenza |
+| --- | --- |
+| 1\-4 | 1 |
+| 5\-9 | 2 |
+| 10 | 3 |
+
+##### Lista
+| Originale | Tradotto |
+| :--- | :--- |
+| Biotic | Biotico |
+| Bloodlust | Brama di Sangue / Sete di Sangue |
+| Brawler | Attaccabrighe |
+| Builder | Costruttore |
+| Chess Master | Maestro di scacchi |
+| Collector | Collezionista |
+| Defensive Specialist | Specialista difensivo |
+| Engineer | Ingegnere |
+| Explorer | Esploratore |
+| Field Repair | Riparazione sul campo / Riparazione da campo |
+| Field Research | Ricerca sul campo |
+| Globetrotter | Giramondo |
+| Lord of Beasts | Signore delle Bestie / Signore delle Creature |
+| Negotiator | Negoziatore |
+| Raiden | Raiden |
+| Renewed Spirit | Spirito Rinnovato |
+| Scavenger | Raccoglitore |
+| Scout | Scout |
+| Sniper | Cecchino |
+| Spyker | Psionico |
+| Techie | Esperto di tecnologia |
+| Tracker | Localizzatore |
+| War Hawk | Falco da guerra |
+
+## Abilità (Abilities)
+
+| Originale | Tradotto | Competenza |
+| :--- | :--- | --- |
+| Psy Abilities | Abilità psichiche |   |
+| Death Mark | Marchio della morte | Giramondo |
+| Easy prey | Preda facile | Giramondo |
+| Barbarian horde | Orda di barbari | Giramondo |
+| Rush | Scatto | Giramondo |
+| Long Range Artillery | Artiglieria a lungo raggio | Esperto di tecnologia |
+| Regenerate | Rigenerare | Biotico |
+| Lighten Armor | Alleggerisci Armatura | Biotico |
+| Lure Local Beast | Attira Bestia Locale | Biotico |
+| Field Promotion | Promozione sul Campo | Biotico |
+| Walking Rations | Razioni Deambulanti | Biotico |
+| Artificial Muscle Fibers | Fibre Muscolari Artificiali | Biotico |
+| Glue Grenade | Granata Collante | Biotico |
+| Armor Incrustation | Armatura Incrostata |   |
+| Restoring Biofilm | Ripristino Biofilm | Biotico |
+| Disruptive Ultrasound | Ultrasuoni Dirompenti | Biotico |
+| Acid Projectile | Proiettile Acido | Biotico |
+| Chameleon Coating | Rivestimento Camaleontico | Biotico |
+| Resurrect | Resuscitare | Biotico |
+| Mimicking Tactics | Tattiche di Imitazione | Biotico |
+| Clone | Clone | Biotico |
+| Repair | Riparare | Esperto di tecnologia |
+| Sentry Airdrop | Lancio di Torrette Sentinella | Esperto di tecnologia |
+| Wild Card | Jolly | Esperto di tecnologia |
+| Force Field | Campo di Forza | Esperto di tecnologia |
+| Orbital Strike | Attacco Orbitale | Esperto di tecnologia |
+| Blast Waveù | Onda d'Urto | Esperto di tecnologia |
+| Hack | Viola | Esperto di tecnologia |
+| Jerry\-rig | Riparazione di Fortuna | Esperto di tecnologia |
+| System Equilibrium | Equilibrio del Sistema | Esperto di tecnologia |
+| Teleport | Teletrasporto | Esperto di tecnologia |
+| Orbital Bombardment | Bombardamento Orbitale | Esperto di tecnologia |
+| Vortex Mines | Mine a Vortice |   |
+| Draining Coil | Bobina Drenante | Esperto di tecnologia |
+| Surface Overcharge | Sovraccarico di Superficie | Esperto di tecnologia |
+| Cooldown Recovery | Riduzione del Tempo di Ricarica | Psionico |
+| Psionic blast | Esplosione Psionica | Psionico |
+| Confusion | Confusione | Psionico |
+| Feint | Finta | Psionico |
+| Psionic cleansin | Purificazione Psionica | Psionico |
+| Arcane controller | Controllo Arcano | Psionico |
+| Berserk | Furioso | Psionico |
+| Phase shift | Sfasamento | Psionico |
+| Maximum Effort | Massimo Impegno | Psionico |
+| Phase mirror | Specchio di Fase | Psionico |
+| Mental bond | Legame Mentale | Psionico |
+| Mind patch | Modifica Mentale | Psionico |
+| Mental riot | Rivolta Mentale | Psionico |
+
+#### Danni e effetti di stato
+
+| Originale | Tradotto | Tipo | Competenza |
+| --- | --- | --- | --- |
+| Burning damage | Danno da ustione | Danno |   |
+| Confused and shaking | Confuso e tremante | Effetto | Psionico |
+| Block melee | Blocca attacchi in mischia | Effetto | Psionico |
+| Block ranged | Blocca attacchi a distanza | Effetto | Psionico |
+| Arcane controller | Sotto Controllo Arcano | Effetto | Psionico |
+| Berseker | Furia omicida | Effetto | Psionico |
+| Phase shift | Sfasamento | Effetto | Psionico |
+| Advanced Phase Shift | Sfasamento avanzato | Effetto | Psionico |
+| Extra shot | Colpo extra | Effetto | Psionico |
+| Precision shot | Colpo preciso | Effetto | Psionico |
+| Phase mirror | Specchio di fase | Effetto | Psionico |
+| Mental bond | Legame mentale | Effetto | Psionico |
+| Mind patched | Mente modificata | Effetto | Psionico |
+| Death Mark | Marchio della morte | Effetto | Giramondo |
 
 ### Nomi
 
@@ -202,73 +331,24 @@ Oggetti, unità, edifici:
 | Freddie | Freddie | |
 | Yolande | Yolande | |
 
-### Competenze (Skill)
-| Originale | Tradotto |
-|:-|:-|
-| Biotic | Biotico |
-| Bloodlust | Brama di Sangue / Sete di Sangue |
-| Brawler | Attaccabrighe |
-| Builder | Costruttore |
-| Chess Master | Maestro di scacchi |
-| Collector | Collezionista |
-| Defensive Specialist | Specialista difensivo |
-| Engineer | Ingegnere |
-| Explorer | Esploratore |
-| Field Repair | Riparazione sul campo / Riparazione da campo |
-| Field Research | Ricerca sul campo |
-| Globetrotter | Giramondo |
-| Lord of Beasts | Signore delle Bestie / Signore delle Creature |
-| Negotiator | Negoziatore |
-| Raiden | Raiden |
-| Renewed Spirit | Spirito Rinnovato |
-| Scavenger | Raccoglitore |
-| Scout | Scout |
-| Sniper | Cecchino |
-| Spyker | Spia | ----> NON TROVATO DA NESSUNA PARTE
-| Techie |   |
-| Tracker | Localizzatore |
-| War Hawk | Falco da guerra |
-
-## Abilità (Abilities)
-| Originale | Tradotto |
-|:-|:-|
-| Psy Abilities | Abilità psichiche |
-| Easy prey | Preda facile |
-| Barbarian horde | Orda di barbari |
-| Rush | Scatto |
-| Long-range artillery | Artiglieria a lungo raggio |
-
-
-## Attributi
-| Originale | Tradotto |
-|:-|:-|
-| Combat Power | Potenza nel combattimento |
-| Ability Strength | Potenza delle abilità |
-| Energy Points | Punti Energia |
-| Movement Points | Punti Movimento |
-| Exploration Proficiency | Perizia nell'esplorazione |
-| Morale | Morale |
-| Vision | Visione |
-
-| Movement in combat | Movimento |
-
-
 # Altri termini
+
 | Originale | Tradotto |
-|:-|:-|
-| Cybersnare | Cyber-trappola |
+| :--- | :--- |
+| Cybersnare | Cyber\-trappola |
 | Tumori biomancy | Biomanzia dei Tumori |
 | Skill | Competenza |
 | Abilty | Abilità |
 | Theta wave theory | teoria delle onde Theta |
 | Sinestetic | Sinestetici / Sinestetico |
-| Memory Wiper | Cancellatore di memoria (azione) |
+| Memory Wiper | Cancellatore di memoria \(azione\) |
 | Planet Fall Beacon | Faro di atterraggio |
-| Earth-based company | Azienda terrestre |
+| Earth\-based company | Azienda terrestre |
 | QuickCast | Lancio rapido |
 | Fog of War | Nebbia di guerra |
 | Buff | Potenziamento |
 | Debuff | Indebolimento |
+| HP | PV |
 
 # Combattimento
 
