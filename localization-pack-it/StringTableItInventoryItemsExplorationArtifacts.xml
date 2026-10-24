@@ -9,7 +9,7 @@
 
         <LocalizedStrings>
             <GameDBLocalizedString>         <LocID>ARTIFACT_VAGRANT</LocID>                                 <Text>Vagabondo</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ARTIFACT_VAGRANT_DESCRIPTION</LocID>                     <Text><![CDATA[Un manufatto.\nFornisce <color=SOTS_COLOR_MOVEMENT>20 Punti movimento</color> per ogni turno.]]></Text>  </GameDBLocalizedString><!--TODO put back when short cuts are done ->All shortcuts will be gratis and instant.-->
+            <GameDBLocalizedString>         <LocID>ARTIFACT_VAGRANT_DESCRIPTION</LocID>                     <Text><![CDATA[Un manufatto.\nFornisce <color=SOTS_COLOR_MOVEMENT>20 punti movimento</color> per ogni turno.]]></Text>  </GameDBLocalizedString><!--TODO put back when short cuts are done ->All shortcuts will be gratis and instant.-->
             <GameDBLocalizedString>         <LocID>ARTIFACT_VAGRANT_LORE</LocID>                            <Text>A volte basta solo continuare ad andare avanti. E se la tua volontà viene meno, il “Vagabondo” non ti permette di fermarti. Che tu guidi, pedali, corra o barcolli su moncherini insanguinati, non ha importanza. Non spetta più a te decidere.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>ARTIFACT_SEER</LocID>                                    <Text>Veggente</Text>  </GameDBLocalizedString>

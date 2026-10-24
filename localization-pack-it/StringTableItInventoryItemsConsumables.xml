@@ -68,7 +68,7 @@
             <GameDBLocalizedString>         <LocID>CONSUMABLE_ANCIENT_DATASCROLL_PSY_ABILITIES</LocID>                    <Text>Antica pergamena dati: Abilità psichiche</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>CONSUMABLE_RECHARGE_CELL</LocID>                                       <Text>Cella energetica</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CONSUMABLE_RECHARGE_CELL_DESCRIPTION</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>25 Punti energia</color> (non può superare il 100% della capacità).]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CONSUMABLE_RECHARGE_CELL_DESCRIPTION</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>25 punti energia</color> (non può superare il 100% della capacità).]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONSUMABLE_RECHARGE_CELL_LORE</LocID>                                  <Text>Sebbene tutti i Figli della Fonte dispongano di dispositivi di ricarica che disintegrano la materia organica per ricavarne energia, le buone vecchie batterie ricaricabili sono sempre la loro prima scelta. Inoltre, ora sapete perché capiscono cos’è il bagno nonostante siano robot. Prego.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>CONSUMABLE_PLANETFALL_BEACON_RESOURCES</LocID>                         <Text>Faro di atterraggio - Risorsa</Text>  </GameDBLocalizedString>

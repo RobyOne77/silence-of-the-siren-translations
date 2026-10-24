@@ -31,7 +31,7 @@
             <GameDBLocalizedString>         <LocID>LOADING_TIP_13</LocID>                                               <Text>UNSS commanders can learn the Squad Leader skill allowing them to split unit stacks during battle.</Text>  </GameDBLocalizedString>
 
             <!--            TODO Change to "Split FRIENDLY stack"-->
-            <GameDBLocalizedString>         <LocID>TOOLTIP_SPLIT_STACK</LocID>                                          <Text>Split friendly stack into two equal-sized stacks</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_SPLIT_STACK</LocID>                                          <Text>Dividi il gruppo amichevole in due gruppi di uguali dimensioni</Text>  </GameDBLocalizedString>
         </LocalizedStrings>      
         
     </GameDBStringTable>

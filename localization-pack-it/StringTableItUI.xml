@@ -145,7 +145,7 @@
             <!--Buttons tooltips -->
             <GameDBLocalizedString>         <LocID>BUTTON_OPTIONS</LocID>                                   <Text>Opzioni</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_RETREAT</LocID>                                   <Text>Ritirata</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUTTON_AUTO_COMBAT</LocID>                               <Text>Scontro automatico</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_AUTO_COMBAT</LocID>                               <Text>Combattimento automatico</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_SKIP</LocID>                                      <Text>Passaggio turno</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_WAIT</LocID>                                      <Text>Aspetta</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUTTON_FAVOURITE_ABILITIES</LocID>                       <Text>Pannello accesso rapido abilità del comandante</Text></GameDBLocalizedString>
@@ -180,10 +180,10 @@
             <GameDBLocalizedString>         <LocID>DAY_PART_MOON_1_NIGHT</LocID>                            <Text>Notte</Text></GameDBLocalizedString>
        
             <GameDBLocalizedString>         <LocID>WINNER_LOSSES</LocID>                                    <Text>Caduti vincitore</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DEFEATED_LOSSES</LocID>                                  <Text>Caduti dello sconfitto</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DEFEATED_LOSSES</LocID>                                  <Text>Caduti sconfitto</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>LOSSES_NONE</LocID>                                      <Text>None!</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>TOOLTIP_MELEE_UNIT</LocID>                               <Text>Unità attacco corpo a corpo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TOOLTIP_MELEE_UNIT</LocID>                               <Text>Unità attacco in mischia</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_RANGED_UNIT</LocID>                              <Text>Unità attacco a distanza</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_BIO_UNIT</LocID>                                 <Text>Unità biologica</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_TECH_UNIT</LocID>                                <Text>Unità tecnologica</Text></GameDBLocalizedString>

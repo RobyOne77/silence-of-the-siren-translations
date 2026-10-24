@@ -18,7 +18,7 @@
             <GameDBLocalizedString>         <LocID>NO_SPACE_IN_YOUR_ARMY</LocID>                            <Text>Non c'è spazio nell'esercito!</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>RECRUITMENT_CENTER</LocID>                               <Text>Centro reclutamento</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HIRE_MAX</LocID>                                         <Text>Recluta Max</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HIRE_MAX</LocID>                                         <Text>Recluta massimo</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HIRE_ALL</LocID>                                         <Text>Recluta tutte</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TAKE_ALL</LocID>                                         <Text>Prendi tutte</Text>  </GameDBLocalizedString>
 
@@ -148,7 +148,7 @@
 
             <GameDBLocalizedString>         <LocID>TOOLTIP_ACADEMY_INFO</LocID>                             <Text>Visualizza la finestra del tutorial dell'Academy.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HEADING_ABOUT_THE_ACADEMY</LocID>                        <Text>Informazioni sull'Accademia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILLS</LocID>                              <Text><![CDATA[- I comandanti devono scegliere una delle seguenti <color=SOTS_COLOR_GOLD>competenza</color> quando salgono di livello per sbloccare le <color=SOTS_COLOR_GOLD>abilità da comandante</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILLS</LocID>                              <Text><![CDATA[- I comandanti devono scegliere una delle seguenti <color=SOTS_COLOR_GOLD>competenze</color> quando salgono di livello per sbloccare le <color=SOTS_COLOR_GOLD>abilità da comandante</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ACADEMY_HINT_SKILL_LEVELS</LocID>                        <Text><![CDATA[- Aumentando il livello di queste competenze si sbloccano <color=SOTS_COLOR_GOLD>abilità da comandante più potenti</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ACADEMY_HINT_LEARNING</LocID>                            <Text><![CDATA[- I comandanti acquisiscono automaticamente delle abilità quando visitano una base dotata di un'<color=SOTS_COLOR_GOLD>Accademia</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ACADEMY_HINT_ABILITIES</LocID>                           <Text><![CDATA[- L'Accademia di ogni base offre una <color=SOTS_COLOR_GOLD>selezione casuale di abilità</color>.\nPer aggiungere abilità più potenti a ciascuna delle competenze, è possibile costruire diverse <color=SOTS_COLOR_GOLD>Facoltà specializzate.</color> Il loro numero è limitato dal numero di <color=SOTS_COLOR_GOLD>slot</color>, specifico per ogni fazione.]]></Text>  </GameDBLocalizedString>
@@ -171,7 +171,7 @@
             <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE</LocID>                        <Text><![CDATA[È possibile costruire qualsiasi edificio spendendo un <color=SOTS_COLOR_FUSION_CORE>Nucleo di fusione</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILD_FOR_ONE_FUSION_CORE_CONFIRMATION</LocID>           <Text><![CDATA[Vuoi spendere un <color=SOTS_COLOR_FUSION_CORE>Nucleo di fusione</color> per costruirlo?]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL_HEADING</LocID>                           <Text>Recluta tute le unità disponibili</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL_HEADING</LocID>                           <Text>Recluta tutte le unità disponibili</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNITS_HIRE_ALL</LocID>                                   <Text>Puoi comprare tutte le unità per:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNITS_NOTHING_TO_HIRE</LocID>                            <Text>In questo momento non ci sono unità disponibili.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNITS_CAN_NOT_HIRE_ALL</LocID>                           <Text>Non hai abbastanza risorse o slot armata liberi per comprare tutte le unità:</Text>  </GameDBLocalizedString>

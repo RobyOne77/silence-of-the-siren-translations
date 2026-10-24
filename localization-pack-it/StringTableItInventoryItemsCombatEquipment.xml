@@ -55,7 +55,7 @@
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS</LocID>                         <Text>Strumenti d'assedio</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_DESCRIPTION</LocID>             <Text>Aumenta il danno inflitto agli edifici</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_LORE</LocID>                    <Text>Mura imponenti, porte fortificate e nemici codardi che ti sparano dalle feritoie invece di affrontarti a corpo a corpo. Tutto sommato, una battaglia d’assedio è tutt’altro che divertente. Tuttavia, con un ariete adeguato, puoi saltare la parte fastidiosa e arrivare a distanza di attacco in un batter d’occhio. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_BESIEGER_TOOLS_LORE</LocID>                    <Text>Mura imponenti, porte fortificate e nemici codardi che ti sparano dalle feritoie invece di affrontarti in mischia. Tutto sommato, una battaglia d’assedio è tutt’altro che divertente. Tuttavia, con un ariete adeguato, puoi saltare la parte fastidiosa e arrivare a distanza di attacco in un batter d’occhio. </Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

@@ -34,7 +34,7 @@
 
             <GameDBLocalizedString>         <LocID>KEEP_COMMANDER_ALIVE</LocID>                                     <Text>Mantieni in vita un comandante: {1}</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>HERO_HAS_EARNED_XP</LocID>                                       <Text><![CDATA[Il Comandante ha guadagnato<color=SOTS_COLOR_XP> {1} XP</color>!]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_HAS_EARNED_XP</LocID>                                       <Text><![CDATA[Il comandante ha guadagnato<color=SOTS_COLOR_XP> {1} XP</color>!]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_WOULD_HAVE_EARNED_XP</LocID>                                <Text><![CDATA[Avrebbe guadagnato<color=SOTS_COLOR_XP> {1} XP</color> in una battaglia vera e propria!]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>PLAYER_COLOR_RED</LocID>                                         <Text>Rosso</Text></GameDBLocalizedString>

@@ -25,7 +25,7 @@
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_DAY_NIGHT_CYCLE_VISUALS_FULL</LocID>                 <Text>Piena</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_DAY_NIGHT_CYCLE_VISUALS_REDUCED</LocID>              <Text>Ridotta</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MAPOBJ_MOVEMENT_NODE_SMALL_DESCRIPTION_V2</LocID>                    <Text><![CDATA[Ricarica <color=SOTS_COLOR_MOVEMENT>40 Punti movimento</color> una volta per ciclo. (In ordine di arrivo.)]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MOVEMENT_NODE_SMALL_DESCRIPTION_V2</LocID>                    <Text><![CDATA[Ricarica <color=SOTS_COLOR_MOVEMENT>40 punti movimento</color> una volta per ciclo. (In ordine di arrivo.)]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_ASYNC_AI_PATHFINDING</LocID>                      <Text>Ricerca del percorso tramite IA asincrona</Text>  </GameDBLocalizedString>
 

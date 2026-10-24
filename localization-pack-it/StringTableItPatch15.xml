@@ -82,7 +82,7 @@
             <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_RIGHT_CLICK_USE</LocID>          <Text>(tasto rx del mouse per usare)</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_ATTRIBUTES</LocID>               <Text>Attributi comandante -</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_EXPERIENCE_POINTS</LocID>        <Text>Punti esperienza (XP) -</Text></GameDBLocalizedString>
-            <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_MOVEMENT_POINTS</LocID>          <Text>Punti movimento -</Text></GameDBLocalizedString>
+            <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_MOVEMENT_POINTS</LocID>          <Text>punti movimento -</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_ENERGY_POINTS</LocID>            <Text>Punti energia -</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_BUFFS_DEBUFFS</LocID>            <Text>Effetti pos/Effetti neg -</Text></GameDBLocalizedString>
             <GameDBLocalizedString> <LocID>MANUAL_COMMANDER_MORALE</LocID>                   <Text>- Morale</Text></GameDBLocalizedString>

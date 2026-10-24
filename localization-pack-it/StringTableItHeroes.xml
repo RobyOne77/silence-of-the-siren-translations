@@ -22,15 +22,15 @@
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_VISION</LocID>                            <Text>Visione</Text>  </GameDBLocalizedString>
                                                                                                            
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT</LocID>                          <Text>Competenza nell'esplorazione</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_DESCRIPTION</LocID>              <Text><![CDATA[Aumenta il numero di <color=SOTS_COLOR_MOVEMENT>Punti Movimento</color> e migliora anche il raggio di visibilità del comandante.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_DESCRIPTION</LocID>              <Text><![CDATA[Aumenta il numero di <color=SOTS_COLOR_MOVEMENT>punti movimento</color> e migliora anche il raggio di visibilità del comandante.]]></Text>  </GameDBLocalizedString>
                                                                                                            
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MORALE</LocID>                            <Text><![CDATA[<color=SOTS_COLOR_GOLD>Morale</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_ENERGY</LocID>                        <Text><![CDATA[<color=SOTS_COLOR_ENERGY>Punti Energia</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_ENERGY</LocID>                        <Text><![CDATA[<color=SOTS_COLOR_ENERGY>Punti energia</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_BASE_VALUE</LocID>                                  <Text>Valori di riferimento</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ENERGY_POOL</LocID>                                 <Text>Riserva energetica</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_ENERGY_REPLENISHED_BY_DAY</LocID>         <Text>Energia rigenerata ogni turno</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_POINTS</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Punti Movimento</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_MOVEMENT_POINTS</LocID>               <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Punti Movimento</color> massimi]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MOVEMENT_POINTS</LocID>                   <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Punti movimento</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_MAX_MOVEMENT_POINTS</LocID>               <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Punti movimento</color> massimi]]></Text>  </GameDBLocalizedString>
                                                                                                            
             <GameDBLocalizedString>         <LocID>LEARN_SKILL</LocID>                                      <Text>Impara</Text>  </GameDBLocalizedString>
 
@@ -85,8 +85,8 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_MOVE_ALL_ITEMS</LocID>                           <Text>Sposta tutti gli oggetti tra i comandanti.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_MERGE_ARMY</LocID>                               <Text>Unire armi</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_ENGINEER</LocID>                  <Text>Ricarica Punti Energia.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_EXPLORER</LocID>                  <Text>Aumenta Punti Movimento.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_ENGINEER</LocID>                  <Text>Ricarica punti energia.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUFF_CARD_SKILL_EFFECT_EXPLORER</LocID>                  <Text>Aumenta punti movimento.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BUILD</LocID>                       <Text>Costruisci edificio</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_ACTION_SELECTOR_BOOK</LocID>                        <Text>Libro Abilità</Text>  </GameDBLocalizedString>
@@ -100,16 +100,16 @@
             <!--Exploration skills-->
             <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER</LocID>                              <Text>Esploratore</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER_DESCRIPTION</LocID>                  <Text><![CDATA[Permanently adds <color=SOTS_COLOR_MOVEMENT>4 Movement Points</color> with each skill level.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER_DESCRIPTION</LocID>                  <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>4 Punti Movimento</color> per ogni livello di competenza.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER1</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>8 Punti Movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>4 Punti Movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER2</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>12 Punti Movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>6 Punti Movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER3</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>16 Punti Movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>8 Punti Movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_EXPLORER_DESCRIPTION</LocID>                  <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>4 punti movimento</color> per ogni livello di competenza.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER1</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>8 punti movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>4 punti movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER2</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>12 punti movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>6 punti movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_EXPLORER3</LocID>                           <Text><![CDATA[Aggiunge in modo permanente <color=SOTS_COLOR_MOVEMENT>16 punti movimento</color>.\nIncontrare un comandante amico ripristina <color=SOTS_COLOR_MOVEMENT>8 punti movimento</color> una volta per fase.]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_SKILL_ENGINEER</LocID>                              <Text>Ingegnere</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_ENGINEER_DESCRIPTION</LocID>                  <Text><![CDATA[Aggiunge una ricarica giornaliera di <color=SOTS_COLOR_ENERGY>5 Punti Energia</color> per ogni livello di competenza e potenzia altri aspetti dell'utilizzo energetico.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER1</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>5 Punti Energia</color> giornaliero.\nL'equipaggiamento consuma il <color=SOTS_COLOR_ENERGY>10%</color> in meno di <color=SOTS_COLOR_ENERGY>energia</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER2</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>10 Punti Energia</color> giornaliero.\nI manufatti consumo <color=SOTS_COLOR_ENERGY>10%</color> in meno di <color=SOTS_COLOR_ENERGY>energy</color>.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER3</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>15 Punti Energia</color> giornaliero.\nAggiunge <color=SOTS_COLOR_ENERGY>30 Punti Energia</color> massimi al comandante di <color=SOTS_COLOR_ENERGY>energy</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_ENGINEER_DESCRIPTION</LocID>                  <Text><![CDATA[Aggiunge una ricarica giornaliera di <color=SOTS_COLOR_ENERGY>5 punti energia</color> per ogni livello di competenza e potenzia altri aspetti dell'utilizzo energetico.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER1</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>5 punti energia</color> giornaliero.\nL'equipaggiamento consuma il <color=SOTS_COLOR_ENERGY>10%</color> in meno di <color=SOTS_COLOR_ENERGY>energia</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER2</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>10 punti energia</color> giornaliero.\nI manufatti consumo <color=SOTS_COLOR_ENERGY>10%</color> in meno di <color=SOTS_COLOR_ENERGY>energy</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENGINEER3</LocID>                           <Text><![CDATA[Ricarica <color=SOTS_COLOR_ENERGY>15 punti energia</color> giornaliero.\nAggiunge <color=SOTS_COLOR_ENERGY>30 punti energia</color> massimi al comandante di <color=SOTS_COLOR_ENERGY>energy</color>.]]></Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_SKILL_NEGOTIATOR</LocID>                            <Text>Negoziatore</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_NEGOTIATOR_DESCRIPTION</LocID>                <Text>Alcune unità di ogni gruppo dell'esercito neutrale si uniranno al tuo comandante prima della battaglia. (A seconda del livello di competenza e della disposizione dell'esercito.)</Text>  </GameDBLocalizedString>
@@ -152,9 +152,9 @@
 
             <!--Combat skills-->
             <GameDBLocalizedString>         <LocID>HERO_SKILL_BRAWLER</LocID>                               <Text>Attaccabrighe</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_BRAWLER_DESCRIPTION</LocID>                   <Text>Migliora gli attacchi corpo a corpo delle tue unità.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MELEE_DAMAGE_BONUS</LocID>                  <Text><![CDATA[Gli attacchi in corpo a corpo fanno <color=SOTS_COLOR_RED>+{1}% danno</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MELEE_UNIT_MOVEMENT_BONUS</LocID>           <Text>Unità corpo a corpo: Movimento in combattimento +{1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_BRAWLER_DESCRIPTION</LocID>                   <Text>Migliora gli attacchi in mischia delle tue unità.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MELEE_DAMAGE_BONUS</LocID>                  <Text><![CDATA[Gli attacchi in mischia fanno <color=SOTS_COLOR_RED>+{1}% danno</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MELEE_UNIT_MOVEMENT_BONUS</LocID>           <Text>Unità combattimento in mischia: Movimento in combattimento +{1}</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_SKILL_SNIPER</LocID>                                <Text>Cecchino</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_SNIPER_DESCRIPTION</LocID>                    <Text><![CDATA[Migliora il <color=SOTS_COLOR_RED>danno</color> d'attacco a distanza delle tue unità.]]></Text>  </GameDBLocalizedString>

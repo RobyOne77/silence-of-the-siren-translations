@@ -104,11 +104,11 @@
             <GameDBLocalizedString>         <LocID>EVENT_PROPERTIES_GO_TO</LocID>                              <Text>Go to</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>REMOTE_PLAY_GUIDE</LocID>                                   <Text>GUIDE: Remote play together</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_14</LocID>                                      <Text>You can highlight all interactive objects on the exploration map by holding [ALT]</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_14</LocID>                                      <Text>È possibile evidenziare tutti gli oggetti interattivi sulla mappa di esplorazione tenendo premuto il tasto [ALT]</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_15</LocID>                                      <Text>You can highlight movement range of any unit by holding [SHIFT] when hovering over it.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_16</LocID>                                      <Text>All commanders can build useful objects on the exploration map. The Builder skill gives them access to upgraded versions and the dangerous Cybersnares.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOADING_TIP_17</LocID>                                      <Text>Don't skip the leg day. Getting ripped is great, but hardly of any use, if you can't catch anyone.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_15</LocID>                                      <Text>È possibile evidenziare il raggio d'azione di qualsiasi unità tenendo premuto il tasto [SHIFT] mentre si passa il cursore su di essa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_16</LocID>                                      <Text>Tutti i comandanti possono costruire oggetti utili sulla mappa di esplorazione. La comptenza “Costruttore” consente loro di accedere a versioni potenziate e alle pericolose trappole cibernetiche</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOADING_TIP_17</LocID>                                      <Text>Non saltare l'allenamento delle gambe. Avere un fisico scolpito è fantastico, ma serve a ben poco se poi non riesci a prendere nessuno.</Text>  </GameDBLocalizedString>
 
             <!--UNSS_campaign_mission_2_Maya_confronting_guards_before_the_second_base_is_conquered-->
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_EMPIRE_LVL2_ROBOGUARDS_MAYA_1</LocID>      <Text>First, the base!</Text>  </GameDBLocalizedString>

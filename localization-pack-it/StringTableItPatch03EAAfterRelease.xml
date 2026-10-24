@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            c
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -119,7 +119,7 @@
             
             <GameDBLocalizedString>         <LocID>HERO_SKILL_CRUSADERS_RENEWED_SPIRIT</LocID>                          <Text>Spirito Rinnovato</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_CRUSADERS_RENEWED_SPIRIT_DESCRIPTION</LocID>              <Text>Competenza speciale dei Figli della Fonte.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MOVEMENT_REFILLED_AFTER_VICTORY</LocID>                 <Text><![CDATA[La vittoria in battaglia ripristina <color=SOTS_COLOR_MOVEMENT>{1} Punti movimento</color>.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MOVEMENT_REFILLED_AFTER_VICTORY</LocID>                 <Text><![CDATA[La vittoria in battaglia ripristina <color=SOTS_COLOR_MOVEMENT>{1} punti movimento</color>.]]></Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>HERO_SKILL_RAIDEN</LocID>                                            <Text>Raiden</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_RAIDEN_DESCRIPTION</LocID>                                <Text><![CDATA[Aumenta la <color=SOTS_COLOR_ENERGY>riserva di energia</color> del comandante ad ogni livello. Inoltre, potenzia l'effetto del consumabile “Cella di ricarica”.]]></Text></GameDBLocalizedString>
@@ -200,7 +200,7 @@
             <GameDBLocalizedString>        <LocID>EA_CRYING_RIVER_DESCRIPTION_V2</LocID>                                <Text>The old dry river creates a barrier that splits the landscape into three territories. Will anyone manage to unite all territories under one rule?</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>        <LocID>EA_BRIDGES_TOO_FAR_DESCRIPTION_V2</LocID>                             <Text>The last two bridges connect the divided landscape; who will find them first?</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>TUTORIAL_01_ATTRIBUTES_V2</LocID>                                    <Text><![CDATA[Each commander has <color=SOTS_COLOR_GOLD>three attributes</color>. <color=SOTS_COLOR_GOLD>Exploration proficiency</color> increases your commander's speed by adding movement points and revealing more of the war fog around them. <color=SOTS_COLOR_GOLD>Combat power</color> enhances the strength of the commander's army. <color=SOTS_COLOR_GOLD>Ability strength</color> strengthens the commander's abilities, increases the overall amount, and replenishes their energy.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TUTORIAL_01_ATTRIBUTES_V2</LocID>                                    <Text><![CDATA[Ogni comandante possiede <color=SOTS_COLOR_GOLD>tre attributi</color>. <color=SOTS_COLOR_GOLD>Perizia nell'esplorazione</color> aumenta la velocità del tuo comandante aggiungendo punti movimento e svelando una porzione maggiore della nebbia di guerra che lo circonda. <color=SOTS_COLOR_GOLD>Potenza nel combattimento</color> potenzia la forza dell’esercito del comandante. <color=SOTS_COLOR_GOLD>Potenza delle abilità</color> rafforza le abilità del comandante, ne aumenta il numero complessivo e ne ricarica l’energia.]]></Text>  </GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>

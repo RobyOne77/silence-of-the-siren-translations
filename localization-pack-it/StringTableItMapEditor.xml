@@ -228,7 +228,7 @@
             <GameDBLocalizedString>         <LocID>VALIDATION_WARNING</LocID>                               <Text>Warning</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VALIDATION_ERROR</LocID>                                 <Text>Error</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>EDITOR_VALIDATION_CLOSE</LocID>                          <Text>CLOSE</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EDITOR_VALIDATION_CLOSE</LocID>                          <Text>CHIUDI</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_VALIDATION_CONTINUE</LocID>                       <Text>IGNORE AND CONTINUE</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EDITOR_VALIDATION_HEADING</LocID>                        <Text>MAP VALIDATOR</Text></GameDBLocalizedString>
 

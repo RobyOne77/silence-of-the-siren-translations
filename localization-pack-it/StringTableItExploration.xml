@@ -118,7 +118,7 @@
             <GameDBLocalizedString>         <LocID>EXPLORATION_DISABLE</LocID>                                   <Text>Disable</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_LEAVE_UNTOUCHED</LocID>                           <Text>Leave as is</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>EXPLORATION_CLOSE</LocID>                                     <Text>Close</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_CLOSE</LocID>                                     <Text>Chiudi</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_COLLECT</LocID>                                   <Text>Collect</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_PASS</LocID>                                      <Text>Pass</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EXPLORATION_DISMANTLE</LocID>                                 <Text>Dismantle</Text></GameDBLocalizedString>

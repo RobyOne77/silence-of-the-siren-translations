@@ -225,7 +225,7 @@ Oggetti, unità, edifici:
 | Scout | Scout |
 | Sniper | Cecchino |
 | Spyker | Spia | ----> NON TROVATO DA NESSUNA PARTE
-| Techie | Esperto di tecnologia |
+| Techie |   |
 | Tracker | Localizzatore |
 | War Hawk | Falco da guerra |
 
@@ -236,18 +236,19 @@ Oggetti, unità, edifici:
 | Easy prey | Preda facile |
 | Barbarian horde | Orda di barbari |
 | Rush | Scatto |
+| Long-range artillery | Artiglieria a lungo raggio |
 
 
 ## Attributi
 | Originale | Tradotto |
 |:-|:-|
-| Combat Power | Potenza di combattimento |
-| Ability Strength | Abilità Forza |
-| Vision | Visione |
-| Exploration Proficiency | Competenza nell'esplorazione |
-| Morale | Morale |
+| Combat Power | Potenza nel combattimento |
+| Ability Strength | Potenza delle abilità |
 | Energy Points | Punti Energia |
 | Movement Points | Punti Movimento |
+| Exploration Proficiency | Perizia nell'esplorazione |
+| Morale | Morale |
+| Vision | Visione |
 
 | Movement in combat | Movimento |
 
@@ -366,8 +367,10 @@ Oggetti, unità, edifici:
 | Bored? Hello! | Annoiato? Ciao! |
 | Tomb of a Swordmaster | Tomba del Maestro d'Armi |
 | Energy Node | Nodo energetico |
+| Cybersnares | Trappole cibernetiche |
 
 # Convenzioni
 Per unità HIRE --> Recluta  
 Per comandanti HIRE --> Ingaggia  
 Per Stack ---> Gruppo
+Pick up ---> raccogli / raccogliere

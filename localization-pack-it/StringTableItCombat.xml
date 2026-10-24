@@ -4,25 +4,25 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
-            <GameDBLocalizedString>         <LocID>COMBAT_DEFENDER</LocID>                                       <Text>Defender</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_DEFENDER</LocID>                                       <Text>Difensore</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_WIN</LocID>                                     <Text>Hooray!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMBAT_WIN_TEXT</LocID>                                       <Text>Your enemy has been defeated!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_WIN</LocID>                                     <Text>Evviva!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_WIN_TEXT</LocID>                                       <Text>Il tuo nemico è stato sconfitto!</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOST_HERO</LocID>                               <Text>You lost!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMBAT_LOST_HERO_TEXT</LocID>                                 <Text>You suffered a bitter defeat, and the commander abandoned your cause.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOST_HERO</LocID>                               <Text>Hai perso!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_LOST_HERO_TEXT</LocID>                                 <Text>Hai subito una dura sconfitta e il comandante ha abbandonato la tua causa.</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT</LocID>                                 <Text>Retreat?</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_TEXT</LocID>                            <Text>Run from the battle? Your commander will escape, but your army and any items that are not equipped will be left behind.</Text>  </GameDBLocalizedString><!-- From Chris - Will the army that's left behind perish or be captured? Would be worth explaining here -->
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT</LocID>                                 <Text>Ritirata?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_TEXT</LocID>                            <Text>Vuoi fuggire dal campo di battaglia? Il tuo comandante riuscirà a scappare, ma il tuo esercito e tutti gli oggetti che non hai equipaggiato verranno abbandonati.</Text>  </GameDBLocalizedString><!-- From Chris - Will the army that's left behind perish or be captured? Would be worth explaining here -->
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED</LocID>                               <Text>Retreat!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_TEXT</LocID>                          <Text>Your commander retreated from combat. They retained all their equipped gear, skills, and abilities but lost the entire army.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED</LocID>                               <Text>Ritirata!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREATED_TEXT</LocID>                          <Text>Il tuo comandante si è ritirato dal combattimento. Ha conservato tutto l'equipaggiamento, le competenze e le abilità, ma ha perso l'intero esercito.</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>COMBAT_RETREAT</LocID>                                        <Text>Retreat</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_RETREAT</LocID>                                        <Text>Ritirata</Text>  </GameDBLocalizedString>
                       
 <!--            PHOENIX was changed... no dialog-->
 <!--            <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_RETREAT_PHOENIX</LocID>                         <Text>Tactical Retreat?</Text>  </GameDBLocalizedString>-->
@@ -62,10 +62,10 @@
                                                                                                                  
             <GameDBLocalizedString>         <LocID>COMBAT_ROUND_N</LocID>                                        <Text>Round {1}</Text></GameDBLocalizedString>
                                                                                                                  
-            <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_1</LocID>                                 <Text>Combat Animation Speed: Normal</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_2</LocID>                                 <Text>Combat Animation Speed: Faster</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_3</LocID>                                 <Text>Combat Animation Speed: Fastest</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUTTON_SHOW_HEXES</LocID>                                     <Text>Show/Hide Hex Grid</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_1</LocID>                                 <Text>Velocità animazione combattimento: Normale</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_2</LocID>                                 <Text>Velocità animazione combattimento: Veloce</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_COMBAT_SPEED_3</LocID>                                 <Text>Velocità animazione combattimento: Velocissimo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_SHOW_HEXES</LocID>                                     <Text>Mostra/Nascondi griglia a esagoni</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_NEXT_ROUND</LocID>                             <Text>Round {int} has begun.</Text></GameDBLocalizedString>
 
@@ -205,7 +205,7 @@
                                                                                                                  
             <GameDBLocalizedString>         <LocID>RIGHT_CLICK_FOR_UNIT_INFO</LocID>                             <Text>Right-click for unit details.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>BUTTON_SHOW_LOG</LocID>                                       <Text>Show/Hide Combat Log</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUTTON_SHOW_LOG</LocID>                                       <Text>Mostra/Nascondi Log Combattimento</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOST</LocID>                                    <Text>Unlucky!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMBAT_LOST_TEXT</LocID>                                      <Text>Your units suffered a bitter defeat.</Text></GameDBLocalizedString>
@@ -221,8 +221,8 @@
             <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARENA_ROUND_1</LocID>                           <Text>Round 1 won!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_BATTLE_ARENA_ROUND_1_TEXT</LocID>                      <Text>You have managed to earn some resources:</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>TACTICS</LocID>                                               <Text>Tactical Phase</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>END_TACTICS</LocID>                                           <Text>End Tactics Phase</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>TACTICS</LocID>                                               <Text>Fase tattica</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>END_TACTICS</LocID>                                           <Text>Termina fase tattica</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_VORTEX_MINE</LocID>                        <Text>Vortex Mine</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>COMBAT_TILE_OBJECT_MOLE_LOOPHOLE</LocID>                      <Text>Porthole</Text></GameDBLocalizedString>
@@ -241,7 +241,7 @@
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_RETALIATE</LocID>                            <Text>This unit can still retaliate this round</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_RETALIATE_MORE</LocID>                       <Text>This unit can still retaliate (more than once) this round</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>RETRY_BATTLE</LocID>                                          <Text>Retry battle!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>RETRY_BATTLE</LocID>                                          <Text>Riprova battaglia!</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>MESSAGE_SOUND_EVENT</LocID>                                   <Text>Sound event on {Stack} {string}</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_SOUND_EVENT_GLOBAL</LocID>                            <Text>Sound event {string}</Text></GameDBLocalizedString>
