@@ -1,31 +1,54 @@
 # Progetto di traduzione di Heroes of science & Fiction
 
+---
 
-### Fazioni
+## Linee guida traduzione
+
+### Convenzioni\:
+
+Per unità HIRE \-\-\> Recluta<br>Per comandanti HIRE \-\-\> Ingaggia<br>Per Stack \-\-\-\> Gruppo<br>Pick up \-\-\-\> raccogli / raccogliere
+
+### Generici:
+| Originale | Tradotto |
+| :--- | :--- |
+| Earth\-based company | Azienda terrestre |
+| Gate Station | Stazione del portale |
+| Half\-breed rebellion | Ribellione dei Mezzosangue |
+| Liberator Brigades | Brigate dei Liberatori / Brigate Liberatrici |
+| Lord Commander | Lord Comandante |
+| Nemek Rebellion | Ribellione di Nemek |
+| Primals | Primordiali |
+| Sinestetic | Sinestetici / Sinestetico |
+| Siren | Siren |
+| Siren System | Sistema Siren |
+| Supreme Fist | Pugno Supremo |
+| Theta wave theory | teoria delle onde Theta |
+| Tumori biomancy | Biomanzia dei Tumori |
 
 | Originale | Tradotto |
-|:-|:-|
+| :--- | :--- |
+| Abilty | Abilità |
+| Buff | Potenziamento / Bonus |
+| Debuff | Indebolimento / Malus |
+| Fog of War | Nebbia di guerra |
+| HP | PV |
+| QuickCast | Lancio rapido |
+| Skill | Competenza |
+
+### Fazioni:
+| Originale | Tradotto |
+| :--- | :--- |
 | Children of the Source | Figli della Fonte |
 | Fossorians | Fossoriani |
 | Hesperidians | Esperidiani |
-| Gate Station | Stazione del portale |
 | Hive Mind | Mente Alveare |
 | Neutral Factions | Fazioni neutrali |
-| Primals | Primordiali |
-| Siren | Siren |
-| Siren System | Sistema Siren |
 | The Sovereign Fleet | Flotta Sovrana |
 | Tumori Tribes | Tribù dei Tumori |
-| UNSS | Nazioni Unite del Sistema Solare |
 | Xenauri Riders | Cavalieri di Xenauri |
-| Liberator Brigades | Brigate dei Liberatori / Brigate Liberatrici |
-| Nemek Rebellion | Ribellione di Nemek |
-| Supreme Fist | Pugno Supremo | 
-| Lord Commander | Lord Comandante |
-| Half-breed rebellion | Ribellione dei Mezzosangue |
+| UNSS | Nazioni Unite del Sistema Solare |
 
 ### Risorse
-
 | Originale | Tradotto |
 |:-|:-|
 | Limerite | Limerite |
@@ -35,9 +58,156 @@
 | Fusion core | Nuclei di fusione |
 | Aura Coins | Monete Aura |
 
+### Unità generiche --> verificare
+| Originale | Tradotto |
+|:-|:-|
+| Beholder | Osservatore |
+| Soldier | Soldato |
+| The Blazing One | Il Fiammeggiante |
+| The Bright One | Il Luminoso |
+| Zieregal | Zieregal |
+| High Zieregal | Alto Zieregal |
+
+### Oggetti mappa
+
+| Originale | Tradotto |
+| :--- | :--- |
+| Building Zone | Zona Edificabile |
+| Carnivorous Flora | Flora carnivora |
+| Force Shield | Scudo di Forza |
+| Smelting Operation | Operazione di fusione |
+| Cybersnare | Cyber\-trappola |
+| Cybersnares | Trappole cibernetiche |
+| Memory Wiper | Cancellatore di memoria \(azione\) |
+| Giant Mushroom | Fungo gigante |
+| Shuttle Wreckage | Relitto dello shuttle |
+| Supercharged Cloud | Nube Sovraccarica |
+| Toxic Fog | Nebbia tossica |
+| Dust Fog | Nebbia di polvere |
+| Spore Fog | Nebbia di spore |
+| Quest Gate | Portale della missione |
+
+### Edifici generici mappa
+
+| Originale | Tradotto |
+| :--- | :--- |
+| Globetrotter Academy | Accademia Giramondo |
+| Abandoned Quarry | Cava abbandonata |
+| Alloy Mill | Fonderia |
+| Altar of Clean Slate | Altare di inziazione |
+| Aura Coin Storage | Deposito di Monete Aura |
+| Battle Arena | Arena di battaglia |
+| Beast Nest | Nido della bestia |
+| Big Turret | Torretta grande |
+| Bio Farm | Fattoria biologica |
+| Biotic Academy | Accademia Biotica |
+| Black Market | Mercato Nero |
+| Bored? Hello\! | Annoiato? Ciao\! |
+| Boosted Mining Probe | Sonda mineraria potenziata |
+| Boot Camp | Campo di addestramento |
+| Coin Foundr | Coniatore |
+| Commander Wash | Purificazione comandante |
+| Derelict Collider | Acceleratore abbandonato |
+| Disabled Bridge | Ponte disabilitato |
+| Drone Dog | Cane drone |
+| Energy Node | Nodo energetico |
+| EyeBall tower |   |
+| Fallen Warrior | Guerriero caduto |
+| Radiant Collider | Collisore di Radiant |
+| Limerite Quarry | Cava di Limerite |
+| Metal Dump | Discarica di metalli |
+| Planet Fall Beacon | Faro di atterraggio |
+| Plundered Farm | Fattoria saccheggiata |
+| Radiant Collider | Acceleratore di Radiant |
+| Remote Outpost | Avamposto remoto |
+| Ruptured Smelter | Fonderia danneggiata |
+| Skill Academy | Accademia delle competenze |
+| Slave Camp | Campo di schiavi |
+| Small Turret | Torretta piccola |
+| Smugglers Den | Covo dei contrabbandieri |
+| Superior Outpost | Avamposto Superiore |
+| Swordsman's Sanctuary | Santuario dello Spadaccino |
+| Techie Academy | Accademia tecnologica |
+| Teleportation Device | Dispositivo di teletrasporto |
+| Tomb of a Swordmaster | Tomba del Maestro d'Armi |
+| Warrior Monk Temple | Tempio dei Monaci Guerrieri |
+| Watch Tower | Torre di osservazione |
+| Wishing Well | Pozzo dei desideri |
+
+### Oggetti
+#### Generici
+##### Manufatti (Artifacts)
+| Originale | Tradotto |
+|:-|:-|
+| Artifacts | Manufatti |
+| Bloodshed murmur | Sussurro |
+| Disturbed inception | Genesi turbata |
+| Machine Spirit | Spirito della Macchina |
+| Bloodthirsty soul | Anima sanguinaria |
+
+##### Equipaggiamento
+| Originale | Tradotto |
+|:-|:-|
+| Besieger tools | Strumenti d'assedio |
+| Burn Puncher | Pugno incendiario |
+| Ceremonial flag | Bandiera cerimoniale |
+| Cross of Valor | Croce del valore |
+| Medal of Honor | Medaglia d'onore |
+| Panzer-biting Plasma | Plasma perfora-corazze |
+| Razor Beam | Raggio di rasoio |
+| Sidearm | Arma secondaria |
+| Smartgun Aiming Unit | Unità di puntamento Smartgun |
+| Subdermal Armor | Corazza sottocutanea |
+| Targeting System | Sistema di puntamento |
+| Smart ballistic plating | Placcatura balistica intelligente |
+
+##### Consumabili
+| Originale | Tradotto |
+|:-|:-|
+| Fuel Stock | Scorte di carburante |
+| Data Fragment | Frammento di dati |
+| Magnesium Torch | Torcia al magnesio |
+| Memory Wiper | Azzera-memoria (oggetto) |
+| Datascroll | Pergamena dati |
+| Recharge Cell | Cella di ricarica (azione) / Cella energetica (oggetto) |
+| Extra Rations | Razioni supplementari / Razioni Extra |
+
+#### Eplorazione
+
+##### Consumabili
+| Originale | Tradotto |
+|:-|:-|
+| Vagrant | Vagabondo |
+| Seer | Veggente |
+| MoonWalker | Camminatore Lunare |
+| Phoenix | Fenice |
+| Site Consciousness | Consapevolezza del Sito |
+| Mastermind | Genio |
+
+##### Equipaggiamento
+| Originale | Tradotto |
+|:-|:-|
+| Datapad | Datapad |
+| Bait Flag | Bandiera esca |
+| Holo Scarecrow | Spaventapasseri olografico |
+| Kinetic Generator | Generatore cinetico |
+| Navicomp | Navicomp / Computer di navigazione |
+| Tax Collectors Whip | Frusta dell'esattore delle tasse |
+| Parade Banner | Stendardo da parata |
+| Encouragement Whip | Frusta dell'incitamento |
+| Capacitor | Condensatore |
+| Fuel Additives | Additivi per carburanti |
+| Turret Jammer | Inibitore di torrette |
+| Hazmat Gear | Tuta Hazmat |
+| Lockpicker | Grimaldello |
+| Recon Drone | Drone ricognitore |
+| Lure | Esca |
+| Deep Scanner | Scanner di profondità |
+| Prospector Databank | Banca dati del cercatore |
+
 ### Comandanti
 
-#### Attributi
+#### Caratteristiche \(Attributi\)
 
 | Originale | Tradotto |
 | :--- | :--- |
@@ -104,7 +274,7 @@ Competenze\: fino a un totale di 8.
 | Tracker | Localizzatore |
 | War Hawk | Falco da guerra |
 
-## Abilità (Abilities)
+#### Abilità \(Abilities\)
 
 | Originale | Tradotto | Competenza |
 | :--- | :--- | --- |
@@ -189,7 +359,40 @@ Competenze\: fino a un totale di 8.
 | Invisible | Invisibile | Effetto | Giramondo |
 | Protective Field | Scudo Protettivo | Effetto | Giramondo |
 | Supercharged Cloud | Nube Sovraccarica | Effetto | Giramondo |
-### Nomi
+| Daze | Stordimento | Effetto |   |
+| Poisoned | Avvelenato | Effetto |   |
+| Burning | Bruciare | Effetto |   |
+| Shocked | Scioccato | Effetto |   |
+| Bleeding | Sanguinamento | Effetto |   |
+| Corroded | Corroso | Effetto |   |
+| Unlimited Counter | Contatore illimitato | Effetto |   |
+| Charge | Carica | Effetto |   |
+| Bury | Sotterrato | Effetto |   |
+| Invisible | Invisibilità | Effetto |   |
+| Mimic | Imitazione | Effetto |   |
+| Ranged Cooldown | Ricarica attacchi a distanza | Effetto |   |
+| Morale Boost | Aumento del morale | Effetto |   |
+| Movement Up | Aumento movimento | Effetto |   |
+| Overwatch | Sorvegliare | Effetto |   |
+| Field Promotion | Promozione sul campo | Effetto |   |
+| Health Drain | Prosciugamento salute | Effetto |   |
+| Damage Up | Aumento danno | Effetto |   |
+| Movement Down | Riduzione movimento | Effetto |   |
+| Defense Up | Aumento difesa | Effetto |   |
+| Clone | Clona | Effetto | Biotico |
+| Blocked Special Ability | Blocca abilità speciale | Effetto |   |
+| Loophole | Scappatoia | Effetto |   |
+| Deflect | **Devia** | Effetto |   |
+| Regenerate | Rigenera | Effetto |   |
+| Hypnotized | Ipnotizzato | Effetto |   |
+| Hacked | Violato | Effetto |   |
+| Force Field | Campo di forza | Effetto | Nerd |
+| Missile lock | Targettizzata | Effetto |   |
+| Transporter psychosis | Psicosi da teletrasporto | Effetto |   |
+| Buried | Sepolto | Effetto |   |
+| Shielded | Schermato | Effetto |   |
+
+### Fazioni
 
 #### Fossoriani
 
@@ -275,8 +478,10 @@ Competenze\: fino a un totale di 8.
 | Liberator Hangar | Hangar Liberatori |
 | Liberator Assembly Line | Catena di montaggio Liberatori |
 | Supreme Leader Statue | Statua del Leader Supremo |
-##### Fazioni neutrali
-Oggetti, unità, edifici:  
+
+#### Fazioni neutrali
+
+##### Oggetti, unità, edifici\:
 | Originale | Tradotto |
 |:-|:-|
 | Crystal Lizard | Lucertola di cristallo |
@@ -391,127 +596,3 @@ Oggetti, unità, edifici:
 | #ALFA | #ALFA | |
 | Freddie | Freddie | |
 | Yolande | Yolande | |
-
-# Altri termini
-
-| Originale | Tradotto |
-| :--- | :--- |
-| Cybersnare | Cyber\-trappola |
-| Tumori biomancy | Biomanzia dei Tumori |
-| Skill | Competenza |
-| Abilty | Abilità |
-| Theta wave theory | teoria delle onde Theta |
-| Sinestetic | Sinestetici / Sinestetico |
-| Memory Wiper | Cancellatore di memoria \(azione\) |
-| Planet Fall Beacon | Faro di atterraggio |
-| Earth\-based company | Azienda terrestre |
-| QuickCast | Lancio rapido |
-| Fog of War | Nebbia di guerra |
-| Buff | Potenziamento |
-| Debuff | Indebolimento |
-| HP | PV |
-
-# Combattimento
-
-## Manufatti (Artifacts)
-| Originale | Tradotto |
-|:-|:-|
-| Artifacts | Manufatti |
-| Disturbed inception | Genesi turbata |
-| Machine Spirit | Spirito della Macchina |
-| Bloodshed murmur | Sussurro |
-| Bloodthirsty soul | Anima sanguinaria |
-
-## Equipaggiamento
-| Originale | Tradotto |
-|:-|:-|
-| Besieger tools | Strumenti d'assedio |
-| Burn Puncher | Pugno incendiario |
-| Ceremonial flag | Bandiera cerimoniale |
-| Cross of Valor | Croce del valore |
-| Medal of Honor | Medaglia d'onore |
-| Panzer-biting Plasma | Plasma perfora-corazze |
-| Razor Beam | Raggio di rasoio |
-| Sidearm | Arma secondaria |
-| Smartgun Aiming Unit | Unità di puntamento Smartgun |
-| Subdermal Armor | Corazza sottocutanea |
-| Targeting System | Sistema di puntamento |
-| Smart ballistic plating | Placcatura balistica intelligente |
-
-## Consumabili
-| Originale | Tradotto |
-|:-|:-|
-| Fuel Stock | Scorte di carburante |
-| Data Fragment | Frammento di dati |
-| Magnesium Torch | Torcia al magnesio |
-| Memory Wiper | Azzera-memoria (oggetto) |
-| Datascroll | Pergamena dati |
-| Recharge Cell | Cella di ricarica (azione) / Cella energetica (oggetto) |
-| Extra Rations | Razioni supplementari / Razioni Extra |
-
-# Eplorazione
-
-## Consumabili
-| Originale | Tradotto |
-|:-|:-|
-| Vagrant | Vagabondo |
-| Seer | Veggente |
-| MoonWalker | Camminatore Lunare |
-| Phoenix | Fenice |
-| Site Consciousness | Consapevolezza del Sito |
-| Mastermind | Genio |
-
-## Equipaggiamento
-| Originale | Tradotto |
-|:-|:-|
-| Datapad | Datapad |
-| Bait Flag | Bandiera esca |
-| Holo Scarecrow | Spaventapasseri olografico |
-| Kinetic Generator | Generatore cinetico |
-| Navicomp | Navicomp / Computer di navigazione |
-| Tax Collectors Whip | Frusta dell'esattore delle tasse |
-| Parade Banner | Stendardo da parata |
-| Encouragement Whip | Frusta dell'incitamento |
-| Capacitor | Condensatore |
-| Fuel Additives | Additivi per carburanti |
-| Turret Jammer | Inibitore di torrette |
-| Hazmat Gear | Tuta Hazmat |
-| Lockpicker | Grimaldello |
-| Recon Drone | Drone ricognitore |
-| Lure | Esca |
-| Deep Scanner | Scanner di profondità |
-| Prospector Databank | Banca dati del cercatore |
-
-# Unità
-| Originale | Tradotto |
-|:-|:-|
-| Beholder | Osservatore |
-| Soldier | Soldato |
-| The Blazing One | Il Fiammeggiante |
-| The Bright One | Il Luminoso |
-| Zieregal | Zieregal |
-| High Zieregal | Alto Zieregal |
-
-# Oggetti mappa
-| Originale | Tradotto |
-|:-|:-|
-| Bio Farm | Fattoria biologica |
-| Alloy Mill | Fonderia |
-| Limerite Quarry | Cava di Limerite |
-| Radiant Collider | Collisore di Radiant |
-| Smelting Operation | Operazione di fusione |
-| Watch Tower | Torre di osservazione |
-| Aura Coin Storage | Deposito di Monete Aura |
-| Smugglers Den | Covo dei contrabbandieri |
-| Slave Camp | Campo di schiavi |
-| Swordsman's Sanctuary | Santuario dello Spadaccino |
-| Bored? Hello! | Annoiato? Ciao! |
-| Tomb of a Swordmaster | Tomba del Maestro d'Armi |
-| Energy Node | Nodo energetico |
-| Cybersnares | Trappole cibernetiche |
-
-# Convenzioni
-Per unità HIRE --> Recluta  
-Per comandanti HIRE --> Ingaggia  
-Per Stack ---> Gruppo
-Pick up ---> raccogli / raccogliere

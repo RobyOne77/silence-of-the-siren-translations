@@ -93,7 +93,7 @@
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD</LocID>                       <Text>Nuvola Sovraccarica</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION</LocID>           <Text>Posiziona una nuvola artificiale sulla mappa. Se un comandante vi entra, perderà la possibilità di muoversi e il suo esercito subirà danni nel combattimento successivo.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_SUPERCHARGED_CLOUD_DAMAGE</LocID>                    <Text><![CDATA[Hai attraversato una nube sovraccarica. Le tue unità sono <color=SOTS_COLOR_RED>sotto shock e avvelenate</color>.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_SUPERCHARGED_CLOUD_DAMAGE</LocID>                    <Text><![CDATA[Hai attraversato una nuvola sovraccarica. Le tue unità sono <color=SOTS_COLOR_RED>sotto shock e avvelenate</color>.]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_ELECTRONIC_EQUIPMENT_DISABLED</LocID>                <Text><![CDATA[<color=SOTS_COLOR_RED>Le apparecchiature elettroniche sono state disattivate.</color>]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ELECTRONIC_EQUIPMENT_DISABLED</LocID>                              <Text><![CDATA[<color=SOTS_COLOR_RED>Le apparecchiature elettroniche sono state disattivate a causa di un effetto di stato su questo comandante.</color>]]></Text>  </GameDBLocalizedString>
             

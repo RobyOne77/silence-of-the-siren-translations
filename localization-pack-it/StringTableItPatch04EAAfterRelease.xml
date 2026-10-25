@@ -16,22 +16,22 @@
             <GameDBLocalizedString>         <LocID>DIALOG_GATE_NEED_KEY</LocID>                                         <Text>This gate is locked!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_GATE_NEED_KEY_TEXT</LocID>                                    <Text>You need the matching key to unlock it:</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_LOCKED</LocID>                                  <Text>Quest Gate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_UNLOCKED</LocID>                                <Text>Quest Gate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_LOCKED</LocID>                                     <Text>Quest Gate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_UNLOCKED</LocID>                                   <Text>Quest Gate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_LOCKED</LocID>                                      <Text>Quest Gate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_UNLOCKED</LocID>                                    <Text>Quest Gate</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_LOCKED</LocID>                                  <Text>Portale della missione</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_UNLOCKED</LocID>                                <Text>Portale della missione</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_LOCKED</LocID>                                     <Text>Portale della missione</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_UNLOCKED</LocID>                                   <Text>Portale della missione</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_LOCKED</LocID>                                      <Text>Portale della missione</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_UNLOCKED</LocID>                                    <Text>Portale della missione</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_LOCKED_KEY</LocID>                              <Text>Locked Gate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_LOCKED_KEY</LocID>                                 <Text>Locked Gate</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_LOCKED_KEY</LocID>                                  <Text>Locked Gate</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_STRAIGHT_LOCKED_KEY</LocID>                              <Text>Portale bloccato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_RIGHT_LOCKED_KEY</LocID>                                 <Text>Portale bloccato</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_LEFT_LOCKED_KEY</LocID>                                  <Text>Portale bloccato</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_DESCRIPTION</LocID>                                      <Text>A gate that can be opened remotely by a particular event.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_DESCRIPTION_KEY</LocID>                                  <Text>A gate that can be opened with a key of the matching color:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_DESCRIPTION</LocID>                                      <Text>Un portale che può essere aperto a distanza in seguito a un determinato evento.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GATE_DESCRIPTION_KEY</LocID>                                  <Text>Un portale che si può aprire con una chiave dello stesso colore:</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>EQUIPMENT_GATE_KEY_DESCRIPTION</LocID>                               <Text>A key that will unlock any gate with a matching color.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EQUIPMENT_GATE_KEY_LORE</LocID>                                      <Text>Very simple technology. But without this, gates shall remain forever closed.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_GATE_KEY_DESCRIPTION</LocID>                               <Text>Una chiave in grado di aprire qualsiasi portale dello stesso colore.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EQUIPMENT_GATE_KEY_LORE</LocID>                                      <Text>Una tecnologia molto semplice. Ma senza di essa, i cancelli portali chiusi per sempre.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>EQUIPMENT_GATE_KEY_RED</LocID>                                       <Text>Red gate key</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>EQUIPMENT_GATE_KEY_YELLOW</LocID>                                    <Text>Yellow gate key</Text>  </GameDBLocalizedString>

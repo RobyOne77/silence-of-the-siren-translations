@@ -186,8 +186,8 @@
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RUR_SELF_DESTRUCT</LocID>                        <Text></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RUR_SELF_DESTRUCT_DESCRIPTION</LocID>            <Text></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RUR_SELF_DESTRUCT_TRIGGERED</LocID>              <Text>Self-destruct initiated!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RUR_SELF_DESTRUCT_TRIGGERED_DESCRIPTION</LocID>  <Text>This unit will explode at the start of its next turn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RUR_SELF_DESTRUCT_TRIGGERED</LocID>              <Text>Autodistruzione avviata!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_RUR_SELF_DESTRUCT_TRIGGERED_DESCRIPTION</LocID>  <Text>Questa unità esploderà all'inizio del suo prossimo turno.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>HERO_EMPIRE_2_ALTERNATIVE</LocID>                                    <Text>Rao</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_EMPIRE_2_DESCRIPTION_ATLERNATIVE</LocID>                        <Text>For Arjun Rao, the discharge from the UNSS service was the fall. But the world will not stop spinning by the termination of a contract, and true loyalty is not measured by the tidiness of your uniform. So it's time to clench fists and dust off the old "Pirate" ways of the Sovereigns. Only the end justifies the means.  </Text>  </GameDBLocalizedString>

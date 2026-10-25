@@ -89,10 +89,10 @@
 
             <!--_______________STACK STATUS EFFECTS + other combat info__________________________-->
 
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURIED</LocID>                                   <Text>Buried</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURIED_DESCRIPTION</LocID>                       <Text>The unit is currently underground. It cannot be targeted by most attacks.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WARMACHINE_SHIELD</LocID>                        <Text>Shielded</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WARMACHINE_SHIELD_DESCRIPTION</LocID>            <Text>The unit has deployed a shield protecting it from ranged attacks. The shield will deactivate when the unit attacks.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURIED</LocID>                                   <Text>Sepolto</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURIED_DESCRIPTION</LocID>                       <Text>L'unità si trova attualmente sottoterra. Non può essere presa di mira dalla maggior parte degli attacchi.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WARMACHINE_SHIELD</LocID>                        <Text>Schermato</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_WARMACHINE_SHIELD_DESCRIPTION</LocID>            <Text>L'unità ha attivato uno scudo che la protegge dagli attacchi a distanza. Lo scudo si disattiverà quando l'unità attaccherà.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>MESSAGE_MORALE_EXTRA_TURN_BLOODLUST</LocID>                          <Text>Thanks to the Bloodlust skill, killing an enemy allows {Stack} to move again.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_SPAWNED_PLANT_BABY</LocID>                            <Text>{CombatActor} has planted a seedling.</Text></GameDBLocalizedString>

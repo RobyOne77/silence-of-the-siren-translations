@@ -18,8 +18,8 @@
 
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MOVE_AGAIN_AFTER_A_KILL_N_TIMES</LocID>                 <Text><![CDATA[Conferisce alle tue unità una <color=SOTS_COLOR_GOLD>mossa extra</color> dopo aver eliminato un gruppo di unità nemiche, fino a {1} volta(e) di fila.]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL2_V2</LocID>     <Text>La nube dura 8 turni/fasi o fino a quando un comandante non vi entra.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL3_V2</LocID>     <Text>La nube dura 16 turni/fasi oppure fino a quando un comandante non vi entra.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL2_V2</LocID>     <Text>La nuvola dura 8 turni/fasi o fino a quando un comandante non vi entra.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL3_V2</LocID>     <Text>La nuvola dura 16 turni/fasi oppure fino a quando un comandante non vi entra.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_DAY_NIGHT_CYCLE_VISUALS</LocID>                      <Text>Visualizza cicli giorno-notte</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_DAY_NIGHT_CYCLE_VISUALS_FULL</LocID>                 <Text>Piena</Text></GameDBLocalizedString>

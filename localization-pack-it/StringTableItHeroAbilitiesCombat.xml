@@ -76,7 +76,7 @@
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_DISRUPTIVE_ULTRASOUND_DESCRIPTION</LocID> <Text>Disattiva temporaneamente le abilità speciali delle unità nemiche.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_ACID_PROJECTILE</LocID>                        <Text>Proiettile Acido</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_ACID_PROJECTILE_DESCRIPTION</LocID>            <Text>Crea una nube acida che avvelena i tuoi nemici!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_ACID_PROJECTILE_DESCRIPTION</LocID>            <Text>Crea una nuvola acida che avvelena i tuoi nemici!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_ACID_PROJECTILE_DESCRIPTION_LVL3</LocID>       <Text>Area d'effetto. Blocca anche le abilità speciali delle unità.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_CHAMELEON_COATING</LocID>                     <Text>Rivestimento Camaleontico</Text></GameDBLocalizedString>

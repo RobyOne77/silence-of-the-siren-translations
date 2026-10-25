@@ -49,8 +49,8 @@
             <GameDBLocalizedString>         <LocID>CONSUMABLE_MAGNESIUM_TORCH_DESCRIPTION_V3</LocID>                    <Text><![CDATA[<color=SOTS_COLOR_GOLD>Increases</color> the commanders <color=SOTS_COLOR_GOLD>vision</color> till the end of the round and <color=SOTS_COLOR_GOLD>reveals attributes</color> of enemy commanders.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_MAGNESIUM_TORCH</LocID>                                <Text><![CDATA[<color=SOTS_COLOR_GOLD>Increaseds</color> scouting <color=SOTS_COLOR_GOLD>range</color>. <color=SOTS_COLOR_GOLD>Revealed</color> enemy commanders <color=SOTS_COLOR_GOLD>attributes</color>.(Torch)]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>MAPOBJ_DUST_FOG</LocID>                                              <Text>Dust Fog</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_SPORE_FOG</LocID>                                             <Text>Spore Fog</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_DUST_FOG</LocID>                                              <Text>Nebbia di polvere</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SPORE_FOG</LocID>                                             <Text>Nebbia di spore</Text>  </GameDBLocalizedString>
 
 
             <!--Equipment redesign-->
@@ -156,9 +156,9 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_FIELD_REPAIR</LocID>                                         <Text>Grazie alla competenza “Riparazione sul campo”, {CombatActor} attaccando, ha riparato {Stack}, recuperando {int} punti.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_FIELD_REPAIR_REVIVED</LocID>                                 <Text>Grazie alla competenza “Riparazione sul campo”, {CombatActor} attaccando, ha riparato {Stack}, recuperando {int} punti. {int} unità hanno avuto una seconda possibilità.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TRANSPORTER_PSYCHOSIS</LocID>                    <Text>Transporter psychosis.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TRANSPORTER_PSYCHOSIS_DESCRIPTION</LocID>        <Text>Yes, this medical condition is very real. Unit's damage, defense, movement and initiative are crippled.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_HERO_TRANSPORTER_PSYCHOSIS</LocID>                     <Text><![CDATA[<color=SOTS_COLOR_RED>Commander suffers from transporter psychosis caused by a glitch during recent transport. His army might endure negative side effects.</color>]]></Text></GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TRANSPORTER_PSYCHOSIS</LocID>                    <Text>Psicosi da teletrasporto.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_TRANSPORTER_PSYCHOSIS_DESCRIPTION</LocID>        <Text>Sì, questa condizione medica è molto reale. Il danno, la difesa, il movimento e l'iniziativa dell'unità sono compromessi.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>STATUS_EFFECT_HERO_TRANSPORTER_PSYCHOSIS</LocID>                     <Text><![CDATA[<color=SOTS_COLOR_RED>Il comandante soffre di psicosi da teletrasporto causata da un malfunzionamento verificatosi durante un recente teletrasporto. Il suo esercito potrebbe subire effetti collaterali negativi.</color>]]></Text></GameDBLocalizedString>            
             
             <GameDBLocalizedString>         <LocID>HERO_SKILL_WAR_HAWK</LocID>                                          <Text>Falco da guerra</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>HERO_SKILL_WAR_HAWK_DESCRIPTION</LocID>                              <Text><![CDATA[Migliora <color=SOTS_COLOR_MOVEMENT>il movimento</color> e <color=SOTS_COLOR_GOLD>l'iniziativa</color> di tutte le unità dell'esercito di questo comandante.]]></Text></GameDBLocalizedString>
@@ -180,8 +180,8 @@
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL2_V2</LocID>  <Text>Trova anche forzieri, equipaggiamento e oggetti consumabili.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL3_V2</LocID>  <Text>Trova anche manufatti e nuclei di fusione.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL2</LocID>        <Text>La nube dura 4 turni.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL3</LocID>        <Text>La nube dura 8 turni.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL2</LocID>        <Text>La nuvola dura 4 turni.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL3</LocID>        <Text>La nuvola dura 8 turni.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_V2</LocID>            <Text>Individua immediatamente le posizioni dei comandanti nemici nelle vicinanze di questo comandante.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_LVL1</LocID>          <Text>Raggio: 30 caselle.</Text></GameDBLocalizedString>
