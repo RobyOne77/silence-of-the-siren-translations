@@ -49,9 +49,9 @@
 
 | Originale | Tradotto | Dove si applica |
 | :--- | :--- | --- |
-| Exploration Proficiency | c | Esplorazione mappa |
+| Exploration Proficiency | Perizia nell'esplorazione | Esplorazione mappa |
 | Combat Power | Potenza nel combattimento | Campo di battaglia |
-| Ability Strength | Potenza delle abilità |   |
+| Ability Strength | Potenza delle abilità | Campo di battaglia |
 
 ##### Luogo di validità delle abilità principali
 
@@ -71,10 +71,19 @@ Competenze\: fino a un totale di 8.
 | 5\-9 | 2 |
 | 10 | 3 |
 
-##### Lista
+##### Grandi scuole\:
+
+| Originale | Tradotto |
+| --- | --- |
+| Biotic | Biotico |
+| Globetrotter | Giramondo |
+| Spyker | Psionico |
+| Techie | Nerd |
+
+##### Minori\:
+
 | Originale | Tradotto |
 | :--- | :--- |
-| Biotic | Biotico |
 | Bloodlust | Brama di Sangue / Sete di Sangue |
 | Brawler | Attaccabrighe |
 | Builder | Costruttore |
@@ -85,7 +94,6 @@ Competenze\: fino a un totale di 8.
 | Explorer | Esploratore |
 | Field Repair | Riparazione sul campo / Riparazione da campo |
 | Field Research | Ricerca sul campo |
-| Globetrotter | Giramondo |
 | Lord of Beasts | Signore delle Bestie / Signore delle Creature |
 | Negotiator | Negoziatore |
 | Raiden | Raiden |
@@ -93,8 +101,6 @@ Competenze\: fino a un totale di 8.
 | Scavenger | Raccoglitore |
 | Scout | Scout |
 | Sniper | Cecchino |
-| Spyker | Psionico |
-| Techie | Esperto di tecnologia |
 | Tracker | Localizzatore |
 | War Hawk | Falco da guerra |
 
@@ -102,54 +108,64 @@ Competenze\: fino a un totale di 8.
 
 | Originale | Tradotto | Competenza |
 | :--- | :--- | --- |
-| Psy Abilities | Abilità psichiche |   |
-| Death Mark | Marchio della morte | Giramondo |
-| Easy prey | Preda facile | Giramondo |
-| Barbarian horde | Orda di barbari | Giramondo |
-| Rush | Scatto | Giramondo |
-| Long Range Artillery | Artiglieria a lungo raggio | Esperto di tecnologia |
-| Regenerate | Rigenerare | Biotico |
+| Acid Projectile | Proiettile Acido | Biotico |
+| Artificial Muscle Fibers | Fibre Muscolari Artificiali | Biotico |
+| Chameleon Coating | Rivestimento Camaleontico | Biotico |
+| Clone | Clone | Biotico |
+| Disruptive Ultrasound | Ultrasuoni Dirompenti | Biotico |
+| Field Promotion | Promozione sul Campo | Biotico |
+| Glue Grenade | Granata Collante | Biotico |
 | Lighten Armor | Alleggerisci Armatura | Biotico |
 | Lure Local Beast | Attira Bestia Locale | Biotico |
-| Field Promotion | Promozione sul Campo | Biotico |
-| Walking Rations | Razioni Deambulanti | Biotico |
-| Artificial Muscle Fibers | Fibre Muscolari Artificiali | Biotico |
-| Glue Grenade | Granata Collante | Biotico |
-| Armor Incrustation | Armatura Incrostata |   |
-| Restoring Biofilm | Ripristino Biofilm | Biotico |
-| Disruptive Ultrasound | Ultrasuoni Dirompenti | Biotico |
-| Acid Projectile | Proiettile Acido | Biotico |
-| Chameleon Coating | Rivestimento Camaleontico | Biotico |
-| Resurrect | Resuscitare | Biotico |
 | Mimicking Tactics | Tattiche di Imitazione | Biotico |
-| Clone | Clone | Biotico |
-| Repair | Riparare | Esperto di tecnologia |
-| Sentry Airdrop | Lancio di Torrette Sentinella | Esperto di tecnologia |
-| Wild Card | Jolly | Esperto di tecnologia |
-| Force Field | Campo di Forza | Esperto di tecnologia |
-| Orbital Strike | Attacco Orbitale | Esperto di tecnologia |
-| Blast Waveù | Onda d'Urto | Esperto di tecnologia |
-| Hack | Viola | Esperto di tecnologia |
-| Jerry\-rig | Riparazione di Fortuna | Esperto di tecnologia |
-| System Equilibrium | Equilibrio del Sistema | Esperto di tecnologia |
-| Teleport | Teletrasporto | Esperto di tecnologia |
-| Orbital Bombardment | Bombardamento Orbitale | Esperto di tecnologia |
-| Vortex Mines | Mine a Vortice |   |
-| Draining Coil | Bobina Drenante | Esperto di tecnologia |
-| Surface Overcharge | Sovraccarico di Superficie | Esperto di tecnologia |
-| Cooldown Recovery | Riduzione del Tempo di Ricarica | Psionico |
-| Psionic blast | Esplosione Psionica | Psionico |
-| Confusion | Confusione | Psionico |
-| Feint | Finta | Psionico |
-| Psionic cleansin | Purificazione Psionica | Psionico |
+| Regenerate | Rigenerare | Biotico |
+| Restoring Biofilm | Ripristino Biofilm | Biotico |
+| Resurrect | Resuscitare | Biotico |
+| Walking Rations | Razioni Deambulanti | Biotico |
+| Barbarian Horde | Orda dei barbari | Giramondo |
+| Battle Cry | Grido di battaglia | Giramondo |
+| Death Mark | Marchio della morte | Giramondo |
+| Eagle Eye | Occhio d'Aquila | Giramondo |
+| Easy prey | Preda facile | Giramondo |
+| Evacuation | Evacuazione | Giramondo |
+| Invisibility | Invisibilità | Giramondo |
+| Mimic | Mimica | Giramondo |
+| Protective Field | Scudo Protettivo | Giramondo |
+| Rinforza | Rinforza\! | Giramondo |
+| Rush | Scatto | Giramondo |
+| Show Resources | Mostra Risorse | Giramondo |
+| Show Treasures | Mostra Tesori | Giramondo |
+| Supercharged Cloud | Nuvola Sovraccarica | Giramondo |
+| Blast Waveù | Onda d'Urto | Nerd |
+| Draining Coil | Bobina Drenante | Nerd |
+| Force Field | Campo di Forza | Nerd |
+| Hack | Viola | Nerd |
+| Jerry\-rig | Riparazione di Fortuna | Nerd |
+| Long Range Artillery | Artiglieria a lungo raggio | Nerd |
+| Orbital Bombardment | Bombardamento Orbitale | Nerd |
+| Orbital Strike | Attacco Orbitale | Nerd |
+| Repair | Riparare | Nerd |
+| Sentry Airdrop | Lancio di Torrette Sentinella | Nerd |
+| Surface Overcharge | Sovraccarico di Superficie | Nerd |
+| System Equilibrium | Equilibrio del Sistema | Nerd |
+| Teleport | Teletrasporto | Nerd |
+| Wild Card | Jolly | Nerd |
 | Arcane controller | Controllo Arcano | Psionico |
 | Berserk | Furioso | Psionico |
-| Phase shift | Sfasamento | Psionico |
+| Cooldown Recovery | Riduzione del Tempo di Ricarica | Psionico |
+| Confusion | Confusione | Psionico |
+| Feint | Finta | Psionico |
 | Maximum Effort | Massimo Impegno | Psionico |
-| Phase mirror | Specchio di Fase | Psionico |
 | Mental bond | Legame Mentale | Psionico |
-| Mind patch | Modifica Mentale | Psionico |
 | Mental riot | Rivolta Mentale | Psionico |
+| Mind patch | Modifica Mentale | Psionico |
+| Phase mirror | Specchio di Fase | Psionico |
+| Phase shift | Sfasamento | Psionico |
+| Psionic blast | Esplosione Psionica | Psionico |
+| Psionic cleansin | Purificazione Psionica | Psionico |
+| Armor Incrustation | Armatura Incrostata |   |
+| Vortex Mines | Mine a Vortice | |
+| Psy Abilities | Abilità psichiche |   |
 
 #### Danni e effetti di stato
 
@@ -169,7 +185,10 @@ Competenze\: fino a un totale di 8.
 | Mental bond | Legame mentale | Effetto | Psionico |
 | Mind patched | Mente modificata | Effetto | Psionico |
 | Death Mark | Marchio della morte | Effetto | Giramondo |
-
+| Battle Cry | Grido di battaglia | Effetto | Giramondo |
+| Invisible | Invisibile | Effetto | Giramondo |
+| Protective Field | Scudo Protettivo | Effetto | Giramondo |
+| Supercharged Cloud | Nube Sovraccarica | Effetto | Giramondo |
 ### Nomi
 
 #### Fossoriani
@@ -214,6 +233,48 @@ Competenze\: fino a un totale di 8.
 | Mass Liberator | Liberatore di Massa |
 | Blast Wave Cannon | Cannone a onda d'urto |
 
+##### Edifici\:
+
+| Originale | Tradotto |
+| --- | --- |
+| Tax Bureau | Ufficio delle imposte |
+| Interior Control Office | Ufficio di controllo interno |
+| Overseer's Office | Ufficio del supervisore |
+| High Overseer | Alto Sorvegliante |
+| Replicator | Replicatore |
+| Tunnelbahn | Metropolitana |
+| Space Bar | Bar Spaziale |
+| Officers' Club | Club degli ufficiali |
+| Surface Lookout | Punto di osservazione in superficie |
+| Recycler | Riciclatore |
+| Sweatshop | Fabbrica sfruttamento |
+| Trading Post | Posto di scambio |
+| Fossorian Stronghold | Roccaforte Fossoriana |
+| Defensive Tower | Torre difensiva |
+| Minefield | Campo minato |
+| Turrets | Torrette |
+| Academy | Accademia |
+| Neurolink | Neurolink |
+| Reverse Engineering | Ingegneria inversa |
+| Bio Faculty | Docenza di biologia |
+| Global Faculty of Geography | Facoltà globale di geografia |
+| Psy Faculty | Facoltà di psicologia |
+| Tech Faculty | Facoltà di tecnologia |
+| Ratling Projects | Progetti Ratling |
+| Ratling Slum | Baraccopoli Ratling |
+| Meatboy Ludus | Meatboy Ludus |
+| Meatboy Gymnasium | Palestra Meatboy |
+| Hammerite Tower | Torre Martellatori |
+| Hammerite Keep | Tenuta Martellatori |
+| Earthshaker Workshop | Laboratorio Scuotiterra |
+| Earthshaker Factory | Fabbrica Scuotiterra |
+| Worm Nes | Nido Vermi |
+| Worm Hole | Foro Vermi |
+| Commissar Department | Dipartimento dei Commissari |
+| Commissar Bureau | Ufficio Commissari |
+| Liberator Hangar | Hangar Liberatori |
+| Liberator Assembly Line | Catena di montaggio Liberatori |
+| Supreme Leader Statue | Statua del Leader Supremo |
 ##### Fazioni neutrali
 Oggetti, unità, edifici:  
 | Originale | Tradotto |

@@ -126,10 +126,10 @@
             <GameDBLocalizedString>         <LocID>DIALOG_EVACUATION_ABILITY_TEXT_V2</LocID>                            <Text>Choose a nearby base to evacuate to!</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>         <LocID>EVACUATION_TOO_FAR</LocID>                                           <Text>Too far</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>         <LocID>EVACUATION_DISTANCE</LocID>                                          <Text>Distance</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_V2</LocID>           <Text>Teleports the commander and their army to a chosen base. Range depends on ability level, closest base is always available.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL1</LocID>         <Text>Distance up to 20 tiles.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL2</LocID>         <Text>Distance up to 30 tiles.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL3</LocID>         <Text>Distance up to 40 tiles.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_V2</LocID>           <Text>Teletrasporta il comandante e il suo esercito in una base a scelta. La portata dipende dal livello dell'abilità; la base più vicina è sempre disponibile.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL1</LocID>         <Text>Distanza fino a 20 caselle.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL2</LocID>         <Text>Distanza fino a 30 caselle.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EVACUATION_DESCRIPTION_LVL3</LocID>         <Text>Distanza fino a 40 caselle.</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE</LocID>                                <Text>Evoca creatura</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_NEUTRAL_CREATURE_DESCRIPTION</LocID>                    <Text>Evoca un'unità neutrale casuale in una posizione scelta</Text></GameDBLocalizedString>
@@ -161,7 +161,7 @@
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_ENERGY_DRAIN_DESCRIPTION_V2</LocID>              <Text><![CDATA[Steal half the <color=SOTS_COLOR_ENERGY>energy</color> of the enemy commander.]]></Text></GameDBLocalizedString>
             
             <!--Redesign-->
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION_V2</LocID>     <Text>Casts a protective field that prevents negative effects from visited objects, abilities and various hazards.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_PROTECTIVE_FIELD_DESCRIPTION_V2</LocID>     <Text>Crea un campo protettivo che impedisce agli oggetti, alle abilità e ai vari pericoli incontrati di infliggere effetti negativi.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>CONSUMABLE_MAGNESIUM_TORCH_DESCRIPTION_V4</LocID>                    <Text><![CDATA[<color=SOTS_COLOR_GOLD>Reveals a large area in the Fog of War</color> around a chosen position within the commander's own visibility range.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CONSUMABLE_NOT_INSIDE_A_BASE</LocID>                                 <Text><![CDATA[<color=SOTS_COLOR_RED>Can't be used inside a base.</color>]]></Text>  </GameDBLocalizedString>

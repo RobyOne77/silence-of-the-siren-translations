@@ -83,7 +83,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_4_UPG_DESCRIPTION</LocID>                  <Text>Recluta Scuotiterra MK II.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5</LocID>                                  <Text>Nido Vermi</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_DESCRIPTION</LocID>                      <Text>Recluta Vermi scavatori.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_UPG</LocID>                              <Text>Foro Vermi </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_UPG</LocID>                              <Text>Foro Vermi</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_5_UPG_DESCRIPTION</LocID>                  <Text>Recluta Vermi corazzati.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6</LocID>                                  <Text>Dipartimento dei Commissari</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6_DESCRIPTION</LocID>                      <Text>Recluta Cadetti Commissari.</Text></GameDBLocalizedString>
@@ -91,7 +91,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_6_UPG_DESCRIPTION</LocID>                  <Text>Recluta Commissari Esperti.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7</LocID>                                  <Text>Hangar Liberatori</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_DESCRIPTION</LocID>                      <Text>Recluta Liberatori.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG</LocID>                              <Text>Catena di montaggio Liberatoi</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG</LocID>                              <Text>Catena di montaggio Liberatori</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_SPAWNER_7_UPG_DESCRIPTION</LocID>                  <Text>Recluta Liberatori di Massa.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_CREATURE_PRODUCTION_UPGRADE_1</LocID>              <Text>Statua del Leader Supremo</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_MOLES_CREATURE_PRODUCTION_UPGRADE_1_DESCRIPTION</LocID>  <Text>Genera 4 Macellai aggiuntivi.</Text></GameDBLocalizedString>

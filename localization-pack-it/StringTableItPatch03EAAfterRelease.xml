@@ -9,8 +9,8 @@
 
         <LocalizedStrings>
             <!-- Note: same value, this is from an enum -->
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_LEARN_ABILITY_EACH_CYCLE</LocID>            <Text><![CDATA[Commander can learn a random ability up to <color=SOTS_COLOR_UPGRADE>level {1}</color> the beginning of a new cycle.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT_DESCRIPTION</LocID>                <Text><![CDATA[Each point of Combat power increases the <color=SOTS_COLOR_UPGRADE>defense</color> of your units by <color=SOTS_COLOR_UPGRADE>1</color> and <color=SOTS_COLOR_ATTACK>damage</color> by <color=SOTS_COLOR_ATTACK>10%</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_LEARN_ABILITY_EACH_CYCLE</LocID>            <Text><![CDATA[All'inizio di un nuovo ciclo, il comandante può apprendere un'abilità casuale fino al <color=SOTS_COLOR_UPGRADE>livello {1}</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_ATTRIBUTE_COMBAT_DESCRIPTION</LocID>                <Text><![CDATA[Ogni punto di potenza nel combattimento aumenta la <color=SOTS_COLOR_UPGRADE>difesa</color> delle tue unità di <color=SOTS_COLOR_UPGRADE>1</color> e il <color=SOTS_COLOR_ATTACK>danno</color> del <color=SOTS_COLOR_ATTACK>10%</color>.]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>HERO_AT_BASE</LocID>                                     <Text>at</Text>  </GameDBLocalizedString>
 
@@ -174,19 +174,19 @@
             
             <GameDBLocalizedString>         <LocID>OBJECT_CYCLES_REMAINING</LocID>                                      <Text>Time remaining: {1} turn(s)/phases(s).</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES</LocID>                      <Text>Show Resources and Treasures</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_V2</LocID>       <Text>Immediately discovers resources and valuable items in a large area around the commander.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL1_V2</LocID>  <Text>Discovers resources.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL2_V2</LocID>  <Text>Also discovers chests, equipment and consumables.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL3_V2</LocID>  <Text>Also discovers artifacts and fusion cores.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES</LocID>                      <Text>Mostra risorse e tesori</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_V2</LocID>       <Text>Individua immediatamente risorse e oggetti di valore in un’ampia area intorno al comandante.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL1_V2</LocID>  <Text>Individua risorse.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL2_V2</LocID>  <Text>Trova anche forzieri, equipaggiamento e oggetti consumabili.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_SHOW_RESOURCES_DESCRIPTION_LVL3_V2</LocID>  <Text>Trova anche manufatti e nuclei di fusione.</Text></GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL2</LocID>        <Text>The cloud lasts 4 turns.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL3</LocID>        <Text>The cloud lasts 8 turns.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL2</LocID>        <Text>La nube dura 4 turni.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_TOXIC_CLOUD_DESCRIPTION_LVL3</LocID>        <Text>La nube dura 8 turni.</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_V2</LocID>            <Text>Immediately discovers enemy commander positions around this commander.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_LVL1</LocID>          <Text>Range: 30 tiles.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_LVL2</LocID>          <Text>Range: 50 tiles.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_LVL3</LocID>          <Text>Range: 70 tiles.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_V2</LocID>            <Text>Individua immediatamente le posizioni dei comandanti nemici nelle vicinanze di questo comandante.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_LVL1</LocID>          <Text>Raggio: 30 caselle.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_LVL2</LocID>          <Text>Raggio: 50 caselle.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>ABILITY_HERO_EXPLORATION_EAGLE_EYE_DESCRIPTION_LVL3</LocID>          <Text>Raggio: 70 caselle.</Text></GameDBLocalizedString>
 
             <!--Scenarios skirmish -->
             <GameDBLocalizedString>        <LocID>EA_CONFLUENCE_DESCRIPTION_V2</LocID>                                  <Text><![CDATA[Energy fields divide the land into three disconnected regions. In the jungle, a ruthless leader is draining the territory of its resources, while in the desert, another faction is outraged by the desecration of ancient resting places. Meanwhile, a power-hungry warlord uses the chaos to test devastating new weapons on anyone within reach! ]]></Text>  </GameDBLocalizedString>
