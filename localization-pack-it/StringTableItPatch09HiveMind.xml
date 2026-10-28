@@ -92,31 +92,31 @@
             <GameDBLocalizedString>         <LocID>EA_ONE_WAY_OUT_OBJECTIVE_SKIRMISH</LocID>                            <Text>Stop the enemies from spreading and destroy them</Text>  </GameDBLocalizedString>
 
             <!--Spawners-->
-            <GameDBLocalizedString>         <LocID>SPAWNER_UNITS</LocID>                                                <Text><![CDATA[<color=SOTS_COLOR_GREEN>Units available</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SPAWNER_EMPTY</LocID>                                                <Text><![CDATA[<color=SOTS_COLOR_RED>The spawner is empty</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_SPAWNER_DESCRIPTION</LocID>                                   <Text><![CDATA[Generates <color=SOTS_COLOR_RED>{1}</color> <color=SOTS_COLOR_GOLD>random unit</color>(s) from <color=SOTS_COLOR_GOLD>{2} faction</color> every cycle. First come, first served.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_MOLE_SPAWNER</LocID>                                          <Text>Mole hole</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_MOLE_SPAWNER_DESCRIPTION</LocID>                              <Text>I know it's a tower, but Holy moly guacamoly! That is one good mole for sale. Will you take it?</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CRUSADER_SPAWNER</LocID>                                      <Text>Gathering Shrine</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CRUSADER_SPAWNER_DESCRIPTION</LocID>                          <Text>From this source, you can recruit a couple more Children of the ... Source! Now leave. I must work on another dad joke.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATE_SPAWNER</LocID>                                        <Text>Sovereign's Crib</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATE_SPAWNER_DESCRIPTION</LocID>                            <Text>Need new crew, you old pirate? Just look ARRRound!  </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_EMPIRE_SPAWNER</LocID>                                        <Text>UNSS Recruitment Office</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_EMPIRE_SPAWNER_DESCRIPTION</LocID>                            <Text>Fresh recruits! Some so fresh the paint on their armor is still wet ... or is it just cold sweat?!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_NEUTRAL_SPAWNER</LocID>                                       <Text>Neutral Spawner</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_NEUTRAL_SPAWNER_DESCRIPTION</LocID>                           <Text>No better place to get these beautiful creatures then here. Except for Negotiator, but that is it.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_HIVE_MIND_SPAWNER</LocID>                                     <Text>Tumori Spawner</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_HIVE_MIND_SPAWNER_DESCRIPTION</LocID>                         <Text>Without these Tumori we may never see tomorrow! Laugh at me as you want, but we need reinforcements now!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_RANDOM_SPAWNER</LocID>                                        <Text>Random Unit Spawner</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SPAWNER_UNITS</LocID>                                                <Text><![CDATA[<color=SOTS_COLOR_GREEN>Unità disponibili</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SPAWNER_EMPTY</LocID>                                                <Text><![CDATA[<color=SOTS_COLOR_RED>Il distributore è vuoto</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_SPAWNER_DESCRIPTION</LocID>                                   <Text><![CDATA[Genera <color=SOTS_COLOR_RED>{1}</color> <color=SOTS_COLOR_GOLD>unità casuali</color> della <color=SOTS_COLOR_GOLD>{2} fazione</color> ogni ciclo. Il primo che arriva, viene servito per primo.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MOLE_SPAWNER</LocID>                                          <Text>Tana della talpa</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MOLE_SPAWNER_DESCRIPTION</LocID>                              <Text>So che è una torre, ma accidenti! È davvero un ottimo talpa in vendita. Lo prendi?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CRUSADER_SPAWNER</LocID>                                      <Text>Santuario del raduno</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CRUSADER_SPAWNER_DESCRIPTION</LocID>                          <Text>Da questa fonte puoi reclutare un altro paio di Figli della... Fonte! Ora vattene. Devo lavorare a un’altra battuta da vecchio.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATE_SPAWNER</LocID>                                        <Text>Covo del Sovrano</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATE_SPAWNER_DESCRIPTION</LocID>                            <Text>Hai bisogno di nuovi marinai, vecchio pirata? Basta che ti guardi ATTTontorno!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EMPIRE_SPAWNER</LocID>                                        <Text>Ufficio Reclutamento dell’UNSS</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EMPIRE_SPAWNER_DESCRIPTION</LocID>                            <Text>Nuove reclute! Alcune sono talmente nuove che la vernice sulle loro armature è ancora fresca... o forse è solo sudore freddo?!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_NEUTRAL_SPAWNER</LocID>                                       <Text>Generatore neutrali</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_NEUTRAL_SPAWNER_DESCRIPTION</LocID>                           <Text>Non c'è posto migliore di questo per procurarsi queste bellissime creature. A parte il Negoziatore, ma questo è tutto.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_HIVE_MIND_SPAWNER</LocID>                                     <Text>Generatore Tumori</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_HIVE_MIND_SPAWNER_DESCRIPTION</LocID>                         <Text>Senza questi Tumori potremmo non vedere mai il domani! Ridete pure di me quanto volete, ma abbiamo bisogno di rinforzi adesso!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_RANDOM_SPAWNER</LocID>                                        <Text>Generatore unità casuale</Text>  </GameDBLocalizedString>
 
             <!--Warmachine shop-->
-            <GameDBLocalizedString>         <LocID>MAPOBJ_WARMACHINE_SHOP</LocID>                                       <Text>Scrapyard workshop</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_WARMACHINE_SHOP_DESCRIPTION</LocID>                           <Text><![CDATA[Every <color=SOTS_COLOR_RED>Warmachine</color> under one roof. You will not find another place like this. Don't worry, they will not run out. <color=SOTS_COLOR_GOLD>If you have space/gold</color>, we have you covered.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_WARMACHINE_SHOP_NEGOTIATION</LocID>                      <Text><![CDATA[Come, we have struck bargain with every fraction to bring you this selection of brand-new machines.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_WARMACHINE_SHOP</LocID>                                       <Text>Officina nel deposito di rottami</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_WARMACHINE_SHOP_DESCRIPTION</LocID>                           <Text><![CDATA[Tutti i modelli di <color=SOTS_COLOR_RED>Macchina da guerra</color> sotto lo stesso tetto. Non troverete un altro posto come questo. Non preoccupatevi, non finiranno mai. <color=SOTS_COLOR_GOLD>Se avete spazio e oro a disposizione</color>, ci pensiamo noi.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_WARMACHINE_SHOP_NEGOTIATION</LocID>                      <Text><![CDATA[Venite, abbiamo stretto accordi con tutti i rivenditori per offrirvi questa selezione di macchine nuovissime.]]></Text>  </GameDBLocalizedString>
 
             <!--One way teleport-->
-            <GameDBLocalizedString>         <LocID>MAPOBJ_ONE_WAYTELEPORT_IN</LocID>                                    <Text>One Way Teleportation Device (In)</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_ONE_WAY_TELEPORT_OUT</LocID>                                  <Text>One Way Teleportation Device (Out)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ONE_WAYTELEPORT_IN</LocID>                                    <Text>Dispositivo di teletrasporto unidirezionale (In)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ONE_WAY_TELEPORT_OUT</LocID>                                  <Text>Dispositivo di teletrasporto unidirezionale (uscita)</Text>  </GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

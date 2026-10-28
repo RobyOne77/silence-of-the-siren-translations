@@ -114,14 +114,14 @@
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_MOVEMENT_PERCENT_REFILLED_AFTER_VICTORY</LocID>         <Text><![CDATA[Victory in battle restores {1}% <color=SOTS_COLOR_MOVEMENT>Movement Points</color>.]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_ENERGY_PERCENT_REFILLED_AFTER_VICTORY</LocID>           <Text><![CDATA[Victory in battle restores {1}% <color=SOTS_COLOR_ENERGY>Energy Points</color>.]]></Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCAVENGER_DESCRIPTION_V2</LocID>                          <Text><![CDATA[Allows the commander to <color=SOTS_COLOR_GOLD>reclaim some of the materials</color> a defeated army was made out of and to <color=SOTS_COLOR_GOLD>collect more resources</color> on the map.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_COLLECT_EXTRA_RESOURCES</LocID>                         <Text><![CDATA[Amount of free resources picked up on the map gets <color=SOTS_COLOR_GOLD>increased by {1}%</color> (or at least by 1).]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCAVENGER_DESCRIPTION_V2</LocID>                          <Text><![CDATA[Consente al comandante di <color=SOTS_COLOR_GOLD>recuperare parte dei materiali</color> con cui era composto un esercito sconfitto e di <color=SOTS_COLOR_GOLD>raccogliere ulteriori risorse</color> sulla mappa.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>SKILL_EFFECT_COLLECT_EXTRA_RESOURCES</LocID>                         <Text><![CDATA[La quantità di risorse gratuite raccolte sulla mappa viene <color=SOTS_COLOR_GOLD>aumentata del {1}%</color> (o almeno di 1).]]></Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>STATUS_EFFECT_PURSUED</LocID>                                        <Text><![CDATA[<color=SOTS_COLOR_RED>Pursued/tracked.</color> -20 to morale and -2 to unit initiative]]></Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>         <LocID>EFFECT_WHILE_IN_RANGE</LocID>                                        <Text>Active while in the range of the source.</Text>  </GameDBLocalizedString>            
             
-            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_TURRET_UPGRADE</LocID>                                <Text>Add a defensive turret.</Text>  </GameDBLocalizedString>            
-            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_UPG_TURRET_UPGRADE</LocID>                            <Text>Add a big defensive turret.</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_TURRET_UPGRADE</LocID>                                <Text>Aggiungi una torretta difensiva.</Text>  </GameDBLocalizedString>            
+            <GameDBLocalizedString>         <LocID>MAPOBJ_OUTPOST_UPG_TURRET_UPGRADE</LocID>                            <Text>Aggiungi una grande torretta difensiva.</Text>  </GameDBLocalizedString>            
             
             <GameDBLocalizedString>         <LocID>DIALOG_EVACUATION_ABILITY_TEXT_V2</LocID>                            <Text>Choose a nearby base to evacuate to!</Text>  </GameDBLocalizedString>            
             <GameDBLocalizedString>         <LocID>EVACUATION_TOO_FAR</LocID>                                           <Text>Too far</Text>  </GameDBLocalizedString>            
@@ -151,11 +151,11 @@
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_HEDGEHOG_PASSIVE_INFO_DESCRIPTION</LocID>               <Text>Contrattacchi illimitati che infliggono danni da veleno, corrosivi e da emorragia.</Text></GameDBLocalizedString>
 
             <!--SF Campaign ship - Chiquita -->
-            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATESSHUTTLE</LocID>                                        <Text>Sovereign Fleet starship</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATESSHUTTLE_DESCRIPTION</LocID>                            <Text>Type preferred by smugglers and rogue traders. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATESSHUTTLE</LocID>                                        <Text>Astronave della Flotta Sovrana</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_PIRATESSHUTTLE_DESCRIPTION</LocID>                            <Text>Il tipo preferito dai contrabbandieri e dai commercianti senza scrupoli. </Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CAMPAIGN_PIRATESSHUTTLE</LocID>                               <Text>Chiquita</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_CAMPAIGN_PIRATESSHUTTLE_DESCRIPTION</LocID>                   <Text>The fastest starship in the Sovereign Fleet.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CAMPAIGN_PIRATESSHUTTLE</LocID>                               <Text>Piccolino</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_CAMPAIGN_PIRATESSHUTTLE_DESCRIPTION</LocID>                   <Text>L’astronave più veloce della Flotta Sovrana.</Text>  </GameDBLocalizedString>
             
             
             <GameDBLocalizedString>         <LocID>ABILITY_HERO_COMBAT_ENERGY_DRAIN_DESCRIPTION_V2</LocID>              <Text><![CDATA[Steal half the <color=SOTS_COLOR_ENERGY>energy</color> of the enemy commander.]]></Text></GameDBLocalizedString>

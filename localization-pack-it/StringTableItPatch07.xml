@@ -10,8 +10,8 @@
         <LocalizedStrings>
             
             <!--NEW interactive object-->
-            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_EYEBALL_TOWER</LocID>                             <Text>EyeBall tower</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_EYEBALL_TOWER_DESCRIPTION</LocID>                 <Text>It can see ... EVERYTHING. And by that we mean various useful statistics and information about other players.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_EYEBALL_TOWER</LocID>                             <Text>Bulbo oculare</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_EXPLORATION_EYEBALL_TOWER_DESCRIPTION</LocID>                 <Text>È in grado di vedere... TUTTO. E con questo intendiamo varie statistiche e informazioni utili sugli altri giocatori.</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>BASE_LEGEND_BUILD</LocID>                                            <Text>Edificio disponibile</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BASE_LEGEND_BUILD_UPGRADE</LocID>                                    <Text>Potenziamento Disponibile/Non disponibile</Text>  </GameDBLocalizedString>
@@ -30,7 +30,7 @@
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_LOST_TRAINING_TEXT</LocID>                             <Text>The training was unsuccessful. You lost this simulated battle and there's no experience to learn from this.</Text>  </GameDBLocalizedString>
 
             <!-- From 3 to 4, update this in other languages ourselves? -->
-            <GameDBLocalizedString>         <LocID>MAPOBJ_GARRISON_UPGRADE_SMALL</LocID>                                <Text><![CDATA[<color=SOTS_COLOR_GOLD>Adds 4 slots for defending units</color> and for commanders with the Builder skill, <color=SOTS_COLOR_GOLD>10 defensive Sentry Guns</color> per skill level.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_GARRISON_UPGRADE_SMALL</LocID>                                <Text><![CDATA[<color=SOTS_COLOR_GOLD>Aggiunge 4 slot per le unità difensive</color> e, per i comandanti con la competenza “Costruttore”, <color=SOTS_COLOR_GOLD>10 torrette sentinella difensive</color> per ogni livello dell'abilità.]]></Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_TRAINING_RETREATED</LocID>                             <Text>Finish training?</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_TRAINING_RETREATED_TEXT</LocID>                        <Text>You will not receive any Experience points for interrupted training. But you can try again next cycle.</Text>  </GameDBLocalizedString>
@@ -108,7 +108,7 @@
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_RENEWED_SPIRIT_REVIVE_UNITS_PERCENT</LocID>             <Text><![CDATA[After winning the battle, <color=SOTS_COLOR_GOLD>{1}% of units you lost are revived</color>.]]></Text>  </GameDBLocalizedString>
 
             <!--Skills redesign-->
-            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCOUT_DESCRIPTION_V3</LocID>                              <Text><![CDATA[Gives info about hostile armies. Visiting the first building (object) each phase replenishes <color=SOTS_COLOR_MOVEMENT>10 movement points</color> per skill level and trading armies does not cost any.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>HERO_SKILL_SCOUT_DESCRIPTION_V3</LocID>                              <Text><![CDATA[Fornisce informazioni sugli eserciti nemici. Visitando il primo edificio (oggetto) in ogni fase si recuperano <color=SOTS_COLOR_MOVEMENT>10 punti movimento</color> per ogni livello di abilità, mentre lo scambio di eserciti non comporta alcun costo.]]></Text>  </GameDBLocalizedString>
             
             
             <GameDBLocalizedString>         <LocID>SCENARIO_CATEGORY_INGAME</LocID>                                     <Text>Scenarios</Text>  </GameDBLocalizedString>

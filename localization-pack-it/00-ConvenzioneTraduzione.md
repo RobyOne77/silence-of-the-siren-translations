@@ -6,7 +6,11 @@
 
 ### Convenzioni\:
 
-Per unità HIRE \-\-\> Recluta<br>Per comandanti HIRE \-\-\> Ingaggia<br>Per Stack \-\-\-\> Gruppo<br>Pick up \-\-\-\> raccogli / raccogliere
+Per unità HIRE \-\-\> Recluta  
+Per comandanti HIRE \-\-\> Ingaggia  
+Per comandanti Dismiss \-\-\> Congeda  
+Per Stack \-\-\-\> Gruppo  
+Pick up \-\-\-\> raccogli / raccogliere
 
 ### Generici:
 | Originale | Tradotto |
@@ -59,14 +63,17 @@ Per unità HIRE \-\-\> Recluta<br>Per comandanti HIRE \-\-\> Ingaggia<br>Per Sta
 | Aura Coins | Monete Aura |
 
 ### Unità generiche --> verificare
+
 | Originale | Tradotto |
-|:-|:-|
+| :--- | :--- |
 | Beholder | Osservatore |
 | Soldier | Soldato |
 | The Blazing One | Il Fiammeggiante |
 | The Bright One | Il Luminoso |
 | Zieregal | Zieregal |
 | High Zieregal | Alto Zieregal |
+| Negotiator | Negoziatore |
+| Warmachine | Macchina da guerra |
 
 ### Oggetti mappa
 
@@ -93,7 +100,9 @@ Per unità HIRE \-\-\> Recluta<br>Per comandanti HIRE \-\-\> Ingaggia<br>Per Sta
 | :--- | :--- |
 | Globetrotter Academy | Accademia Giramondo |
 | Abandoned Quarry | Cava abbandonata |
+| Ability Academy | Accademia delle Abilità |
 | Alloy Mill | Fonderia |
+| Almighty Eye | Occhio Onnipotente |
 | Altar of Clean Slate | Altare di inziazione |
 | Aura Coin Storage | Deposito di Monete Aura |
 | Battle Arena | Arena di battaglia |
@@ -105,31 +114,48 @@ Per unità HIRE \-\-\> Recluta<br>Per comandanti HIRE \-\-\> Ingaggia<br>Per Sta
 | Bored? Hello\! | Annoiato? Ciao\! |
 | Boosted Mining Probe | Sonda mineraria potenziata |
 | Boot Camp | Campo di addestramento |
+| Chiquita | Piccolino |
 | Coin Foundr | Coniatore |
 | Commander Wash | Purificazione comandante |
 | Derelict Collider | Acceleratore abbandonato |
 | Disabled Bridge | Ponte disabilitato |
 | Drone Dog | Cane drone |
 | Energy Node | Nodo energetico |
-| EyeBall tower |   |
+| Escape module | Modulo di fuga |
+| EyeBall tower | Bulbo oculare |
 | Fallen Warrior | Guerriero caduto |
+| Gathering Shrine | Santuario del raduno |
+| Hatchery | Incubatoio |
 | Radiant Collider | Collisore di Radiant |
 | Limerite Quarry | Cava di Limerite |
 | Metal Dump | Discarica di metalli |
+| Mole hole | Tana della talpa |
+| Mysterious wanderer | Viandante misterioso |
+| Neutral Spawner | Generatore neutrali |
+| Overcharger | Sovralimentatore |
 | Planet Fall Beacon | Faro di atterraggio |
 | Plundered Farm | Fattoria saccheggiata |
 | Radiant Collider | Acceleratore di Radiant |
 | Remote Outpost | Avamposto remoto |
 | Ruptured Smelter | Fonderia danneggiata |
+| Scrapyard workshop | Officina nel deposito di rottami |
 | Skill Academy | Accademia delle competenze |
 | Slave Camp | Campo di schiavi |
 | Small Turret | Torretta piccola |
 | Smugglers Den | Covo dei contrabbandieri |
+| Sovereign Fleet starship | Astronave della Flotta Sovrana |
+| Surprise Egg | Uovo a sorpresa |
+| Psy Academy | Accademia di Psicologia |
+| Stone of Misfortune | Pietra della sfortuna |
 | Superior Outpost | Avamposto Superiore |
 | Swordsman's Sanctuary | Santuario dello Spadaccino |
 | Techie Academy | Accademia tecnologica |
 | Teleportation Device | Dispositivo di teletrasporto |
 | Tomb of a Swordmaster | Tomba del Maestro d'Armi |
+| Traveling merchant | Mercante itinerante |
+| Tumori Spawner | Generatore Tumori |
+| Underground Stash | Deposito sotterraneo |
+| UNSS Recruitment Office | Ufficio Reclutamento dell’UNSS |
 | Warrior Monk Temple | Tempio dei Monaci Guerrieri |
 | Watch Tower | Torre di osservazione |
 | Wishing Well | Pozzo dei desideri |
@@ -271,6 +297,7 @@ Competenze\: fino a un totale di 8.
 | Scavenger | Raccoglitore |
 | Scout | Scout |
 | Sniper | Cecchino |
+| Squad leader | Caposquadra |
 | Tracker | Localizzatore |
 | War Hawk | Falco da guerra |
 
@@ -391,6 +418,8 @@ Competenze\: fino a un totale di 8.
 | Transporter psychosis | Psicosi da teletrasporto | Effetto |   |
 | Buried | Sepolto | Effetto |   |
 | Shielded | Schermato | Effetto |   |
+| Battle Arena Morale Boost | Aumento del morale nell'Arena di battaglia | Effetto |   |
+| Split stack | Dividi gruppo | Effetto |   |
 
 ### Fazioni
 

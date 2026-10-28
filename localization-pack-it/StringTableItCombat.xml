@@ -93,10 +93,10 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_PERISHED</LocID>                        <Text>{CombatActor} ha attaccato {AttackTarget} infliggendo {int} di danno. {int} unità sono morte.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_CRITICAL</LocID>                        <Text>{CombatActor} ha attaccato {AttackTarget} infliggendo {int} di danno CRITICO.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_CRITICAL_PERISHED</LocID>               <Text>{CombatActor} ha attaccato {AttackTarget} infliggendo {int} di danno CRITICO. {int} unità sono morte.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION</LocID>                     <Text>{CombatActor} retaliated against {AttackTarget} infliggendo {int} di danno.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_PERISHED</LocID>            <Text>{CombatActor} retaliated against {AttackTarget} infliggendo {int} di danno. {int} unità sono morte.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_CRITICAL</LocID>            <Text>{CombatActor} retaliated against {AttackTarget} infliggendo {int} di danno CRITICO.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_CRITICAL_PERISHED</LocID>   <Text>{CombatActor} retaliated against {AttackTarget} infliggendo {int} di danno CRITICO. {int} unità sono morte.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION</LocID>                     <Text>{CombatActor} ha reagito contro {AttackTarget} infliggendo {int} di danno.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_PERISHED</LocID>            <Text>{CombatActor} ha reagito contro {AttackTarget} infliggendo {int} di danno. {int} unità sono morte.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_CRITICAL</LocID>            <Text>{CombatActor} ha reagito contro {AttackTarget} infliggendo {int} di danno CRITICO.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_RETALIATION_CRITICAL_PERISHED</LocID>   <Text>{CombatActor} ha reagito contro {AttackTarget} infliggendo {int} di danno CRITICO. {int} unità sono morte.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_SHIELD</LocID>                          <Text>{CombatActor} ha attaccato {AttackTarget} infliggendo {int} di danno allo scudo. La forza residua dello scudo è {int}.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_BATTLE_DAMAGE_SHIELD_DESTROYED</LocID>                <Text>{CombatActor} ha attaccato {AttackTarget} infliggendo {int} di danno allo scudo e distruggendolo.</Text></GameDBLocalizedString>
             
@@ -129,7 +129,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_EFFECT_FIELD_PROMOTION</LocID>                        <Text>{Stack} è stato promosso a {GameDBUnit}.</Text></GameDBLocalizedString>
             
             <!-- Status effects -->
-            <!-- TODO percentage of danno: should these mention "per turn" ? -->
+            <!-- TODO percentage of damage: should these mention "per turn" ? -->
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE</LocID>                     <Text>Avvelenato</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_POISON_DAMAGE_DESCRIPTION</LocID>         <Text>L'unità perde 2% della propria vita, e il suo DANNO è decrementato del 20%.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>STACK_STATUS_EFFECT_BURNING_DAMAGE</LocID>                    <Text>Bruciare</Text></GameDBLocalizedString>
@@ -200,8 +200,8 @@
             <GameDBLocalizedString>         <LocID>SPECIAL_ON_END_OF_TURN</LocID>                                <Text>Lanciare automaticamente dopo il turno di questa unità (non dopo l'attesa):</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>PERKS</LocID>                                                 <Text>Vantaggi</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUFFS</LocID>                                                 <Text>Potenziamenti</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DEBUFFS</LocID>                                               <Text>Indebolimenti</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUFFS</LocID>                                                 <Text>Bonus</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DEBUFFS</LocID>                                               <Text>Malus</Text></GameDBLocalizedString>
                                                                                                                  
             <GameDBLocalizedString>         <LocID>RIGHT_CLICK_FOR_UNIT_INFO</LocID>                             <Text>Tasto-destro per dettagli unità.</Text></GameDBLocalizedString>
 
@@ -235,7 +235,7 @@
             <GameDBLocalizedString>         <LocID>EFFECTS_LAST_FOR_X_TURNS</LocID>                              <Text>Gli effetti durano {1} turni.</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>DIALOG_COMBAT_OVER_HOT_SEAT</LocID>                           <Text>La battaglia è finita!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>COMBAT_OVER_HOT_SEAT_TEXT</LocID>                             <Text>Splendida vittoria per {1}. Il comandante di {2} viene sconfitto.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>COMBAT_OVER_HOT_SEAT_TEXT</LocID>                             <Text>Splendida vittoria per {1}. Il comandante di {2} muore in battaglia..</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_MOVE</LocID>                                 <Text>Questa unità può ancora muoversi in questo turno</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_UNIT_CAN_RETALIATE</LocID>                            <Text>Questa unità può ancora contrattaccare in questo turno</Text></GameDBLocalizedString>

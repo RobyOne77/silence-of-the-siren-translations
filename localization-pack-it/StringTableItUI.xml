@@ -181,7 +181,7 @@
        
             <GameDBLocalizedString>         <LocID>WINNER_LOSSES</LocID>                                    <Text>Caduti vincitore</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DEFEATED_LOSSES</LocID>                                  <Text>Caduti sconfitto</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>LOSSES_NONE</LocID>                                      <Text>None!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>LOSSES_NONE</LocID>                                      <Text>Nessuno!</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>TOOLTIP_MELEE_UNIT</LocID>                               <Text>Unità attacco in mischia</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>TOOLTIP_RANGED_UNIT</LocID>                              <Text>Unità attacco a distanza</Text></GameDBLocalizedString>

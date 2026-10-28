@@ -4,7 +4,7 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -29,7 +29,7 @@
             <GameDBLocalizedString>         <LocID>QUEST_NOT_AVAILABLE_IN_HOTSEAT</LocID>                      <Text>With so much chaos happening on the map, I have nothing to ask of you! \n(Sidequests are not available in multiplayer).</Text></GameDBLocalizedString>
 
             <!-- New cycle rules -->
-            <GameDBLocalizedString>         <LocID>CYCLE_RULES_ONLY_ONCE</LocID>                               <Text>(Will not repeat on this map)</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_RULES_ONLY_ONCE</LocID>                               <Text>(Non verrà ripetuto in questa mappa)</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_ECLIPSE</LocID>                                 <Text>Total eclipse!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_RULES_ECLIPSE_DESCRIPTION</LocID>                     <Text>Nighttime for the whole cycle!</Text></GameDBLocalizedString>
@@ -46,8 +46,8 @@
             <GameDBLocalizedString>         <LocID>CYCLE_CRUSADERS</LocID>                                     <Text>Holy Festival!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_CRUSADERS_DESCRIPTION</LocID>                         <Text>Children of the Source bases produce more units and commanders of the Children of the Source enjoy higher morale!</Text></GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>CYCLE_PIRATES</LocID>                                       <Text>Freedom Festival!</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>CYCLE_PIRATES_DESCRIPTION</LocID>                           <Text>Sovereign Fleet bases produce more units and commanders of the Sovereign Fleet enjoy higher morale!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_PIRATES</LocID>                                       <Text>Festival della Libertà!</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>CYCLE_PIRATES_DESCRIPTION</LocID>                           <Text>Le basi della Flotta Sovrana producono più unità e i comandanti della Flotta Sovrana godono di un morale più alto!</Text></GameDBLocalizedString>
 
             <GameDBLocalizedString>         <LocID>CYCLE_EMPIRE</LocID>                                        <Text>Memorial Day!</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>CYCLE_EMPIRE_DESCRIPTION</LocID>                            <Text>UNSS bases produce more units and UNSS commanders enjoy higher morale!</Text></GameDBLocalizedString>
@@ -83,20 +83,20 @@
             
             <!--NEW INTERACTIVE OBJECTS-->
             <!--Mysterious wanderer-->
-            <GameDBLocalizedString>         <LocID>MAPOBJ_MYSTERIOUS_WANDERER</LocID>                          <Text>Mysterious wanderer</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_MYSTERIOUS_WANDERER_DESCRIPTION</LocID>              <Text><![CDATA[Mysteriously wanders around. It is said that he rewards <color=SOTS_COLOR_XP>experience</color> and <color=SOTS_COLOR_GOLD>improves an attribute of your choice</color> to the <color=SOTS_COLOR_GOLD>first person</color> he meets <color=SOTS_COLOR_GOLD>each cycle</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MYSTERIOUS_WANDERER</LocID>                          <Text>Viandante misterioso</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_MYSTERIOUS_WANDERER_DESCRIPTION</LocID>              <Text><![CDATA[Vaga misteriosamente nei dintorni. Si dice che <color=SOTS_COLOR_XP>conceda esperienza</color> e <color=SOTS_COLOR_GOLD>migliori un attributo a tua scelta</color> alla <color=SOTS_COLOR_GOLD>prima persona</color> che incontra <color=SOTS_COLOR_GOLD>ad ogni ciclo</color>.]]></Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MYSTERIOUS_WANDERER</LocID>                   <Text>Mysterious wanderer</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>DIALOG_OBJECT_MYSTERIOUS_WANDERER_TEXT</LocID>              <Text><![CDATA[Hello my friend. You are the first one who has managed to catch up with me this cycle. And for that I grant you <color=SOTS_COLOR_XP>1000 Experience points</color> and you may <color=SOTS_COLOR_GOLD>choose</color> which <color=SOTS_COLOR_GOLD>attribute</color> you want to <color=SOTS_COLOR_GOLD>improve by 1</color>.]]></Text></GameDBLocalizedString>
                                                                                                             
             <!--Traveling merchant-->                                                                       
-            <GameDBLocalizedString>         <LocID>MAPOBJ_TRAVELING_MERCHANT</LocID>                           <Text>Traveling merchant</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MAPOBJ_TRAVELING_MERCHANT_DESCRIPTION</LocID>               <Text><![CDATA[<color=SOTS_COLOR_GOLD>A traveling shop</color> with a motto: New phase, new place. \nProvides <color=SOTS_COLOR_GOLD>the same</color> services as the <color=SOTS_COLOR_GOLD>Black market</color>, but <color=SOTS_COLOR_GOLD>pays double</color> for equipment. You can also <color=SOTS_COLOR_GOLD>sell artifacts</color> here.]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_MERCHANT_TEXT</LocID>                           <Text><![CDATA[Welcome! I am happy to <color=SOTS_COLOR_GOLD>trade resources</color> or <color=SOTS_COLOR_UPGRADE>buy any equipment</color> from you! Don't trust those Black Marketers. We have the best prices.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TRAVELING_MERCHANT</LocID>                           <Text>Mercante itinerante</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_TRAVELING_MERCHANT_DESCRIPTION</LocID>               <Text><![CDATA[<color=SOTS_COLOR_GOLD>Un negozio itinerante</color> con il motto: Nuova fase, nuovo posto. \nOffre <color=SOTS_COLOR_GOLD>gli stessi</color> servizi del <color=SOTS_COLOR_GOLD>Mercato nero</color>, ma <color=SOTS_COLOR_GOLD>paga il doppio</color> per l'equipaggiamento. Qui puoi anche <color=SOTS_COLOR_GOLD>vendere manufatti</color>.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_MERCHANT_TEXT</LocID>                           <Text><![CDATA[Benvenuto! Sono lieto di <color=SOTS_COLOR_GOLD>scambiare risorse</color> o <color=SOTS_COLOR_UPGRADE>acquistare qualsiasi attrezzatura</color> da te! Non fidarti di quei commercianti del mercato nero. Abbiamo i prezzi migliori.]]></Text>  </GameDBLocalizedString>
                                                                                                             
             <!--Escape module -> formerly known as coprse-->                                                  
-            <GameDBLocalizedString>         <LocID>MAPOBJ_ESCAPE_MODUL</LocID>                                 <Text>Escape module</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_ESCAPE_MODUL_PICKUP</LocID>              <Text>Escape module</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>EXPLORATION_ESCAPE_MODUL_PICKUP</LocID>                     <Text><![CDATA[This module is <color=SOTS_COLOR_UPGRADE>packed to the gills!</color> Someone clearly valued mammon over their crew. So, I guess, thank you, unknown Uncle Scrooge.]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MAPOBJ_ESCAPE_MODUL</LocID>                                 <Text>Modulo di fuga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>DIALOG_EXPLORATION_ESCAPE_MODUL_PICKUP</LocID>              <Text>Modulo di fuga</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>EXPLORATION_ESCAPE_MODUL_PICKUP</LocID>                     <Text><![CDATA[Questo modulo è <color=SOTS_COLOR_UPGRADE>pieno zeppo!</color> È evidente che qualcuno abbia anteposto il denaro al proprio equipaggio. Quindi, immagino di dover dire: grazie, sconosciuto Zio Paperone.]]></Text>  </GameDBLocalizedString>
 
             <!-- Originally: Building structures is discounted by <color=SOTS_COLOR_GOLD>{1}%</color>! -->
             <GameDBLocalizedString>         <LocID>SKILL_EFFECT_BUILDER_DISCOUNT_PERCENT</LocID>               <Text><![CDATA[Building structures on the map is discounted by <color=SOTS_COLOR_GOLD>{1}%</color>!]]> </Text>  </GameDBLocalizedString>
