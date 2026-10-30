@@ -55,7 +55,7 @@
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_GENERIC_TURRET_DESCRIPTION</LocID>                      <Text>Torrette autonome pesanti prodotte dalla UNSS. Grazie alle munizioni di grosso calibro, questi modelli sono in grado di abbattere anche nemici di grandi dimensioni, come i Thundermech d’élite della Flotta Sovrana.. </Text></GameDBLocalizedString>
 
             <!--Unit abilities-->
-            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_VEHICLE_SHIELD_INFO_DESCRIPTION</LocID>                 <Text><![CDATA[Protects your army from <color=SOTS_COLOR_GOLD>ranged attacks</color>.]]></Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_VEHICLE_SHIELD_INFO_DESCRIPTION</LocID>                 <Text><![CDATA[Protegge il tuo esercito dagli <color=SOTS_COLOR_GOLD>attacchi a distanza</color>.]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_VEHICLE_SHIELD_INFO_DESCRIPTION</LocID>                 <Text><![CDATA[Protegge il tuo esercito da <color=SOTS_COLOR_GOLD>attacchi a distanza</color>.]]></Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRYSTAL_LIZARD_DAY_INFO_DESCRIPTION</LocID>             <Text>Ha un attacco a distanza.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>UNIT_NEUTRAL_CRYSTAL_LIZARD_DAY_DESERT_INFO_DESCRIPTION</LocID>      <Text>I tiri sono sempre precisi.</Text></GameDBLocalizedString>

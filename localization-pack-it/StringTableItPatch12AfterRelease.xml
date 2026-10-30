@@ -43,7 +43,7 @@
             
             <GameDBLocalizedString>         <LocID>OPTION_GRAPHICS_VSYNC_RATE</LocID>                          <Text>VSync frequenza</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>VSYNC_RATE_1X</LocID>                                       <Text>Ogni fotogramma</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>VSYNC_RATE_2X</LocID>                                       <Text>1/2 freq. aggiorn.</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>VSYNC_RATE_2X</LocID>                                       <Text>1/2 freq. agg.</Text></GameDBLocalizedString>
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>

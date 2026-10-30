@@ -13,6 +13,7 @@ Per Stack \-\-\-\> Gruppo
 Pick up \-\-\-\> raccogli / raccogliere
 
 ### Generici:
+
 | Originale | Tradotto |
 | :--- | :--- |
 | Earth\-based company | Azienda terrestre |
@@ -28,6 +29,7 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Supreme Fist | Pugno Supremo |
 | Theta wave theory | teoria delle onde Theta |
 | Tumori biomancy | Biomanzia dei Tumori |
+| Eye of Light anomaly | anomalia Occhio di Luce |
 
 | Originale | Tradotto |
 | :--- | :--- |
@@ -61,6 +63,13 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Radiant | Radiant |
 | Fusion core | Nuclei di fusione |
 | Aura Coins | Monete Aura |
+
+### Pianeti
+
+| Originale | Tradotto |
+| --- | --- |
+| UNSC 4298i Atlas | UNSC 4298i Atlas |
+| UNSC 4298i/1 Typhon | UNSC 4298i/1 Typhon |
 
 ### Unità generiche --> verificare
 
@@ -172,20 +181,23 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Bloodthirsty soul | Anima sanguinaria |
 
 ##### Equipaggiamento
+
 | Originale | Tradotto |
-|:-|:-|
+| :--- | :--- |
 | Besieger tools | Strumenti d'assedio |
 | Burn Puncher | Pugno incendiario |
 | Ceremonial flag | Bandiera cerimoniale |
 | Cross of Valor | Croce del valore |
 | Medal of Honor | Medaglia d'onore |
-| Panzer-biting Plasma | Plasma perfora-corazze |
+| Panzer\-biting Plasma | Plasma perfora\-corazze |
 | Razor Beam | Raggio di rasoio |
 | Sidearm | Arma secondaria |
 | Smartgun Aiming Unit | Unità di puntamento Smartgun |
 | Subdermal Armor | Corazza sottocutanea |
 | Targeting System | Sistema di puntamento |
 | Smart ballistic plating | Placcatura balistica intelligente |
+| Wild Geese Beret | Basco delle Oche Selvagge |
+| Silver Iodide Rocket | Razzo allo ioduro d'argento |
 
 ##### Consumabili
 | Originale | Tradotto |
@@ -507,12 +519,15 @@ Competenze\: fino a un totale di 8.
 | Liberator Hangar | Hangar Liberatori |
 | Liberator Assembly Line | Catena di montaggio Liberatori |
 | Supreme Leader Statue | Statua del Leader Supremo |
+| Sentries | Sentinelle |
+| Electric Fence | Recinzione elettrica |
 
 #### Fazioni neutrali
 
 ##### Oggetti, unità, edifici\:
+
 | Originale | Tradotto |
-|:-|:-|
+| :--- | :--- |
 | Crystal Lizard | Lucertola di cristallo |
 | Crystal Lizard desert | Lucertola di cristallo desertica |
 | Limerite Collector | Raccoglitore di Limerite |
@@ -528,21 +543,26 @@ Competenze\: fino a un totale di 8.
 | Heavy Turret | Torretta Pesante |
 | Sentry gun | Torretta |
 | Garrison sentry | Sentinella del presidio |
-| Jerry-rig | Rattoppatore |
+| Jerry\-rig | Rattoppatore |
 | Baloo | Baloo |
 | Sparkling Pillar | Pilastro Scintillante |
 | Primal Pylon | Pilone Primordiale |
 | Apex | Predatore Alfa |
 | Void Walker | Camminatore del Vuoto |
 | Edgehog | Riccio |
-| Craborg | Granchio-cyborg |
-| F1-Cracker | F1-Petardo |
+| Craborg | Granchio\-cyborg |
+| F1\-Cracker | F1\-Petardo |
 | Luminovore | Luminovoro |
 | Triffid | Trifido |
 | Triffid Seedling | Trifido Germoglio |
 | Molvark | Molvark |
 | Bullrock | Bullrock |
 | Ratling Troglodyte | Ratling Troglodita |
+| Craborg | Granchio\-cyborg |
+| Void Walker | Camminatore del Vuoto |
+| Edgehog | Riccio |
+| Ratling Troglodyte | Ratling Troglodita |
+| Bullrock | Bullrock |
 
 #### UNSS
 
@@ -584,6 +604,52 @@ Competenze\: fino a un totale di 8.
 | Adela | Adela | |
 | Governor Burke | Governatore Burke | Gov. Burke
 
+##### Edifici\:
+
+| Originale | Tradotto |
+| --- | --- |
+| Reactor Core | Nucleo del reattore |
+| Reactor Circuitry | Circuiti del reattore |
+| Reactor Shell | Involucro del reattore |
+| Reactor Cooling | Raffreddamento del reattore |
+| Corporate Lair | Tana aziendale |
+| Teleport Beam | Raggio di teletrasporto |
+| Charging Coil | Bobina di carica |
+| Canteen | Mensa |
+| Holo Deck | Ponte ologrammi |
+| Control Tower | Torre di controllo |
+| Recycler | Riciclatore |
+| Industrial Unit | Officina |
+| Store | Negozio |
+| Headquarters | Il quartier generale |
+| Mission Control | Controllo Missione |
+| Minefield | Campo minato |
+| Turrets | Torrette |
+| Research Division | Divisione Ricerca |
+| Subnet | Sottorete |
+| Test Labs | Laboratori di test |
+| Bio Research | Ricerca biologica |
+| Field Research | Ricerca sul campo |
+| Psy Research | Ricerca psionica |
+| Tech Research | Ricerca tecnologica |
+| Battery Cells | Celle di batteria |
+| Recharging Dock | Stazione di ricarica |
+| Ubications | Ubicazioni |
+| Barracks | Caserma |
+| Robotics | Robotica |
+| Advanced Robotics | Robotica avanzata |
+| PR Division | Divisione PR |
+| PR Center | Centro PR |
+| Armory | Armeria |
+| Arsenal | Arsenale |
+| Grinding Workshop | Laboratorio di macinazione |
+| Grinding Mill | Mulino |
+| Titan Docking Unit | Unità di aggancio Titan |
+| Titan Docks | Moli Titan |
+| Recruitment Center | Centro di reclutamento |
+| Empirical research | Ricerca empirica |
+| Sentries | Sentinelle |
+| Electric Fence | Recinzione elettrica |
 #### Flotta Sovrana
 
 ##### Unità

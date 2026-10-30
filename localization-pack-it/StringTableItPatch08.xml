@@ -114,7 +114,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_EMPIRE_LVL2_ROBOGUARDS_MAYA_1</LocID>      <Text>First, the base!</Text>  </GameDBLocalizedString>
 
             <!--The name of building in base was the same as name of the skill-->
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_EXPLORE_V2</LocID>                  <Text>Empirical research</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_EXPLORE_V2</LocID>                  <Text>Ricerca empirica</Text></GameDBLocalizedString>
 
         </LocalizedStrings>
     </GameDBStringTable>

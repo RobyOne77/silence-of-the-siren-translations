@@ -206,7 +206,7 @@
             <!--New AI Option-->
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION</LocID>                                <Text>Versione AI</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_OLD</LocID>                            <Text>Vecchia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_NEW</LocID>                            <Text>Nuoova</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OPTION_EXPLORATION_AI_VERSION_NEW</LocID>                            <Text>Nuova</Text>  </GameDBLocalizedString>
             
             <!--Commissario Snif alternative name-->
             <GameDBLocalizedString>         <LocID>HERO_MOLE_2_ALTERNATIVE</LocID>                                     <Text>Colonel Snif</Text>  </GameDBLocalizedString>

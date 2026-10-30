@@ -44,7 +44,7 @@
 
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_CORE</LocID>                    <Text>Il quartier generale</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_CORE_DESCRIPTION</LocID>        <Text>Aggiunge mura, un cancello e due piattaforme per unità a distanza e sblocca uno slot difensivo.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_TOWER</LocID>                   <Text>Centro di controllo</Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_TOWER</LocID>                   <Text>Controllo Missione</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_TOWER_DESCRIPTION</LocID>       <Text>Aumenta la resistenza delle mura e del cancello e aggiunge due piattaforme di tiro e uno slot difensivo.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_MINES</LocID>                   <Text>Campo minato</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_DEFENSIVE_MINES_DESCRIPTION</LocID>       <Text>Aggiunge 3 mine a un campo di battaglia d'assedio.</Text></GameDBLocalizedString>
@@ -57,7 +57,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_SPECIALIZATION</LocID>            <Text>Laboratori di test</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_BIO</LocID>                       <Text>Ricerca biologica</Text></GameDBLocalizedString>                                                     
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_EXPLORE</LocID>                   <Text>Ricerca sul campo</Text></GameDBLocalizedString>                                     
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_PSY</LocID>                       <Text>Ricerca in psicologia</Text></GameDBLocalizedString>                                                     
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_PSY</LocID>                       <Text>Ricerca psionica</Text></GameDBLocalizedString>                                                     
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_FACULTY_TECH</LocID>                      <Text>Ricerca tecnologica</Text></GameDBLocalizedString>
             
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_1</LocID>                         <Text>Celle di batteria</Text></GameDBLocalizedString>
@@ -72,7 +72,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_3_DESCRIPTION</LocID>             <Text>Recluta droidi Unità 6.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_3_UPG</LocID>                     <Text>Robotica avanzata</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_3_UPG_DESCRIPTION</LocID>         <Text>Recluta droidi Unità 6-M.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_4</LocID>                         <Text>Divisione PR </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_4</LocID>                         <Text>Divisione PR</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_4_DESCRIPTION</LocID>             <Text>Recluta Unità Antisommossa.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_4_UPG</LocID>                     <Text>Centro PR</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_4_UPG_DESCRIPTION</LocID>         <Text>Recluta Unità Schiacciafolle.</Text></GameDBLocalizedString>
@@ -84,7 +84,7 @@
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_6_DESCRIPTION</LocID>             <Text>Recluta droidi Ares.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_6_UPG</LocID>                     <Text>Mulino</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_6_UPG_DESCRIPTION</LocID>         <Text>Recluta droidi Ares MK2.</Text></GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_7</LocID>                         <Text>Unità di aggancio Titan </Text></GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_7</LocID>                         <Text>Unità di aggancio Titan</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_7_DESCRIPTION</LocID>             <Text>Recluta Unità Titano.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_7_UPG</LocID>                     <Text>Moli Titan</Text></GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>BUILDING_EMPIRE_SPAWNER_7_UPG_DESCRIPTION</LocID>         <Text>Recluta Unità Scudiero del Titano.</Text></GameDBLocalizedString>
