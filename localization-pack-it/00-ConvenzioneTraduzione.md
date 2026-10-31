@@ -4,15 +4,17 @@
 
 ## Linee guida traduzione
 
-### Convenzioni\:
+### Convenzioni
 
-Per unità HIRE \-\-\> Recluta  
-Per comandanti HIRE \-\-\> Ingaggia  
-Per comandanti Dismiss \-\-\> Congeda  
-Per Stack \-\-\-\> Gruppo  
-Pick up \-\-\-\> raccogli / raccogliere
+| Termine | Contesto | Traduzione |
+| :- | :- | :- |
+| HIRE | Unità | Recluta |
+| HIRE | Comandanti | Ingaggia |
+| DISMISS | Comandanti | Congeda |
+| STACK | Unità | Gruppo |
+| PICK UP | Oggetti | Raccoggli / Raccogliere |
 
-### Generici:
+### Generici
 
 | Originale | Tradotto |
 | :--- | :--- |
@@ -30,9 +32,11 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Theta wave theory | teoria delle onde Theta |
 | Tumori biomancy | Biomanzia dei Tumori |
 | Eye of Light anomaly | anomalia Occhio di Luce |
+| Allmother / ALLMOTHER | Omnimadre / OMNIMADRE |
+| Temple City | Città\-Tempio |
 
 | Originale | Tradotto |
-| :--- | :--- |
+| :- | :- |
 | Abilty | Abilità |
 | Buff | Potenziamento / Bonus |
 | Debuff | Indebolimento / Malus |
@@ -41,9 +45,10 @@ Pick up \-\-\-\> raccogli / raccogliere
 | QuickCast | Lancio rapido |
 | Skill | Competenza |
 
-### Fazioni:
+### Fazioni
+
 | Originale | Tradotto |
-| :--- | :--- |
+| :- | :- |
 | Children of the Source | Figli della Fonte |
 | Fossorians | Fossoriani |
 | Hesperidians | Esperidiani |
@@ -55,8 +60,9 @@ Pick up \-\-\-\> raccogli / raccogliere
 | UNSS | Nazioni Unite del Sistema Solare |
 
 ### Risorse
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Limerite | Limerite |
 | Alloy | Leghe |
 | Biomass | Biomasse |
@@ -67,7 +73,7 @@ Pick up \-\-\-\> raccogli / raccogliere
 ### Pianeti
 
 | Originale | Tradotto |
-| --- | --- |
+| :- | :- |
 | UNSC 4298i Atlas | UNSC 4298i Atlas |
 | UNSC 4298i/1 Typhon | UNSC 4298i/1 Typhon |
 
@@ -80,14 +86,15 @@ Pick up \-\-\-\> raccogli / raccogliere
 | The Blazing One | Il Fiammeggiante |
 | The Bright One | Il Luminoso |
 | Zieregal | Zieregal |
-| High Zieregal | Alto Zieregal |
 | Negotiator | Negoziatore |
 | Warmachine | Macchina da guerra |
+| Bright Ones | I Lucenti |
+| Bright Star | Stella Lucente |
 
 ### Oggetti mappa
 
 | Originale | Tradotto |
-| :--- | :--- |
+| :- | :- |
 | Building Zone | Zona Edificabile |
 | Carnivorous Flora | Flora carnivora |
 | Force Shield | Scudo di Forza |
@@ -107,7 +114,7 @@ Pick up \-\-\-\> raccogli / raccogliere
 
 | Originale | Tradotto |
 | :--- | :--- |
-| Globetrotter Academy | Accademia Giramondo |
+| Globetrotter Academy | Accademia Giramondo |
 | Abandoned Quarry | Cava abbandonata |
 | Ability Academy | Accademia delle Abilità |
 | Alloy Mill | Fonderia |
@@ -118,7 +125,7 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Beast Nest | Nido della bestia |
 | Big Turret | Torretta grande |
 | Bio Farm | Fattoria biologica |
-| Biotic Academy | Accademia Biotica |
+| Biotic Academy | Accademia Biologia |
 | Black Market | Mercato Nero |
 | Bored? Hello\! | Annoiato? Ciao\! |
 | Boosted Mining Probe | Sonda mineraria potenziata |
@@ -170,10 +177,13 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Wishing Well | Pozzo dei desideri |
 
 ### Oggetti
+
 #### Generici
+
 ##### Manufatti (Artifacts)
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Artifacts | Manufatti |
 | Bloodshed murmur | Sussurro |
 | Disturbed inception | Genesi turbata |
@@ -183,7 +193,7 @@ Pick up \-\-\-\> raccogli / raccogliere
 ##### Equipaggiamento
 
 | Originale | Tradotto |
-| :--- | :--- |
+| :- | :- |
 | Besieger tools | Strumenti d'assedio |
 | Burn Puncher | Pugno incendiario |
 | Ceremonial flag | Bandiera cerimoniale |
@@ -200,8 +210,9 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Silver Iodide Rocket | Razzo allo ioduro d'argento |
 
 ##### Consumabili
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Fuel Stock | Scorte di carburante |
 | Data Fragment | Frammento di dati |
 | Magnesium Torch | Torcia al magnesio |
@@ -213,8 +224,9 @@ Pick up \-\-\-\> raccogli / raccogliere
 #### Eplorazione
 
 ##### Consumabili
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Vagrant | Vagabondo |
 | Seer | Veggente |
 | MoonWalker | Camminatore Lunare |
@@ -223,8 +235,9 @@ Pick up \-\-\-\> raccogli / raccogliere
 | Mastermind | Genio |
 
 ##### Equipaggiamento
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Datapad | Datapad |
 | Bait Flag | Bandiera esca |
 | Holo Scarecrow | Spaventapasseri olografico |
@@ -248,50 +261,52 @@ Pick up \-\-\-\> raccogli / raccogliere
 #### Caratteristiche \(Attributi\)
 
 | Originale | Tradotto |
-| :--- | :--- |
+| :- | :- |
 | Energy Points | Punti Energia |
 | Movement Points | Punti Movimento |
 | XP | Punti esperienza \(XP\) |
 
-#### Categorie principali di Abilità 
+#### Categorie principali di Abilità
 
 | Originale | Tradotto | Dove si applica |
-| :--- | :--- | --- |
+| :--- | :--- | :--- |
 | Exploration Proficiency | Perizia nell'esplorazione | Esplorazione mappa |
-| Combat Power | Potenza nel combattimento | Campo di battaglia |
-| Ability Strength | Potenza delle abilità | Campo di battaglia |
+| Combat Power | Potenza nel Combattimento | Campo di battaglia |
+| Ability Strength | Potenza delle Abilità | Campo di battaglia |
 
 ##### Luogo di validità delle abilità principali
 
 | Originale | Tradotto | Dove si applica |
-| :--- | :--- | --- |
-| Movement in combat | Movimento in cambattimento \(cercare per corregere\) | Campo di battaglia |
+| :- | :- | :- |
+| Movement in combat | Movimento in combattimento \(cercare per correggere\) | Campo di battaglia |
 | Morale | Morale | Campo di battaglia |
-| Vision | Visione |   |
+| Vision | Visione | |
 
 #### Competenze (Skill)
+
 ##### Descrizione
-Competenze\: fino a un totale di 8.
+
+Competenze: fino a un totale di 8.
 
 | Livello comandante | Livello Competenza |
-| --- | --- |
+| :- | :- |
 | 1\-4 | 1 |
 | 5\-9 | 2 |
 | 10 | 3 |
 
-##### Grandi scuole\:
-
-| Originale | Tradotto |
-| --- | --- |
-| Biotic | Biotico |
-| Globetrotter | Giramondo |
-| Spyker | Psionico |
-| Techie | Nerd |
-
-##### Minori\:
+##### Grandi scuole
 
 | Originale | Tradotto |
 | :--- | :--- |
+| Biotic | Biologia |
+| Globetrotter | Giramondo |
+| Spyker | Psionica |
+| Techie | Tecnologia |
+
+##### Minori
+
+| Originale | Tradotto |
+| :- | :- |
 | Bloodlust | Brama di Sangue / Sete di Sangue |
 | Brawler | Attaccabrighe |
 | Builder | Costruttore |
@@ -316,21 +331,21 @@ Competenze\: fino a un totale di 8.
 #### Abilità \(Abilities\)
 
 | Originale | Tradotto | Competenza |
-| :--- | :--- | --- |
-| Acid Projectile | Proiettile Acido | Biotico |
-| Artificial Muscle Fibers | Fibre Muscolari Artificiali | Biotico |
-| Chameleon Coating | Rivestimento Camaleontico | Biotico |
-| Clone | Clone | Biotico |
-| Disruptive Ultrasound | Ultrasuoni Dirompenti | Biotico |
-| Field Promotion | Promozione sul Campo | Biotico |
-| Glue Grenade | Granata Collante | Biotico |
-| Lighten Armor | Alleggerisci Armatura | Biotico |
-| Lure Local Beast | Attira Bestia Locale | Biotico |
-| Mimicking Tactics | Tattiche di Imitazione | Biotico |
-| Regenerate | Rigenerare | Biotico |
-| Restoring Biofilm | Ripristino Biofilm | Biotico |
-| Resurrect | Resuscitare | Biotico |
-| Walking Rations | Razioni Deambulanti | Biotico |
+| :- | :- | :- |
+| Acid Projectile | Proiettile Acido | Biologia |
+| Artificial Muscle Fibers | Fibre Muscolari Artificiali | Biologia |
+| Chameleon Coating | Rivestimento Camaleontico | Biologia |
+| Clone | Clone | Biologia |
+| Disruptive Ultrasound | Ultrasuoni Dirompenti | Biologia |
+| Field Promotion | Promozione sul Campo | Biologia |
+| Glue Grenade | Granata Collante | Biologia |
+| Lighten Armor | Alleggerisci Armatura | Biologia |
+| Lure Local Beast | Attira Bestia Locale | Biologia |
+| Mimicking Tactics | Tattiche di Imitazione | Biologia |
+| Regenerate | Rigenerare | Biologia |
+| Restoring Biofilm | Ripristino Biofilm | Biologia |
+| Resurrect | Resuscitare | Biologia |
+| Walking Rations | Razioni Deambulanti | Biologia |
 | Barbarian Horde | Orda dei barbari | Giramondo |
 | Battle Cry | Grido di battaglia | Giramondo |
 | Death Mark | Marchio della morte | Giramondo |
@@ -345,121 +360,102 @@ Competenze\: fino a un totale di 8.
 | Show Resources | Mostra Risorse | Giramondo |
 | Show Treasures | Mostra Tesori | Giramondo |
 | Supercharged Cloud | Nuvola Sovraccarica | Giramondo |
-| Blast Waveù | Onda d'Urto | Nerd |
-| Draining Coil | Bobina Drenante | Nerd |
-| Force Field | Campo di Forza | Nerd |
-| Hack | Viola | Nerd |
-| Jerry\-rig | Riparazione di Fortuna | Nerd |
-| Long Range Artillery | Artiglieria a lungo raggio | Nerd |
-| Orbital Bombardment | Bombardamento Orbitale | Nerd |
-| Orbital Strike | Attacco Orbitale | Nerd |
-| Repair | Riparare | Nerd |
-| Sentry Airdrop | Lancio di Torrette Sentinella | Nerd |
-| Surface Overcharge | Sovraccarico di Superficie | Nerd |
-| System Equilibrium | Equilibrio del Sistema | Nerd |
-| Teleport | Teletrasporto | Nerd |
-| Wild Card | Jolly | Nerd |
-| Arcane controller | Controllo Arcano | Psionico |
-| Berserk | Furioso | Psionico |
-| Cooldown Recovery | Riduzione del Tempo di Ricarica | Psionico |
-| Confusion | Confusione | Psionico |
-| Feint | Finta | Psionico |
-| Maximum Effort | Massimo Impegno | Psionico |
-| Mental bond | Legame Mentale | Psionico |
-| Mental riot | Rivolta Mentale | Psionico |
-| Mind patch | Modifica Mentale | Psionico |
-| Phase mirror | Specchio di Fase | Psionico |
-| Phase shift | Sfasamento | Psionico |
-| Psionic blast | Esplosione Psionica | Psionico |
-| Psionic cleansin | Purificazione Psionica | Psionico |
-| Armor Incrustation | Armatura Incrostata |   |
+| Blast Waveù | Onda d'Urto | Tecnologia |
+| Draining Coil | Bobina Drenante | Tecnologia |
+| Force Field | Campo di Forza | Tecnologia |
+| Hack | Viola | Tecnologia |
+| Jerry\-rig | Riparazione di Fortuna | Tecnologia |
+| Long Range Artillery | Artiglieria a lungo raggio | Tecnologia |
+| Orbital Bombardment | Bombardamento Orbitale | Tecnologia |
+| Orbital Strike | Attacco Orbitale | Tecnologia |
+| Repair | Riparare | Tecnologia |
+| Sentry Airdrop | Lancio di Torrette Sentinella | Tecnologia |
+| Surface Overcharge | Sovraccarico di Superficie | Tecnologia |
+| System Equilibrium | Equilibrio del Sistema | Tecnologia |
+| Teleport | Teletrasporto | Tecnologia |
+| Wild Card | Jolly | Tecnologia |
+| Arcane controller | Controllo Arcano | Psionica |
+| Berserk | Furioso | Psionica |
+| Cooldown Recovery | Riduzione del Tempo di Ricarica | Psionica |
+| Confusion | Confusione | Psionica |
+| Feint | Finta | Psionica |
+| Maximum Effort | Massimo Impegno | Psionica |
+| Mental bond | Legame Mentale | Psionica |
+| Mental riot | Rivolta Mentale | Psionica |
+| Mind patch | Modifica Mentale | Psionica |
+| Phase mirror | Specchio di Fase | Psionica |
+| Phase shift | Sfasamento | Psionica |
+| Psionic blast | Esplosione Psionica | Psionica |
+| Psionic cleansin | Purificazione Psionica | Psionica |
+| Armor Incrustation | Armatura Incrostata | |
 | Vortex Mines | Mine a Vortice | |
-| Psy Abilities | Abilità psichiche |   |
+| Psy Abilities | Abilità psichiche | |
 
 #### Danni e effetti di stato
 
 | Originale | Tradotto | Tipo | Competenza |
-| --- | --- | --- | --- |
-| Burning damage | Danno da ustione | Danno |   |
-| Confused and shaking | Confuso e tremante | Effetto | Psionico |
-| Block melee | Blocca attacchi in mischia | Effetto | Psionico |
-| Block ranged | Blocca attacchi a distanza | Effetto | Psionico |
-| Arcane controller | Sotto Controllo Arcano | Effetto | Psionico |
-| Berseker | Furia omicida | Effetto | Psionico |
-| Phase shift | Sfasamento | Effetto | Psionico |
-| Advanced Phase Shift | Sfasamento avanzato | Effetto | Psionico |
-| Extra shot | Colpo extra | Effetto | Psionico |
-| Precision shot | Colpo preciso | Effetto | Psionico |
-| Phase mirror | Specchio di fase | Effetto | Psionico |
-| Mental bond | Legame mentale | Effetto | Psionico |
-| Mind patched | Mente modificata | Effetto | Psionico |
+| :- | :- | :- | :- |
+| Burning damage | Danno da ustione | Danno | |
+| Confused and shaking | Confuso e tremante | Effetto | Psionica |
+| Block melee | Blocca attacchi in mischia | Effetto | Psionica |
+| Block ranged | Blocca attacchi a distanza | Effetto | Psionica |
+| Arcane controller | SottoControllo Arcano | Effetto | Psionica |
+| Berseker | Furia omicida | Effetto | Psionica |
+| Phase shift | Sfasamento | Effetto | Psionica |
+| Advanced Phase Shift | Sfasamento avanzato | Effetto | Psionica |
+| Extra shot | Colpo extra | Effetto | Psionica |
+| Precision shot | Colpo preciso | Effetto | Psionica |
+| Phase mirror | Specchio di fase | Effetto | Psionica |
+| Mental bond | Legame mentale | Effetto | Psionica |
+| Mind patched | Mente modificata | Effetto | Psionica |
 | Death Mark | Marchio della morte | Effetto | Giramondo |
 | Battle Cry | Grido di battaglia | Effetto | Giramondo |
 | Invisible | Invisibile | Effetto | Giramondo |
 | Protective Field | Scudo Protettivo | Effetto | Giramondo |
 | Supercharged Cloud | Nube Sovraccarica | Effetto | Giramondo |
-| Daze | Stordimento | Effetto |   |
-| Poisoned | Avvelenato | Effetto |   |
-| Burning | Bruciare | Effetto |   |
-| Shocked | Scioccato | Effetto |   |
-| Bleeding | Sanguinamento | Effetto |   |
-| Corroded | Corroso | Effetto |   |
-| Unlimited Counter | Contatore illimitato | Effetto |   |
-| Charge | Carica | Effetto |   |
-| Bury | Sotterrato | Effetto |   |
-| Invisible | Invisibilità | Effetto |   |
-| Mimic | Imitazione | Effetto |   |
-| Ranged Cooldown | Ricarica attacchi a distanza | Effetto |   |
-| Morale Boost | Aumento del morale | Effetto |   |
-| Movement Up | Aumento movimento | Effetto |   |
-| Overwatch | Sorvegliare | Effetto |   |
-| Field Promotion | Promozione sul campo | Effetto |   |
-| Health Drain | Prosciugamento salute | Effetto |   |
-| Damage Up | Aumento danno | Effetto |   |
-| Movement Down | Riduzione movimento | Effetto |   |
-| Defense Up | Aumento difesa | Effetto |   |
-| Clone | Clona | Effetto | Biotico |
-| Blocked Special Ability | Blocca abilità speciale | Effetto |   |
-| Loophole | Scappatoia | Effetto |   |
-| Deflect | **Devia** | Effetto |   |
-| Regenerate | Rigenera | Effetto |   |
-| Hypnotized | Ipnotizzato | Effetto |   |
-| Hacked | Violato | Effetto |   |
-| Force Field | Campo di forza | Effetto | Nerd |
-| Missile lock | Targettizzata | Effetto |   |
-| Transporter psychosis | Psicosi da teletrasporto | Effetto |   |
-| Buried | Sepolto | Effetto |   |
-| Shielded | Schermato | Effetto |   |
-| Battle Arena Morale Boost | Aumento del morale nell'Arena di battaglia | Effetto |   |
-| Split stack | Dividi gruppo | Effetto |   |
+| Daze | Stordimento | Effetto | |
+| Poisoned | Avvelenato | Effetto | |
+| Burning | Bruciare | Effetto | |
+| Shocked | Scioccato | Effetto | |
+| Bleeding | Sanguinamento | Effetto | |
+| Corroded | Corroso | Effetto | |
+| Unlimited Counter | Contatore illimitato | Effetto | |
+| Charge | Carica | Effetto | |
+| Bury | Sotterrato | Effetto | |
+| Invisible | Invisibilità | Effetto | |
+| Mimic | Imitazione | Effetto | |
+| Ranged Cooldown | Ricarica attacchi a distanza | Effetto | |
+| Morale Boost | Aumento del morale | Effetto | |
+| Movement Up | Aumento movimento | Effetto | |
+| Overwatch | Sorvegliare | Effetto | |
+| Field Promotion | Promozione sul campo | Effetto | |
+| Health Drain | Prosciugamento salute | Effetto | |
+| Damage Up | Aumento danno | Effetto | |
+| Movement Down | Riduzione movimento | Effetto | |
+| Defense Up | Aumento difesa | Effetto | |
+| Clone | Clona | Effetto | Biologia |
+| Blocked Special Ability | Blocca abilità speciale | Effetto | |
+| Loophole | Scappatoia | Effetto | |
+| Deflect | Devia | Effetto | |
+| Regenerate | Rigenera | Effetto | |
+| Hypnotized | Ipnotizzato | Effetto | |
+| Hacked | Violato | Effetto | |
+| Force Field | Campo di forza | Effetto | Tecnologia |
+| Missile lock | Targettizzata | Effetto | |
+| Transporter psychosis | Psicosi da teletrasporto | Effetto | |
+| Buried | Sepolto | Effetto | |
+| Shielded | Schermato | Effetto | |
+| Battle Arena Morale Boost | Aumento del morale nell'Arena di battaglia | Effetto | |
+| Split stack | Dividi gruppo | Effetto | |
 
 ### Fazioni
 
-#### Fossoriani
-
-##### Comandanti
-| Originale | Tradotto | Contratto |
-|:-|:-|:-|
-| Major Skaurov | Maggiore Skaurov | Magg. Skaurov |
-| Commissar Snif | Commissario Snif | Comm. Snif |
-| Hak "the Rat" | Hak “il Ratto” | |
-| Agent Molsson | Agente Molsson | Ag. Molsson |
-| Sergeant Moltair / Sgt. Moltair | Sergente Moltair | Serg. Moltair |
-| Tax Collector Tott | Esattore delle Tasse Tott | |
-| Lieutenant Moletoff / Lt. Moletoff | Tenente Moletoff | Ten. Moletoff |
-| Captain Holester / Capt. Holester | Capitano Holester | Cap. Holester |
-| General Truda / Gen. Truda | Generale Truda | Gen. Truda |
-| Bulletproof Beni | Beni “antiproiettile” | |
-| Long Molly | Lunga Molly | |
-| Supreme Leader | Leader Supremo | |
-| Commander Muff / Cmdr. Muff | Comandante Muff | Com. Muff |
-| General Furret / Gen. Furret | Gen. Furret | Gen. Furret |
-| Governor Bokas | Governatore Bokas | Gov. Bokas |
-| Quetin from Moletargis | Quetin da Moletargis | |
+#### Fossoriani \(Moles\)
 
 ##### Unità
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Ratling Goon | Scagnozzo Ratling |
 | Ratling Gunner | Artigliere Ratling |
 | Meatboy | Macellaio |
@@ -477,10 +473,31 @@ Competenze\: fino a un totale di 8.
 | Mass Liberator | Liberatore di Massa |
 | Blast Wave Cannon | Cannone a onda d'urto |
 
-##### Edifici\:
+##### Comandanti
+
+| Originale | Tradotto | Contratto |
+| :--- | :--- | :--- |
+| Major Skaurov | Maggiore Skaurov | Magg\. Skaurov |
+| Commissar Snif | Commissario Snif | Comm\. Snif |
+| Hak "the Rat" | Hak “Il Ratto” |   |
+| Agent Molsson | Agente Molsson | Ag\. Molsson |
+| Sergeant Moltair / Sgt\. Moltair | Sergente Moltair | Serg\. Moltair |
+| Tax Collector Tott | Esattore delle Tasse Tott |   |
+| Lieutenant Moletoff / Lt\. Moletoff | Tenente Moletoff | Ten\. Moletoff |
+| Captain Holester / Capt\. Holester | Capitano Holester | Cap\. Holester |
+| General Truda / Gen\. Truda | Generale Truda | Gen\. Truda |
+| Bulletproof Beni | Beni “Antiproiettile” |   |
+| Long Molly | Lunga Molly |   |
+| Supreme Leader | Leader Supremo |   |
+| Commander Muff / Cmdr\. Muff | Comandante Muff | Com\. Muff |
+| General Furret / Gen\. Furret | Gen\. Furret | Gen\. Furret |
+| Governor Bokas | Governatore Bokas | Gov\. Bokas |
+| Quetin from Moletargis | Quetin da Moletargis |   |
+
+##### Edifici
 
 | Originale | Tradotto |
-| --- | --- |
+| :--- | :--- |
 | Tax Bureau | Ufficio delle imposte |
 | Interior Control Office | Ufficio di controllo interno |
 | Overseer's Office | Ufficio del supervisore |
@@ -492,7 +509,7 @@ Competenze\: fino a un totale di 8.
 | Surface Lookout | Punto di osservazione in superficie |
 | Recycler | Riciclatore |
 | Sweatshop | Fabbrica sfruttamento |
-| Trading Post | Posto di scambio |
+| Trading Post | Stazione di Scambio |
 | Fossorian Stronghold | Roccaforte Fossoriana |
 | Defensive Tower | Torre difensiva |
 | Minefield | Campo minato |
@@ -500,10 +517,10 @@ Competenze\: fino a un totale di 8.
 | Academy | Accademia |
 | Neurolink | Neurolink |
 | Reverse Engineering | Ingegneria inversa |
-| Bio Faculty | Docenza di biologia |
-| Global Faculty of Geography | Facoltà globale di geografia |
-| Psy Faculty | Facoltà di psicologia |
-| Tech Faculty | Facoltà di tecnologia |
+| Bio Faculty | Docenza di Biologia |
+| Global Faculty of Geography | Facoltà Globale di geografia |
+| Psy Faculty | Facoltà di Psionica |
+| Tech Faculty | Facoltà di Tecnologia |
 | Ratling Projects | Progetti Ratling |
 | Ratling Slum | Baraccopoli Ratling |
 | Meatboy Ludus | Meatboy Ludus |
@@ -522,12 +539,12 @@ Competenze\: fino a un totale di 8.
 | Sentries | Sentinelle |
 | Electric Fence | Recinzione elettrica |
 
-#### Fazioni neutrali
+#### Fazioni neutrali \(Neutral\)
 
-##### Oggetti, unità, edifici\:
+##### Oggetti, unità, edifici
 
 | Originale | Tradotto |
-| :--- | :--- |
+| :- | :- |
 | Crystal Lizard | Lucertola di cristallo |
 | Crystal Lizard desert | Lucertola di cristallo desertica |
 | Limerite Collector | Raccoglitore di Limerite |
@@ -564,11 +581,12 @@ Competenze\: fino a un totale di 8.
 | Ratling Troglodyte | Ratling Troglodita |
 | Bullrock | Bullrock |
 
-#### UNSS
+#### UNSS \(Empire\)
 
 ##### Unità
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Volt | Unità Volt |
 | Bolt | Unità Bolt |
 | Veteran Trooper | Soldato Veterano |
@@ -585,8 +603,9 @@ Competenze\: fino a un totale di 8.
 | Ballistic Shield | Scudo Balistico |
 
 ##### Comandanti
+
 | Originale | Tradotto | Contratto |
-|:-|:-|:-|
+| :- | :- | :- |
 | John Smith 7A | John Smith 7A | |
 | Capt. Rao | | Cap. Rao |
 | Navigator Maya | Navigatrice Maya | |
@@ -597,17 +616,17 @@ Competenze\: fino a un totale di 8.
 | Rob "Scotty" | Rob “Scotty” | |
 | Rosie Hart | Rosie Hart | |
 | Kim Procházka | Kim Procházka | |
-| General Takeshi | Generale Takeshi | Gen. Takeshi|
+| General Takeshi | Generale Takeshi | Gen. Takeshi |
 | Admiral Nyota | Ammiraglio Nyota | Amm. Nyota |
 | Major Zolzaya | Maggiore Zolzaya | Magg. Zolzaya |
 | Gahiji Jackson | Gahiji Jackson | |
 | Adela | Adela | |
-| Governor Burke | Governatore Burke | Gov. Burke
+| Governor Burke | Governatore Burke | Gov. Burke |
 
-##### Edifici\:
+##### Edifici
 
 | Originale | Tradotto |
-| --- | --- |
+| :--- | :--- |
 | Reactor Core | Nucleo del reattore |
 | Reactor Circuitry | Circuiti del reattore |
 | Reactor Shell | Involucro del reattore |
@@ -628,10 +647,10 @@ Competenze\: fino a un totale di 8.
 | Research Division | Divisione Ricerca |
 | Subnet | Sottorete |
 | Test Labs | Laboratori di test |
-| Bio Research | Ricerca biologica |
-| Field Research | Ricerca sul campo |
-| Psy Research | Ricerca psionica |
-| Tech Research | Ricerca tecnologica |
+| Bio Research | Ricerca Biologica |
+| Field Research | Ricerca sul Campo |
+| Psy Research | Ricerca Psionica |
+| Tech Research | Ricerca Tecnologica |
 | Battery Cells | Celle di batteria |
 | Recharging Dock | Stazione di ricarica |
 | Ubications | Ubicazioni |
@@ -650,11 +669,13 @@ Competenze\: fino a un totale di 8.
 | Empirical research | Ricerca empirica |
 | Sentries | Sentinelle |
 | Electric Fence | Recinzione elettrica |
-#### Flotta Sovrana
+
+#### Flotta Sovrana \(Pirates\)
 
 ##### Unità
+
 | Originale | Tradotto |
-|:-|:-|
+| :- | :- |
 | Saw-ty | Saw-ty |
 | Saw-ty II | Saw-ty II |
 | Marauder | Predone |
@@ -672,22 +693,160 @@ Competenze\: fino a un totale di 8.
 | Healing station | Stazione di cura |
 
 ##### Comandanti
+
 | Originale | Tradotto | Contratto |
-|:-|:-|:-|
-| Captain Monk | Capitano Monk | Cap. Monk |
-| Captain Borg | Capitano Borg | Cap. Borg |
-| Gran Manny | Grand Manny | |
-| Kali Chapek | Kali Chapek | |
-| Doug Porter | Doug Porter | |
-| Demon Ragna | Demon Ragna | |
-| Captain Pick | Capitano Pick | Cap. Pick |
-| Annika Finch | Annika Finch | |
-| "Winky" Rodgers | "Occhiolino" Rodgers | |
-| Old Viletrax | Old Viletrax | |
-| Professor Zane | Professor Zane | Prof. Zane |
-| #925 | #925 | |
-| Rosalina | Rosalina | |
-| Lenny | Lenny | |
-| #ALFA | #ALFA | |
-| Freddie | Freddie | |
-| Yolande | Yolande | |
+| :--- | :--- | :--- |
+| Captain Monk | Capitano Monk | Cap\. Monk |
+| Captain Borg | Capitano Borg | Cap\. Borg |
+| Gran Manny | Grand Manny |   |
+| Kali Chapek | Kali Chapek |   |
+| Doug Porter | Doug Porter |   |
+| Demon Ragna | Demon Ragna |   |
+| Captain Pick | Capitano Pick | Cap\. Pick |
+| Annika Finch | Annika Finch |   |
+| "Winky" Rodgers | "Occhiolino" Rodgers |   |
+| Old Viletrax | Vecchio Viletrax |   |
+| Professor Zane | Professor Zane | Prof\. Zane |
+| \#925 | \#925 |   |
+| Rosalina | Rosalina |   |
+| Lenny | Lenny |   |
+| \#ALFA | \#ALFA |   |
+| Freddie | Freddie |   |
+| Yolande | Yolande |   |
+
+##### Edifici
+
+| Originale | Tradotto |
+| :--- | :--- |
+| Anchorage | Ancoraggio |
+| Docks | Moli |
+| Harbour | Porto |
+| Haven | Rifugio |
+| Replicator | Replicatore |
+| Teleport | Teletrasporto |
+| A Cushy Cabin | Una cabina confortevole |
+| Space Bar | Spazio/bar |
+| Crow's Nest | Nido di corvo |
+| Recycler | Riciclatore |
+| Workshop | Officina |
+| Bazaar | Bazar |
+| Hull Plating | Placcatura dello scafo |
+| Defense Posts | Postazioni difensive |
+| Minefield | Campo minato |
+| Turrets | Torrette |
+| Foundation | Fondazione |
+| Neurolink | Neurolink |
+| Patronage | Mecenatismo |
+| Biolab | Bio\-laboratorio |
+| Explorers Club | Club dei Giramondo |
+| Psychers Den | Tana degli Psionici |
+| Techlab | Laboratorio tecnologico |
+| Saw\-ty Workroom | Laboratorio Saw\-ty |
+| Saw\-ty Assembly line | Catena di montaggio Saw\-ty |
+| Tox Cabines | Cabine tossiche |
+| Acid Containers | Contenitori per acidi |
+| Mortar Shop | Negozio di mortai |
+| Mortar School | Scuola di mortai |
+| Scorched Holds | Stive Bruciate |
+| Scorched Halls | Sale bruciate |
+| Snipers Tent | Tenda dei cecchini |
+| Snipers Nest | Nido del cecchino |
+| Cable Room | Sala cavi |
+| Powerplant | Centrale elettrica |
+| Antimat Garage | Garage antimateria |
+| Antimat Hangar | Hangar antimateria |
+| Sovereign Fleet Banner | Stendardo della Flotta Sovrana |
+| Sentries | Sentinelle |
+| Electric Fence | Recinzione elettrica |
+
+#### Figli della Fonte \(Crusaders\)
+
+##### Unità
+
+| Originale | Tradotto |
+| :--- | :--- |
+| Custodian Novice | Custode Novizio |
+| Custodian Cleric | Chierico Custode |
+| Temple Guard | Guardia del Tempio |
+| Templar Warrior | Guerriero del Tempio |
+| The Bright One | Il Lucente |
+| The Blazing One | Il Fiammeggiante |
+| Knight | Cavaliere |
+| Knight Champion | Cavaliere Campione |
+| Zieregal | Zieregal |
+| High Zieregal | Alto Zieregal |
+| Spitfire | Sputafuoco |
+| Spitfire Zealot | Zelota Sputafuoco |
+| Acheron | Acheronte |
+| Blessed Acheron | Acheronte Benedetto |
+| Intruder shield | Scudo anti\-intrusione |
+
+##### Comandanti
+
+| Originale | Tradotto | Contratto |
+| :--- | :--- | :--- |
+| Roalan "The Oathbreaker" | Roalan “Il Traditore” |   |
+| Balinor "The Outcast" | Balinor “Il Reietto” |   |
+| Godray "The Warmonger" | Godray “Il Guerrafondaio” |   |
+| Morehat "The Inflamator" | Morehat “L'Infiammatore” |   |
+| Cloki "The Advisor" | Cloki “Il Consulente” |   |
+| Rishard "The Adventurer" | Rishard “L’Avventuriero” |   |
+| Galwain "The Lorekeeper" | Galwain “Il Custode del Sapere” |   |
+| Igdraine "The Sailor" | Igdraine “Il Marinaio” |   |
+| Hierarch | Hierarch | Tin |
+| Keeper | Keeper |   |
+| Tirstin "The Scholar" | Tirstin cLo Studioso” |   |
+| Artar "The Swordmaster" | Artar “Il Maestro di Spade” |   |
+| Kaey "The Valiant" | Kaey “Il Valoroso” |   |
+| Palatin "The Ressurector" | Palatin “Il Risuscitatore” |   |
+| Viktar "The Purifier" | Viktar “Il Purificatore” |   |
+| Princess | Princess |   |
+| Grand Zieregal | Grand Zieregal |   |
+| Arthur |   |   |
+
+##### Edifici
+
+| Originale | Tradotto |
+| :--- | :--- |
+| Omnimadre's Shrine | Santuario dell'Omnimadre |
+| Omnimadre's Temple | Tempio dell'Omnimadre |
+| Omnimadre's Cathedral | Cattedrale dell'Omnimadre |
+| Omnimadre's Crown | Corona dell'Omnimadre |
+| Replicator | Replicatore |
+| Gateway | Portale |
+| Cellars | Sotterranei |
+| Bath House | Terme |
+| Altar of Purity | Altare della Purezza |
+| Recycler | Riclicatore |
+| Factory | Fabbrica |
+| Trading Post | Stazione di Scambio |
+| Citadel | Cittadella |
+| Tower | Torre |
+| Minefield | Campo Minato |
+| Turrets | Torrette |
+| Ossuary | Ossario |
+| Grand Library | Grande Biblioteca |
+| Feathered Antennae | Antenne Piumate |
+| Great Archive | Grande Archivio |
+| Library of Organics | Biblioteca degli Organici |
+| Library of Geography | Biblioteca della Geografia |
+| Library of Indefinite Studies | Biblioteca degli Studi Indefiniti |
+| Library of Technology | Biblioteca della Tecnologia |
+| Custodians Tents | Tende dei Custodi |
+| Cleric Tents | Tenda dei Chierici |
+| Temple Guardpost | Avamposto di Guardia del Tempio |
+| Temple Barracks | Caserma del Tempio |
+| Bright Nest | Nido Lucente |
+| Blazing Hive | Alveare Fiammeggiante |
+| Tower of Principle | Torre del Principio |
+| Tower of Faith | Torre della Fede |
+| Windowless Fort | Porta senza Finestre |
+| Windowless Keep | Fortezza senza Finestre |
+| Spitfire Maze | Labirinto degli Sputafuoco |
+| Spitfire Dungeon | Sotterraneo degli Sputafuoco |
+| Portal | Portale |
+| Ascended Portal | Portale degli Ascesi |
+| Omnimadre's Statue | Statua di Omnimadre |
+| Sentries | Sentinelle |
+| Electric Fence | Recinzione elettrica |
+| Consumable Market | Mercato dei Consumabili |
