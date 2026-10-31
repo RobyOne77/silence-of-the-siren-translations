@@ -4,35 +4,35 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
             <!--OBJECTIVES MAIN QUESTS-->
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_STARTIN_LVL2</LocID>                    <Text>Speak to the High Zieregal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_STARTIN_LVL2</LocID>                    <Text>Parlare con Grand Zieregal</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_BASE_GATE</LocID>                  <Text>Visit the nearby base</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_BASE_GATE_DONE</LocID>             <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Visit the nearby base - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_BASE_GATE</LocID>                  <Text>Visitare la base nelle vicinanze</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_BASE_GATE_DONE</LocID>             <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Visitare la base nelle vicinanze - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_GET_TO_FORTRESS</LocID>            <Text>Get to the Zieregals's fortress</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_GET_TO_FORTRESS</LocID>            <Text>Raggiungere la fortezza degli Zieregal</Text>  </GameDBLocalizedString>
            
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_DEFEAT_PIRATES</LocID>             <Text>Defeat the Pirates</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_DEFEAT_PIRATES</LocID>             <Text>Sconfiggere la Flotta Sovrana</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_SAVE_TIN</LocID>                   <Text>Save Tin in orbit</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_SAVE_TIN</LocID>                   <Text>Salvare Tin in orbita</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_RAM_GATE</LocID>                   <Text><![CDATA[Ram the gate <color=SOTS_COLOR_RED>with Princess</color> ]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_RAM_GATE_DONE</LocID>              <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Ram the gate with Princess - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_RAM_GATE</LocID>                   <Text><![CDATA[Sfondare il portale <color=SOTS_COLOR_RED>con Princess</color> ]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_RAM_GATE_DONE</LocID>              <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Sfondare il portale con Princess - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_GET_TO_FORTRESS_TELEP</LocID>      <Text>Use teleport in the Zieregal fortress</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_GET_TO_FORTRESS_TELEP_DONE</LocID> <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Use teleport in Zieregals' fortress - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_GET_TO_FORTRESS_TELEP</LocID>      <Text>Usare il teletrasporto nella fortezza di Zieregal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_GET_TO_FORTRESS_TELEP_DONE</LocID> <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Usare il teletrasporto nella fortezza di Zieregal - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_CAPTURE_BASES_01</LocID>           <Text>Capture enemy bases 0/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_CAPTURE_BASES_02</LocID>           <Text>Capture enemy bases 1/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_CAPTURE_BASES_DONE</LocID>         <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Capture enemy bases 2/2 - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_CAPTURE_BASES_01</LocID>           <Text>Conquistare le basi nemiche 0/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_CAPTURE_BASES_02</LocID>           <Text>Conquistare le basi nemiche 1/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_CAPTURE_BASES_DONE</LocID>         <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Conquistare le basi nemiche 2/2 - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_DEFEAT_ZIEREGAL</LocID>            <Text>Defeat the Grand Zieregal</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL2_DEFEAT_ZIEREGAL</LocID>            <Text>Sconfiggere Grand Zieregal</Text>  </GameDBLocalizedString>
 
 
             <!--DIALOGUES-->
@@ -102,8 +102,8 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_PRINCESS_2</LocID>    <Text>OH ... BIG ... DEAL! We can leave some crew behind. They will get Chiquita ready while we search for Arthur, the human that send us the message.   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_VIKTAR_3</LocID>      <Text>And that's another thing! The Princess is heading into another trap headfirst! What's worse, she is dragging me with her! Arthur is a human ... </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_PRINCESS_3</LocID>    <Text>GERGIE-LARH, ANNIKA WAS ALSO HUMAN! ... END OF DISCUSSION, SERVANT!  </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_PRINCESS_4</LocID>    <Text>... Sorry, Viky! Damn, I'm not like that at all! It's like the Allmother was speaking! </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_VIKTAR_4</LocID>      <Text>Maybe you should become more like her. According to legends, the Allmother was able to take ships down from the sky with a single word. You could command Chiquita to pull herself out of the mud.   </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_PRINCESS_4</LocID>    <Text>... Sorry, Viky! Damn, I'm not like that at all! It's like the Omnimadre was speaking! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_VIKTAR_4</LocID>      <Text>Maybe you should become more like her. According to legends, the Omnimadre was able to take ships down from the sky with a single word. You could command Chiquita to pull herself out of the mud.   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_START_PRINCESS_5</LocID>    <Text>You don't know what you're talking about. Let's go, Arthur is waiting inside the base we spotted before landing.   </Text>  </GameDBLocalizedString>
 
             <!--Message that is tied to event that stops Princess or Viky if they venture in wrong direction --> 
@@ -135,7 +135,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_FAR_PLAN_VIKTAR_1</LocID>            <Text>Is the Princess about to try the verses on that shipwreck, holding lord Hierarch?</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_FAR_PLAN_GILEAS_3</LocID>            <Text>Verses? That will not work; she lost her sensorium because of the crash. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_FAR_PLAN_PRINCESS_3</LocID>          <Text>Then I am afraid I'll have to hit her really hard!  </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_FAR_PLAN_VIKTAR_2</LocID>            <Text>[SIGHS] Allmother help us!  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_FAR_PLAN_VIKTAR_2</LocID>            <Text>[SIGHS] Omnimadre help us!  </Text>  </GameDBLocalizedString>
   
             <!-- Princess and Viktar advancing towards lands controlled by Grand Zieregal  -->                                         
            
@@ -151,9 +151,9 @@
            
            
             <!--princess and Grand Zieregal meats near the gate. Princess will successfully open the gate by her psionic abilities  -->
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_ZIEREGAL_1</LocID>  <Text>Abominable imposter of the Allmother! So much running around, and the gate is still shut! You pale in comparison with your ideal.    </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_ZIEREGAL_1</LocID>  <Text>Abominable imposter of the Omnimadre! So much running around, and the gate is still shut! You pale in comparison with your ideal.    </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_PRINCESS_1</LocID>  <Text>Blah, blah! I bet she was a blast. But if I took a leaf from her book, you would all regret it. Lucky for you, there is no need today.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_ZIEREGAL_2</LocID>  <Text>Allmother's tears!  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_ZIEREGAL_2</LocID>  <Text>Omnimadre's tears!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_PRINCESS_2</LocID>  <Text>Now, let Tin go ... \n... or I'll crush you like a worm! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_ZIEREGAL_3</LocID>  <Text>This is not the place I have chosen to meet my fate! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_PRINCESS_AT_GATE_GILEAS_1</LocID>    <Text>You let him go in favour of meeting him upon a field of valor, instead of simply crushing him with your powers! You chose the way of honor! </Text>  </GameDBLocalizedString>
@@ -179,13 +179,13 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_VIKTAR_3</LocID>            <Text>It is not working! I cannot just watch! My lord, I will help you or perish in charge!    </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_PRINCESS_4</LocID>          <Text>Stop Viktar, you were not built to be a warrior! Your body can't handle the pressure!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_SHIP_2</LocID>              <Text>THE FIRST ONE IS STRONG, BUT THIS, I WILL BREAK LIKE A THIN SHEET OF GLASS!   </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_PRINCESS_5</LocID>          <Text>There is no other way! I must let the Allmother within me take the wheel!     </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_PRINCESS_5</LocID>          <Text>There is no other way! I must let the Omnimadre within me take the wheel!     </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_PRINCESS_6</LocID>          <Text>LET THEM GO, YOU BITCH!    </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_TIN_1</LocID>               <Text>What happened? I don't feel the ship's grasp anymore!   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_PRINCESS_7</LocID>          <Text>I think I've used too much power ... I was scared ...    </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_SHIP_3</LocID>              <Text>I FELT THAT KIND OF POWER ONLY ONCE BEFORE ... ALLMOTHER ... YOU HAVE RETURNED ... TO FREE ME ... FROM MY BROKEN BODY.   </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_SHIP_3</LocID>              <Text>I FELT THAT KIND OF POWER ONLY ONCE BEFORE ... OMNIMADRE ... YOU HAVE RETURNED ... TO FREE ME ... FROM MY BROKEN BODY.   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_PRINCESS_8</LocID>          <Text>I am sorry! I am ...  </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_SHIP_4</LocID>              <Text>I AM GLAD ... FOR THAT LAST GLIMPSE OF YOU ... ALLMOTHER ... I CAN GO NOW ... MY FALLEN SISTERS AWAIT. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_SHIP_4</LocID>              <Text>I AM GLAD ... FOR THAT LAST GLIMPSE OF YOU ... OMNIMADRE ... I CAN GO NOW ... MY FALLEN SISTERS AWAIT. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_PRINCESS_9</LocID>          <Text>No, no, no ... I ... I think ... I killed her!   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_SHIP_TWO_ZIEREGAL_1</LocID>          <Text>The ship is dead. But while I hold my sword, I am not bested. I can see how much the last strike has depleted your powers, so it will be a fair fight for a change. </Text>  </GameDBLocalizedString>
 
@@ -195,13 +195,13 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_TIN_1</LocID>            <Text>Once more, Grand Zieregal. Why?  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_3</LocID>       <Text>Because your Princess knows the Litany!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_TIN_3</LocID>            <Text>What do you mean, Grand Zieregal? Speak!   </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_5</LocID>       <Text>The day we conquered this system, nearly the entire fleet was destroyed by the broadcast of the Litany! That's why the Children spent centuries finding and killing the Allmother's impostors!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_5</LocID>       <Text>The day we conquered this system, nearly the entire fleet was destroyed by the broadcast of the Litany! That's why the Children spent centuries finding and killing the Omnimadre's impostors!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_TIN_4</LocID>            <Text>He wants to turn you against me, don't you see?!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_6</LocID>       <Text>Only the clones of the Allmother knew the verses that can force the ships to do anything. Even to crush themselves!  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_6</LocID>       <Text>Only the clones of the Omnimadre knew the verses that can force the ships to do anything. Even to crush themselves!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_2</LocID>       <Text>I WAS IN HIBERNATION!   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_7</LocID>       <Text>She is the siren that lured our fleet to its demise!   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_3</LocID>       <Text>THAT'S A LIE!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_8</LocID>       <Text>The Allmother enslaved entire star systems! You crave the same! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_8</LocID>       <Text>The Omnimadre enslaved entire star systems! You crave the same! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_4</LocID>       <Text>BE QUIET! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_ZIEREGAL_9</LocID>       <Text>Entire species, forced to join her cyborg army! Planets burned in Allmoter's name! YOUR NAME!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_5</LocID>       <Text>SHUT UP! </Text>  </GameDBLocalizedString>
@@ -211,7 +211,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_GILEAS_1</LocID>         <Text>My honor commands me to tell the Children what I've witnessed ... Will you silence me, too?  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_7</LocID>       <Text>Of course not, I will not hurt you, Arthur! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_GILEAS_2</LocID>         <Text>Farewell ... for now.   </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_8</LocID>       <Text>But you two believe me, right? Maybe the Allmother was a monster, but I am not her!  </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_8</LocID>       <Text>But you two believe me, right? Maybe the Omnimadre was a monster, but I am not her!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_VIKTAR_1</LocID>         <Text>I have always believed you, always.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_TIN_6</LocID>            <Text>Me too, but some of the Zieregals' words bore a seed of truth ...    </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL2_ZIEREGAL_AF_PRINCESS_9</LocID>       <Text>So you think I'm responsible for ...   </Text>  </GameDBLocalizedString>

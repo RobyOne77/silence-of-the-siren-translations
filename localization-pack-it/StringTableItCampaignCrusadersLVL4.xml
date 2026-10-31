@@ -9,48 +9,48 @@
 
         <LocalizedStrings>
             <!--OBJECTIVES MAIN QUESTS-->
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_START_LVL4</LocID>                      <Text>Lure the UNSS fleet</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_START_LVL4</LocID>                      <Text>Attirare la flotta dell’UNSS</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_1</LocID>               <Text>Occupy the nearby bases 0/4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_2</LocID>               <Text>Occupy the nearby bases 1/4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_3</LocID>               <Text>Occupy the nearby bases 2/4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_4</LocID>               <Text>Occupy the nearby bases 3/4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_DONE</LocID>            <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Occupy the nearby bases 4/4 - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_1</LocID>               <Text>Occupare le basi vicine 0/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_2</LocID>               <Text>Occupare le basi vicine 1/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_3</LocID>               <Text>Occupare le basi vicine 2/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_4</LocID>               <Text>Occupare le basi vicine 3/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CRUS_BASES_DONE</LocID>            <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Occupare le basi vicine 4/4 - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_1</LocID>                    <Text>Get resources 0/3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_2</LocID>                    <Text>Get resources 1/3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_3</LocID>                    <Text>Get resources 2/3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_DONE</LocID>                 <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Get resources 3/3 - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_1</LocID>                    <Text>Ottenere risorse 0/3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_2</LocID>                    <Text>Ottenere risorse 1/3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_3</LocID>                    <Text>Ottenere risorse 2/3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_STASH_DONE</LocID>                 <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Ottenere risorse 3/3 - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CROSS_BRIDGE</LocID>               <Text>Cross the bridge</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CROSS_BRIDGE_DONE</LocID>          <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Cross the bridge - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CROSS_BRIDGE</LocID>               <Text>Attraversare il ponte</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_CROSS_BRIDGE_DONE</LocID>          <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Attraversare il ponte - Concluso</color>]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_REPAIR_TELEPORT</LocID>            <Text><![CDATA[Repair the teleport <color=SOTS_COLOR_RED>with the Princess</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_REPAIR_TELEPORT_DONE</LocID>       <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Repair the teleport with the Princess - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_REPAIR_TELEPORT</LocID>            <Text><![CDATA[Riparare il teletrasporto <color=SOTS_COLOR_RED>con Princess</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_REPAIR_TELEPORT_DONE</LocID>       <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Riparare il teletrasporto con Princess - Concluso</color>]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_OPEN_BRIDGE</LocID>                <Text><![CDATA[Open the bridge <color=SOTS_COLOR_RED>with the Princess</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_OPEN_BRIDGE_DONE</LocID>           <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Open the bridge with the Princess - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_OPEN_BRIDGE</LocID>                <Text><![CDATA[Aprire il ponte <color=SOTS_COLOR_RED>con Princess</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_OPEN_BRIDGE_DONE</LocID>           <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Aprire il ponte con Princess - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_BASES_1</LocID>                 <Text>Seize the mercenary bases 0/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_BASES_2</LocID>                 <Text>Seize the mercenary bases 1/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_BASES_DONE</LocID>              <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Seize the mercenary bases 2/2 - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_BASES_1</LocID>                 <Text>Conquistare le basi dei mercenari 0/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_BASES_2</LocID>                 <Text>Conquistare le basi dei mercenari 1/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_BASES_DONE</LocID>              <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Conquistare le basi dei mercenari 2/2 - Concluso</color>]]></Text>  </GameDBLocalizedString>
            
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_MERCHS_1</LocID>                <Text>Defeat the mercenaries 0/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_MERCHS_2</LocID>                <Text>Defeat the mercenaries 1/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_MERCHS_DONE</LocID>             <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Defeat the mercenaries 2/2 - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_MERCHS_1</LocID>                <Text>Sconfiggere i mercenari 0/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_MERCHS_2</LocID>                <Text>Sconfiggere i mercenari 1/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_SF_MERCHS_DONE</LocID>             <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Sconfiggere i mercenari 2/2 - Concluso</color>]]></Text>  </GameDBLocalizedString>
   
           
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_RAM_GATE</LocID>                   <Text><![CDATA[Ram the gate <color=SOTS_COLOR_RED>with the Princess</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_RAM_GATE_DONE</LocID>              <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Ram the gate with the Princess - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_RAM_GATE</LocID>                   <Text><![CDATA[Sfondare il portale<color=SOTS_COLOR_RED>con Princess</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_RAM_GATE_DONE</LocID>              <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Sfondare il portale con Princess - Concluso</color>]]></Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_1</LocID>               <Text>Capture the UNSS bases 0/4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_2</LocID>               <Text>Capture the UNSS bases 1/4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_3</LocID>               <Text>Capture the UNSS bases 2/4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_4</LocID>               <Text>Capture the UNSS bases 3/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_1</LocID>               <Text>Conquistare le basi dell'UNSS 0/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_2</LocID>               <Text>Conquistare le basi dell'UNSS 1/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_3</LocID>               <Text>Conquistare le basi dell'UNSS 2/4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_UNSS_BASES_4</LocID>               <Text>Conquistare le basi dell'UNSS 3/4</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_GET_TO_SHIP</LocID>                <Text><![CDATA[<color=SOTS_COLOR_RED>Get the Princess to the ship Bright Star - remaining turn(s):</color>]]></Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_GET_TO_SHIP_DONE</LocID>           <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Get the Princess to the ship Bright Star - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_GET_TO_SHIP</LocID>                <Text><![CDATA[<color=SOTS_COLOR_RED>Porta Princess sulla nave Stella Lucente - turno/i rimanenti:</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL4_GET_TO_SHIP_DONE</LocID>           <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Porta Princess sulla nave Stella Lucente - Concluso</color>]]></Text>  </GameDBLocalizedString>
             
             <!--DIALOGUES-->
             <!--The heroes arrive and orbit the Sirena. The main base of the princess’s evil sister lies on the surface. They are standing next to the ancient battleship Bright Star.   -->
@@ -63,7 +63,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_ANGAEDE_1</LocID>              <Text>... AND I WILL USE MY CONNECTION WITH UNSS SHIPS TO BROADCAST THE PRINCESS' VOICE BEARING THE WORDS OF LITANY.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_TIN_1</LocID>                  <Text>With the UNSS fleet in our grasp, we can give them a taste of their own medicine! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_PRINCESS_2.5</LocID>           <Text>I'm pretty sure even my sister cannot survive orbital bombardment. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_GILEAS_1</LocID>               <Text>But why act so soon? The Words of Bright Star convict the Grand Zieregal of the crimes he was blaming on the Princess and other clones of the Allmother. When the Children hear the truth, they will come to join just as I did. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_GILEAS_1</LocID>               <Text>But why act so soon? The Words of Bright Star convict the Grand Zieregal of the crimes he was blaming on the Princess and other clones of the Omnimadre. When the Children hear the truth, they will come to join just as I did. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_PRINCESS_3</LocID>             <Text>When my sister learns about Bright Star, she will try to steal her the same way we plan to steal the UNSS fleet. We must attack now! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_VIKTAR_3</LocID>               <Text>So why, Princess, have you let us disembark while still in orbit?   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_START_TIN_2</LocID>                  <Text>During the Holy War, even orbit was a battlefield, and after all that time, the bases are still here, so we get some time to prepare. Once we advance to the ground, we'll be discovered.</Text>  </GameDBLocalizedString>
@@ -251,9 +251,9 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_4_RELIC_5</LocID>                <Text>WHY DO YOU THINK I STOPPED USING THE GATE STATION OR DESTROYED ALL OUR SISTERS? TO MAKE THIS SYSTEM INVISIBLE AGAIN! THEN YOU CAME AND BEGAN TO DO THE OPPOSITE!   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_4_PRINCESS_5</LocID>             <Text>I do not believe you. </Text>  </GameDBLocalizedString>
             
-               <!--Princess wins, but her sister decides to use her psionic powers even though this will attract the unwanted attention of the other Allmothers clones in different solar systems.-->  
+               <!--Princess wins, but her sister decides to use her psionic powers even though this will attract the unwanted attention of the other OMNIMADREs clones in different solar systems.-->  
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_5_PRINCESS_1</LocID>             <Text>You are defeated!  </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_5_RELIC_1</LocID>                <Text>ONLY MY ARMY. BUT THE ALLMOTHER IN ME WOULD RATHER INVITE THE WHOLE UNIVERSE HERE THAN GIVE UP MY RULE TO YOU! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_5_RELIC_1</LocID>                <Text>ONLY MY ARMY. BUT THE OMNIMADRE IN ME WOULD RATHER INVITE THE WHOLE UNIVERSE HERE THAN GIVE UP MY RULE TO YOU! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_5_RELIC_2</LocID>                <Text>DIE!</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_5_PRINCESS_2</LocID>             <Text>So be it!</Text>  </GameDBLocalizedString>
             
@@ -262,7 +262,7 @@
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_PRINCESS_1</LocID>               <Text>YES, she's supposed to be my sister's last attempt to defeat me without using her powers. She wanted to hide this system from the rest my kind.   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_TIN_2</LocID>                    <Text>But you used your powers! I have seen the blast! I ... I do not understand!   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_PRINCESS_2</LocID>               <Text>I will explain. But I am worried, my victory will bring us only a short moment of peace. If my kind comes, we have to be prepared. We will need this system unified.   </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_TIN_3</LocID>                    <Text>You're thinking of accepting your legacy! Embracing the Allmother in you?   </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_TIN_3</LocID>                    <Text>You're thinking of accepting your legacy! Embracing the Omnimadre in you?   </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL4_END_PRINCESS_3</LocID>               <Text>Not now, but I fear that soon there will be no other choice.</Text>  </GameDBLocalizedString>
             
       <!--      BEFORE/AFTER FIGHT QUOTES-->

@@ -4,41 +4,41 @@
         <LanguageRef>LANG_IT</LanguageRef>
 
         <Contributors>
-            <!-- translators: add one <Name>Your name</Name> line per contributor -->
+            <Name>Roberto Natta</Name>
         </Contributors>
 
         <LocalizedStrings>
             <!--OBJECTIVES MAIN QUESTS-->
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_START_LVL1</LocID>                      <Text>Ambush Annika's prison transport</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_START_LVL1</LocID>                      <Text>Tendere un'imboscata al convoglio di trasporto detenuti di Annika</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_GET_TO_FORTRESS</LocID>            <Text>Get to the Primal fortress</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_GET_TO_FORTRESS_DONE</LocID>       <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Get to the Primals´ fortress - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_GET_TO_FORTRESS</LocID>            <Text>Raggiungere la fortezza dei Primordiali</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_GET_TO_FORTRESS_DONE</LocID>       <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Raggiungere la fortezza dei Primordiali - Concluso</color>]]></Text>  </GameDBLocalizedString>
            
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_OPEN_GATES_1</LocID>               <Text>Open the gates 0/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_OPEN_GATES_2</LocID>               <Text>Open the gates 1/2 </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_OPEN_GATES_1</LocID>               <Text>Aprire le porte 0/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_OPEN_GATES_2</LocID>               <Text>Aprire le porte 1/2 </Text>  </GameDBLocalizedString>
            
            
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DEFEAT_TRANSPORT</LocID>           <Text>Ambush the transport</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DEFEAT_TRANSPORT_DONE</LocID>      <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Ambush the transport - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DEFEAT_TRANSPORT</LocID>           <Text>Tendere un’imboscata al mezzo di trasporto</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DEFEAT_TRANSPORT_DONE</LocID>      <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Tendere un’imboscata al mezzo di trasporto - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_HIERARCH_BACK</LocID>              <Text>Survive till Tin's arrival - remaining turn(s):</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_HIERARCH_BACK_DONE</LocID>          <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Survive till Tin's arrival - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_HIERARCH_BACK</LocID>              <Text>Sopravvivere fino all'arrivo di Tin - Turno/i rimanenti:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_HIERARCH_BACK_DONE</LocID>          <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Sopravvivere fino all'arrivo di Tin - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_CATCH_MOORE</LocID>                <Text>Catch Dr. Brown 9B in one of the UNSS bases</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_CATCH_MOORE</LocID>                <Text>Incontrare il Dr. Brown 9B in una delle basi dell’UNSS</Text>  </GameDBLocalizedString>
           
             <!--Subquests-->
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DISCOVER_ENTRANCE_1</LocID>        <Text>Find teleport entrances 0/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DISCOVER_ENTRANCE_2</LocID>        <Text>Find teleport entrances 1/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DISCOVER_ENTRANCE_DONE</LocID>     <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Find teleport entrances 2/2 - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DISCOVER_ENTRANCE_1</LocID>        <Text>Trovare gli ingressi dei teletrasporti 0/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DISCOVER_ENTRANCE_2</LocID>        <Text>Trovare gli ingressi dei teletrasporti 1/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DISCOVER_ENTRANCE_DONE</LocID>     <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Trovare gli ingressi dei teletrasporti 2/2 - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_WATCHTOWERS_1</LocID>              <Text>Capture the watchtowers 0/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_WATCHTOWERS_2</LocID>              <Text>Capture the watchtowers 1/2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_WATCHTOWERS_DONE</LocID>           <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Capture the watchtowers 2/2 - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_WATCHTOWERS_1</LocID>              <Text>Conquistare le torri di guardia 0/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_WATCHTOWERS_2</LocID>              <Text>Conquistare le torri di guardia 1/2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_WATCHTOWERS_DONE</LocID>           <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Conquistare le torri di guardia 2/2 - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_ABANDON_BASE</LocID>               <Text>Capture the abandoned base</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_ABANDON_BASE_DONE</LocID>          <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Capture the abandoned base - Finished</color>]]></Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_ABANDON_BASE</LocID>               <Text>Conquistare la base abbandonata</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_ABANDON_BASE_DONE</LocID>          <Text><![CDATA[<color=SOTS_COLOR_MOVEMENT>Conquistare la base abbandonata - Concluso</color>]]></Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DEFEAT_BROWN</LocID>               <Text>Defeat Dr. Brown 9B</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>OBJECTIVE_CAMPAIGN_CRUSADERS_LVL1_DEFEAT_BROWN</LocID>               <Text>Sconfiggere il Dr. Brown 9B</Text>  </GameDBLocalizedString>
 
             <!--DIALOGUES-->
             <!--OMNIUSABLES-->
@@ -48,7 +48,7 @@
             <!--Start dialogue -->   
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_START_NARRATOR_1</LocID>             <Text>Border regions - the lands outside the control of any major faction.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_START_PRINCESS_1</LocID>             <Text>What if Annika is still alive, Viki!? Listen, we have to ambush the prison transport! I know, Tin should be back soon, but what if he doesn't make it in time?</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_START_VIKTAR_1</LocID>               <Text>Annika Finch is dead, and Allmother consumed her soul. Princess should be happy for her, but she is not listening to me! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_START_VIKTAR_1</LocID>               <Text>Annika Finch is dead, and Omnimadre consumed her soul. Princess should be happy for her, but she is not listening to me! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_START_PRINCESS_2</LocID>             <Text>The Primal Fortress, that the transport will have to go through, is just a stone's throw away. Come on! Tin would not hesitate for a second! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_START_VIKTAR_2</LocID>               <Text>But Tin, I mean lord Hierarch, has centuries of combat experience! All I can offer is centuries of floor sweeping. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_START_PRINCESS_3</LocID>             <Text>I can help you fight! After all, Tin always says I am the most dangerous being in this System!</Text>  </GameDBLocalizedString>
@@ -82,7 +82,7 @@
             <!--Princess opens first bridge-->
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_BRIDGE_OPEN_VIKTAR_1</LocID>         <Text>The light bridge to the old fortress has been disabled. We must wait for lord Hierarch and the Chiquita to return. </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_BRIDGE_OPEN_PRINCESS_1</LocID>       <Text>We do not need Tin or his ship. Now, watch this paperweight perform some "magic"! </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_BRIDGE_OPEN_VIKTAR_2</LocID>         <Text>Where are the god rays? Where is the smoke, I ask?! All of Allmother's miracles in the holy books... </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_BRIDGE_OPEN_VIKTAR_2</LocID>         <Text>Where are the god rays? Where is the smoke, I ask?! All of Omnimadre's miracles in the holy books... </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_BRIDGE_OPEN_PRINCESS_2</LocID>       <Text>Bah! Smoke and mirrors! A feeble parlour trick way to enchant simpletons.</Text>  </GameDBLocalizedString>
 
             <!--Princess describing Primals fortress and setting plan -->
@@ -224,14 +224,14 @@
            
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_NARRATOR_1</LocID>          <Text>Later, when we're safely in high orbit.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_PRINCESS_1</LocID>          <Text>Tin, Tin! My metamorphosis is complete! Look at my new body! It is so beautiful and strong! The Grand Zieregal will fall on his ass when he sees me!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_TIN_1</LocID>               <Text>He would indeed! You look like a statue of Allmother! </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_TIN_1</LocID>               <Text>He would indeed! You look like a statue of Omnimadre! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_PRINCESS_2</LocID>          <Text>What do you mean by "would"? I am going with you! I am ready now!  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_TIN_2</LocID>               <Text>It is too dangerous! I am going alone.  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_PRINCESS_3</LocID>          <Text>DANGEROUS?! YOU HAVE NO IDEA HOW DANGEROUS I AM! I CAN BEAT MY SISTER NOW! I CAN CRUSH YOU LIKE A CHEAP TOY, YOU FOOL! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_PRINCESS_4</LocID>          <Text>No! I am sorry! I don't know what has gotten into me! </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_TIN_3</LocID>               <Text>... I already lost Annika, I will not lose you, too. Now get into the ship, we are leaving.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_TIN_4</LocID>               <Text>Did you hear that?</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_VIKTAR_1</LocID>            <Text>For the first time, she sounded like the Allmother from the old texts ... all the anger and power. One day, the Children will follow her blindly. Even I got the shivers for a moment ... </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_VIKTAR_1</LocID>            <Text>For the first time, she sounded like the Omnimadre from the old texts ... all the anger and power. One day, the Children will follow her blindly. Even I got the shivers for a moment ... </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_TIN_5</LocID>               <Text>But for now, she fears to take that path ... keep her safe, Viktar.  </Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>         <LocID>MESSAGE_CAMPAIGN_CRUSADERS_LVL1_END_PT_2_VIKTAR_2</LocID>            <Text>I will. </Text>  </GameDBLocalizedString>
 
